@@ -7,7 +7,7 @@ using namespace std;
 int main(){
     int dd, mm, aa, serie, secuencia, referencia;
     char cliente[10], doc, car;
-    double monto, total_facturas = 0, totas_nc = 0;
+    double monto, total_facturas = 0, total_nc = 0, saldo_final = 0;
 
     cout<<"REGISTRO DE VENTAS"<<endl;
     ImprimirLinea('=', MAX_CAR_LIN);
@@ -27,6 +27,7 @@ int main(){
         cin>>monto>>referencia;
 
         if (doc=='F') total_facturas += monto;
+        else total_nc += monto;
 
         cout<<right<<setfill('0')<<setw(2)<<dd<<'/'<<setw(2)<<mm<<'/'<<aa
             <<setfill(' ');
@@ -46,10 +47,16 @@ int main(){
         cout<<setw(12);
 
         if (doc=='F') cout<<" "; else cout<<monto;
-        cout<<setfill(' ')<<setw(5)<<" "
-            <<setfill('0')<<setw(5)<<referencia<<setfill(' ');
+        cout<<setfill(' ')<<setw(5)<<" "<<setfill('0')<<setw(5)<<referencia
+        <<setfill(' ');
 
         cout<<endl;
     }
+    ImprimirLinea('=', MAX_CAR_LIN);
+    saldo_final = total_facturas - total_nc;
+
+    cout<<left<<setw(62)<<"RESUMEN:"<<right<<setw(12)<<total_facturas<<setw(12)
+    <<total_nc<<setw(12)<<endl;
+
     return 0;
 }
