@@ -35,8 +35,7 @@ int main(int argc, char **argv){
                 cin.clear();
 
                 cin >> tipo_mov;
-                while (cin.get() != '\n')
-                {
+                while (cin.get() != '\n'){
                     cin >> tipo_moneda;
 
                     if (tipo_moneda == 'D' || tipo_moneda == 'R'){
