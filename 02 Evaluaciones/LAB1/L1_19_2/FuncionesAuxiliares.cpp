@@ -4,7 +4,7 @@
 #define MAX_CAR_LIN 100
 using namespace std;
 
-void ImprimeLinea(char car, int num)
+void imprimir_linea(char car, int num)
 {
     for (int i = 0; i < num; i++)
     {
@@ -13,7 +13,7 @@ void ImprimeLinea(char car, int num)
     cout << endl;
 }
 
-void FormateaNombre(char *nombre)
+void formatear_nombre(char *nombre)
 {
     for (int i = 1; nombre[i]; i++)
     {
@@ -21,21 +21,20 @@ void FormateaNombre(char *nombre)
     }
 }
 
-void ImprimeCabeceraCliente()
+void imprimir_cabecera_cliente()
 {
     cout << left << setw(40) << "Cliente" << setw(30) << "CODIGO DE CUENTA"
          << setw(14) << "MONEDA"
          << "SALDO INICIAL" << endl;
 }
 
-void LeerCliente(char &moneda)
+void leer_imprimir_cliente(char &moneda, double &saldo)
 {
     int codigo, lon = 0;
-    double saldo;
     char nombre[50];
 
-    ImprimeLinea('=', MAX_CAR_LIN);
-    ImprimeCabeceraCliente();
+    imprimir_linea('=', MAX_CAR_LIN);
+    imprimir_cabecera_cliente();
 
     while (1)
     {
@@ -45,7 +44,7 @@ void LeerCliente(char &moneda)
             cin.clear();
             cin >> nombre;
 
-            FormateaNombre(nombre);
+            formatear_nombre(nombre);
             lon += strlen(nombre);
             cout << nombre << " ";
         }
@@ -62,20 +61,12 @@ void LeerCliente(char &moneda)
     else
         cout << right << setw(26) << "Euros" << setw(12) << "&  ";
     cout << saldo << endl;
-    ImprimeLinea('=', MAX_CAR_LIN);
+    imprimir_linea('=', MAX_CAR_LIN);
 }
 
-void ImprimirCabeceraTransacciones()
-{
-    cout << left << setw(14) << "FECHA" << setw(25) << "RETIROS DOLARES"
-         << setw(25) << "DEPOSITOS DOLARES" << setw(25) << "SALDO DOLARES"
-         << "OBSERVACION" << endl;
-    ImprimeLinea('-', MAX_CAR_LIN);
-}
-
-double ActualizarMontoAMonedaCuenta(char moneda, char moneda_cuenta,
-                                    double monto, double dolar_cambio,
-                                    double euro_cambio)
+double actualizar_monto_a_moneda_cuenta(char moneda, char moneda_cuenta,
+                                        double monto, double dolar_cambio,
+                                        double euro_cambio)
 {
     if (moneda_cuenta == 'S')
     {
@@ -100,82 +91,97 @@ double ActualizarMontoAMonedaCuenta(char moneda, char moneda_cuenta,
     }
 }
 
-void ProcesarMovimientos(double dolar_cambio, double euro_cambio,
-                         char moneda_cuenta)
-{
-    char tipo, moneda;
-    double monto, total_retirado = 0, total_depositado = 0;
-    int fin = 0, siguiente = 0;
-
-    cin >> tipo;
-    while (1)
-    {
-        if (cin.eof())
-            break;
-        if (fin)
-            break;
-
-        while (1)
-        {
-            if (cin.eof())
-            {
-                cout << "ESO ES TODO " << endl;
-                break;
-            }
-            if (cin.get() == '\n')
-            {
-                fin = 1;
-                break;
-            }
-            cin >> moneda;
-            if (moneda == 'D' || moneda == 'R')
-                break;
-            cin >> monto;
-
-            if (moneda != moneda_cuenta)
-            {
-                monto = ActualizarMontoAMonedaCuenta(moneda, moneda_cuenta,
-                                                     monto, dolar_cambio,
-                                                     euro_cambio);
-            }
-
-            if (tipo == 'D')
-            {
-                total_depositado += monto;
-            }
-            else
-            {
-                total_retirado += monto;
-            }
-        }
-        tipo = moneda;
-    }
-
-    cout << setw(20) << total_retirado << setw(20) << total_depositado << endl;
+void imprimir_tipo_moneda(char moneda_cliente){
+    cout << left;
+    if (moneda_cliente == 'S')
+        cout << setw(8) << "SOLES";
+    else if (moneda_cliente == '$')
+        cout << setw(8) << "DOLARES";
+    else
+        cout << setw(8) << "EUROS";
 }
 
-void ProcesarCliente(double dolar_cambio, double euro_cambio,
-                     char moneda)
-{
-    ImprimirCabeceraTransacciones();
-    int dd, mm, aa;
-    char car;
+void imprimir_movimientos_fecha(int dd_pri, int mm, int aa, char moneda_cliente,
+                                double retiro_total,
+                                double deposito_total, double saldo_inicial,
+                                double limite){
+    cout << right << setfill('0') << setw(2) << dd_pri << "/" << setw(2) <<
+    mm << "/" << setfill(' ') << left << setw(10) << aa;
 
-    while (1)
-    {
-        cin >> dd;
-        if (cin.eof())
-        {
-            cout << "ESO ES TODO" << endl;
-            break;
-        }
-        if (cin.fail())
-        {
-            cin.clear();
-            break;
-        }
-        cin >> car >> mm >> car >> aa;
+    cout << moneda_cliente << right << setw(10) << retiro_total << setw(13) <<
+    "" << moneda_cliente << setw(10) << deposito_total << setw(15) << "" <<
+    moneda_cliente << setw(10) << saldo_inicial;
 
-        ProcesarMovimientos(dolar_cambio, euro_cambio, moneda);
+    cout << setw(10) << "";
+
+    if (saldo_inicial < 0){
+        cout << "SOBREGIRO";
     }
+    else if (saldo_inicial < limite){
+        cout << "BAJO EL MINIMO";
+    }
+
+    cout << endl;
+}
+
+void imprimir_cabecera_movimientos(char moneda_cliente)
+{
+    cout << left << setw(16) << "FECHA"
+         << "RETIROS ";
+    imprimir_tipo_moneda(moneda_cliente);
+
+    cout << setw(8) << ""
+         << "DEPOSITOS ";
+    imprimir_tipo_moneda(moneda_cliente);
+
+    cout << setw(8) << ""
+         << "SALDO ";
+    imprimir_tipo_moneda(moneda_cliente);
+
+    cout << right << setw(18) << "OBSERVACION" << endl;
+    imprimir_linea('-', MAX_CAR_LIN);
+}
+
+void sumar_montos_retiro_deposito(double &deposito_total, double &retiro_total,
+                                  double &saldo_inicial, double monto, char tipo_mov,
+                                  int &cantidad_retiros, int &cantidad_depositos)
+{
+    if (tipo_mov == 'D')
+    {
+        deposito_total += monto;
+        saldo_inicial += monto;
+        cantidad_depositos++;
+    }
+    if (tipo_mov == 'R')
+    {
+        retiro_total += monto;
+        saldo_inicial -= monto;
+        cantidad_retiros++;
+    }
+}
+
+void imprimir_resumen(double cantidad_retiros, char moneda_cliente,
+                      double suma_retiro_total, double cantidad_depositos,
+                      double suma_deposito_total,
+                      double saldo_inicial, double limite)
+{
+    imprimir_linea('=', MAX_CAR_LIN);
+    cout << left << setw(30) << "CANTIDAD TOTAL DE RETIROS: " << 
+    cantidad_retiros;
+    cout << right << setw(25) << "TOTAL DE RETIROS: " << setw(8) << 
+    moneda_cliente << setw(11) << suma_retiro_total << endl;
+
+    cout << left << setw(30) << "CANTIDAD TOTAL DE DEPOSITOS: " << 
+    cantidad_depositos;
+    cout << right << setw(25) << "TOTAL DE DEPOSITOS: " << setw(8) << 
+    moneda_cliente << setw(11) << suma_deposito_total << endl;
+
+    cout << left << setw(22) << "SALDO FINAL: " << moneda_cliente << right <<
+    setw(10) << saldo_inicial << setw(28) << "OBSERVACION FINAL: ";
+
+    if (saldo_inicial < 0.0)
+        cout << "CUENTA EN SOBREGIRO";
+    else if (saldo_inicial < limite)
+        cout << "CUENTA BAJO EL MINIMO";
+    cout << endl;
 }
