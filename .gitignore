@@ -1,2 +1,6 @@
 *.exe
 *.o
+# netbeans
+build
+nbproject
+.dep.inc
