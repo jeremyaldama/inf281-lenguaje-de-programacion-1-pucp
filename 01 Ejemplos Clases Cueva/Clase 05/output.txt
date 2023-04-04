@@ -1,0 +1,1458 @@
+EDGAR_MUNOZ_VERGEL                                LF50611             Urologia            
+43704548            Vizcardo/Maribel                                  
+59121               DESLORATADINA_5MG_10T                             
+
+36471787            Pena/Glenda                                       
+46919               VITAMINA_C_C20_TAB_100MG                          
+92517               ISOCONAZOL_CR_20GR_GI                             
+22232               LEVETIRACETAM                                     
+26484               DILTIAZEM_30_TAB/30_MG                            
+76596               CEFADROXILO_250MG_SUSP                            
+
+71422479            Lozada/Felicita                                   
+18672               TINIDAZOL_500MG_8T                                
+75565               MICONAZOL_20_GR_CRA                               
+37007               DIFENHIDRAMINA_250MG_JBE_120ML                    
+
+51465986            Sam/Ines                                          
+22842               AMIKACINA_500MG_C/1_AMP                           
+
+20371464            Lozada/Heli                                       
+24522               LEVOFLOXACINO_500MG_C/7_TAB                       
+44253               PROGESTERONA+ESTRADIOL_50/5_AMP                   
+68730               MELOXICAM_7.5_MG_C/14                             
+31389               BETAMETASONA_4_MG/ML                              
+92628               KETOPROFENO_100MG_C15                             
+
+36934113            Serrano/Arturo                                    
+37007               DIFENHIDRAMINA_250MG_JBE_120ML                    
+33390               CORTILONA_CRA_30GR                                
+73174               VITAMINA_P/DIABETICOS_30T                         
+30690               VITAMINAS_EMBARAZO_9_MESES_C30                    
+39172               IBUPROFENO_400MG_T10                              
+
+LUZ_SOFIA_JAUREGUI_BRAVO                          JY15092             Dermatologia        
+15290194            Hernandez/Guillermo                               
+81960               CEFALEXINA_500MG_C/20_CAP                         
+27447               OXIDO_DE_ZINC_TUBO_PASTA_30GR                     
+61039               NISTATINA_GI_C/12_TAB                             
+61211               OFLOXACINO_400_MG_C/8                             
+
+20371464            Lozada/Heli                                       
+17645               KETOKONAZOL_CRA_30GR                              
+
+85395219            Fuentes/Patricia                                  
+86476               KETOTIFENO_C/30                                   
+70024               METILDOPA_250_MG_30_TAB                           
+48244               CLORANFENICOL_SOL_OFT_10ML                        
+77466               RAMIPRIL_16_TAB/5_MG                              
+30430               PRUEBA_DE_EMBARAZO                                
+
+93961840            Pairazaman/Tatiana                                
+58259               SULFADIAZINA_DE_PLATA_CRA_28GR                    
+96031               CETIRIZINA_10_MG_TABS_C/10                        
+65536               NEOM/POLIMIX/GRAMIC_15_ML_GTS                     
+60086               METAMISOL_500_MG_T10                              
+36208               ENALAPRIL_T/30_10MG                               
+
+61061535            Solis/Maria                                       
+92517               ISOCONAZOL_CR_20GR_GI                             
+
+62126128            Durand/Enrique                                    
+61211               OFLOXACINO_400_MG_C/8                             
+14075               CLOTRIMAZOL_C/6_CPR_VAG                           
+16681               SIBUTRAMINA_10_MG_C15                             
+
+85395219            Fuentes/Patricia                                  
+18672               TINIDAZOL_500MG_8T                                
+30690               VITAMINAS_EMBARAZO_9_MESES_C30                    
+73174               VITAMINA_P/DIABETICOS_30T                         
+16813               VANCOMICINA_500MG_SOL_INY                         
+
+54815159            Patino/Delicia                                    
+91653               SAL_DE_UVAS_PICOT                                 
+26506               ITRACONAZOL_100_MG_C/15                           
+46919               VITAMINA_C_C20_TAB_100MG                          
+70950               LIDOCAINA_10%_115ML_SPRAY                         
+55439               FUMARATO_FERROSO_SUSP_120ML                       
+
+SURAMI_HELI_PRECIADO_PINTO                        YM60184             Traumatologia       
+91187814            Narvaez/Jesus                                     
+86681               HIDROCLOROTIAZIDA_25_MG_20TAB                     
+
+71422479            Lozada/Felicita                                   
+46000               HIDROX_MAGNESIO+ALUMINIO_240ML                    
+46000               HIDROX_MAGNESIO+ALUMINIO_240ML                    
+37007               DIFENHIDRAMINA_250MG_JBE_120ML                    
+86451               TRIMEBUTINA_100MG/5ML_SUSP                        
+84555               PARACETAMOL_300MG_C/5_SUP                         
+
+51642949            Miranda/Alfonso                                   
+17790               DICLOFENACO_100MG_20T                             
+
+45201670            Guevara/Milena                                    
+48557               NAPROXENO_SODICO_100/2.5_SUSP                     
+86681               HIDROCLOROTIAZIDA_25_MG_20TAB                     
+34027               DANAZOL_100MG_50T                                 
+28992               ALUMUMINIO+MAGNESIO_SUSP_240ML                    
+67784               LOSARTAN_50MG_C/10T                               
+
+GIOVANA_MEJIA_ZEGARRA                             EG90798             Traumatologia       
+31284904            Sakaguchi/Carlos                                  
+43222               AMBROXOL_GOTAS_30ML                               
+47734               MICRODACYN_60_SOL_240ML                           
+98261               ACICLOVIR_200_MG_C/25_CPR                         
+
+71422479            Lozada/Felicita                                   
+80839               CARBAMAZEPINA_120ML_SUSP                          
+
+93282118            Zambrano/Ofelia                                   
+47697               CLINDAMICINA_300_MG_C/16                          
+34027               DANAZOL_100MG_50T                                 
+55021               AMOXICILINA_500MG/5ML_SUSP                        
+79189               CLORFENAMINA_4MG_T20                              
+
+34697743            Ayala/Ericka                                      
+22842               AMIKACINA_500MG_C/1_AMP                           
+79996               LANSOPRAZOL_15_MG_C/14                            
+
+68114999            Rios/Ines                                         
+95196               DIGOXINA_0.250_MG_C/24                            
+77203               ONDANSETRON_8MG_C10T                              
+53166               ASTEMIZOL_SUSP_200MG                              
+57036               OXOLAMINA_JBE_100ML                               
+
+95656771            Raffo/Rolando                                     
+49685               PINAVERIO_BROMURO_DE_100_MG_14T                   
+64347               DIFENHIDRAMINA_25MG_C30                           
+22232               LEVETIRACETAM                                     
+82528               LORATADINA_T/10_10MG                              
+
+54149342            Leyva/Diana                                       
+98261               ACICLOVIR_200_MG_C/25_CPR                         
+98679               DOXICICLINA_100MG_10_CAPS                         
+
+99891737            Contreras/Johana                                  
+30796               PROPANOLOL_40_MG_C/20_TAB                         
+30428               PROPAFENONA_150_MG/20_TAB                         
+58200               FLUCONAZOL_150MG._1C                              
+22842               AMIKACINA_500MG_C/1_AMP                           
+61039               NISTATINA_GI_C/12_TAB                             
+
+ROSARIO_MARIBEL_YEP_ZAVALETA                      LI80786             Ginecologia         
+54815159            Patino/Delicia                                    
+94429               TIAMAZOL_5MG_20T                                  
+31189               CEFADROXILO_500MG_C/16CAP                         
+28892               GLIMEPIRIDA_2MG_C30                               
+
+93939698            Henriquez/Silvana                                 
+96554               PIROXICAM_20MG_T20                                
+26360               VITAMINAS_A_C_Y_D_3AMP/3ML_ING                    
+42053               TRETINOINA_30G_CREMA_0.05%                        
+33311               ALBENDAZOL_200MG_C/6_TAB                          
+
+62126128            Durand/Enrique                                    
+42053               TRETINOINA_30G_CREMA_0.05%                        
+26920               HIDRALAZINA_20T_10MG                              
+47734               MICRODACYN_60_SOL_240ML                           
+
+32538825            Hijar/Martin                                      
+96031               CETIRIZINA_10_MG_TABS_C/10                        
+
+63640178            Rodriguez/Blanca                                  
+19397               ORLISTAT_/_21_CAP_120_MG                          
+61295               QUINFAMIDA_100_MG_3TAB                            
+72969               ISOSORBIDE_10MG_T/20                              
+34066               SULINDACO_200MG/20_TAB                            
+83510               FUROSEMIDA_40_MG_C/20                             
+
+35852072            Jauregui/Victor                                   
+33200               GLUCOSAMINA_30C_500MG                             
+68730               MELOXICAM_7.5_MG_C/14                             
+70225               CEFTRIAXONA_1.0GR_IM_G_I                          
+77358               LOPERAMIDA_T/12_2MG                               
+
+CINTHIA_MILENA_ZEGARRA_CABELLO                    PX70233             Ginecologia         
+72330000            Vega/Carmela                                      
+37549               TOPIRAMATO_100MG_20T                              
+
+93961840            Pairazaman/Tatiana                                
+31883               ACIDO_NALIDIXICO_SUSP                             
+44215               DICICLOVERINA_10MG_30T                            
+
+93939698            Henriquez/Silvana                                 
+84555               PARACETAMOL_300MG_C/5_SUP                         
+77203               ONDANSETRON_8MG_C10T                              
+36711               TIBOLONA_2.5MG_30T                                
+42861               BENCIDAMIDA_CRA_5%_60GR                           
+
+36934113            Serrano/Arturo                                    
+26920               HIDRALAZINA_20T_10MG                              
+65536               NEOM/POLIMIX/GRAMIC_15_ML_GTS                     
+86681               HIDROCLOROTIAZIDA_25_MG_20TAB                     
+43633               ERITROMICINA_T_250_MG_C/20                        
+
+80694546            Ramirez/Karina                                    
+36711               TIBOLONA_2.5MG_30T                                
+49685               PINAVERIO_BROMURO_DE_100_MG_14T                   
+
+63640178            Rodriguez/Blanca                                  
+76247               FLUOCINOLONA_CREMA_30G                            
+
+68114999            Rios/Ines                                         
+37549               TOPIRAMATO_100MG_20T                              
+42053               TRETINOINA_30G_CREMA_0.05%                        
+70303               AZITROMICINA_SUSP                                 
+65985               LAMOTRIGINA_100MG_TAB_28                          
+
+81647285            Vega/Henrry                                       
+36622               TEOFILINA_20_TAB/100_MG                           
+91653               SAL_DE_UVAS_PICOT                                 
+89325               DIMENHIDRINATO_24_T_50MG                          
+43222               AMBROXOL_GOTAS_30ML                               
+30690               VITAMINAS_EMBARAZO_9_MESES_C30                    
+
+DELIA_ZARATE_URBINA                               RY89213             Gastroenterologia   
+72973662            Vargas/Daniel                                     
+80839               CARBAMAZEPINA_120ML_SUSP                          
+49685               PINAVERIO_BROMURO_DE_100_MG_14T                   
+42856               FELODIPINO_5_MG_20T                               
+
+31284904            Sakaguchi/Carlos                                  
+30220               AMOXICILINA+BROMEXINA_C12                         
+47734               MICRODACYN_60_SOL_240ML                           
+
+54815159            Patino/Delicia                                    
+22232               LEVETIRACETAM                                     
+31189               CEFADROXILO_500MG_C/16CAP                         
+48244               CLORANFENICOL_SOL_OFT_10ML                        
+55701               EUCALIPTO_GUAYACOL_PERLAS30                       
+43222               AMBROXOL_GOTAS_30ML                               
+
+72973662            Vargas/Daniel                                     
+17790               DICLOFENACO_100MG_20T                             
+28992               ALUMUMINIO+MAGNESIO_SUSP_240ML                    
+58252               KETOTIFENO_SOL_120ML                              
+
+93231760            Zarate/Alexander                                  
+94429               TIAMAZOL_5MG_20T                                  
+
+77324146            Moscoso/Janet                                     
+26754               SILDENAFIL_50MG_C/1-TAB                           
+28219               NITAZOXANIDA_200_MG_T6                            
+76247               FLUOCINOLONA_CREMA_30G                            
+58252               KETOTIFENO_SOL_120ML                              
+75565               MICONAZOL_20_GR_CRA                               
+
+FIORELLA_ERIKA_FLORENCIO_POLO                     EP90907             Dermatologia        
+72330000            Vega/Carmela                                      
+60685               NITROFURANTOINA_C40_100MG                         
+42861               BENCIDAMIDA_CRA_5%_60GR                           
+36711               TIBOLONA_2.5MG_30T                                
+68860               METFORMINA_850MG_T30                              
+95540               NAPROXENO_500_MG_C/10_TAB                         
+
+61061535            Solis/Maria                                       
+26484               DILTIAZEM_30_TAB/30_MG                            
+86828               FENAZOPIRIDINA_100_MG_C/20_TAB                    
+
+72973662            Vargas/Daniel                                     
+30428               PROPAFENONA_150_MG/20_TAB                         
+58200               FLUCONAZOL_150MG._1C                              
+30228               METOPROLOL_20T/100                                
+65667               SUBSALICILATO/BISMUTO_SUSP_120ML                  
+
+51873364            Calixto/Erick                                     
+30228               METOPROLOL_20T/100                                
+53166               ASTEMIZOL_SUSP_200MG                              
+36208               ENALAPRIL_T/30_10MG                               
+28992               ALUMUMINIO+MAGNESIO_SUSP_240ML                    
+92517               ISOCONAZOL_CR_20GR_GI                             
+
+45914393            Lozada/Antonio                                    
+79189               CLORFENAMINA_4MG_T20                              
+92517               ISOCONAZOL_CR_20GR_GI                             
+93578               SUCRALFATO_40_TAB/1G                              
+
+35347567            Sedano/Elia                                       
+76238               BEZOCAINA_10GR_GEL                                
+81695               LECHE_DE_MAGNESIA_180ML                           
+
+34571095            Infantes/Luis                                     
+40997               ELECTROLIT_PED_FRESA_625ML                        
+49644               HIDROCORTISONA_CRA_30GR                           
+51148               PANTOPRAZOL_40MG_C/14                             
+
+54149342            Leyva/Diana                                       
+43222               AMBROXOL_GOTAS_30ML                               
+79996               LANSOPRAZOL_15_MG_C/14                            
+
+36934113            Serrano/Arturo                                    
+58200               FLUCONAZOL_150MG._1C                              
+26360               VITAMINAS_A_C_Y_D_3AMP/3ML_ING                    
+60685               NITROFURANTOINA_C40_100MG                         
+73972               VITAMINA_E_400_MG_C90_CAPS                        
+15098               LISINA_CLOHRIDRATO_125MG_T10                      
+
+49357767            Solis/Rolando                                     
+28992               ALUMUMINIO+MAGNESIO_SUSP_240ML                    
+30220               AMOXICILINA+BROMEXINA_C12                         
+26754               SILDENAFIL_50MG_C/1-TAB                           
+81821               AMIODARONA_200MG_T20                              
+
+OFELIA_CARMEN_MERCADO_CARO                        RN60934             Neumologia          
+13731806            Salamanca/Virginia                                
+93578               SUCRALFATO_40_TAB/1G                              
+42856               FELODIPINO_5_MG_20T                               
+70225               CEFTRIAXONA_1.0GR_IM_G_I                          
+70807               LINCOMICINA_600_MG_INY_C/3                        
+25684               DEXAMETASONA_0.5MG_T/30                           
+
+22679759            Bravo/Janet                                       
+53846               CLENBUTEROL_.02MG_50T                             
+58036               PENTOXIFILINA_400MG_T30                           
+31189               CEFADROXILO_500MG_C/16CAP                         
+
+94683380            Farfan/Margot                                     
+84766               CIPROFLOXACINO_SOL.OFT_5MG                        
+
+92275859            Egusquiza/Doris                                   
+77466               RAMIPRIL_16_TAB/5_MG                              
+26506               ITRACONAZOL_100_MG_C/15                           
+
+35606314            Mercado/Elia                                      
+84555               PARACETAMOL_300MG_C/5_SUP                         
+24522               LEVOFLOXACINO_500MG_C/7_TAB                       
+
+51465986            Sam/Ines                                          
+37007               DIFENHIDRAMINA_250MG_JBE_120ML                    
+41995               DIMETICONA_SUSP_100MG_30ML                        
+
+93282118            Zambrano/Ofelia                                   
+41995               DIMETICONA_SUSP_100MG_30ML                        
+64347               DIFENHIDRAMINA_25MG_C30                           
+
+WALTER_JOLAY_CHUMPITAZ                            KG14787             Traumatologia       
+20371464            Lozada/Heli                                       
+48039               TRAMADOL_100MG_5AMP                               
+52072               BROMOCRIPTINA_2.5MG_C/14TAB                       
+84766               CIPROFLOXACINO_SOL.OFT_5MG                        
+41995               DIMETICONA_SUSP_100MG_30ML                        
+
+65912822            Camacho/Ydali                                     
+47697               CLINDAMICINA_300_MG_C/16                          
+90198               NITROFURAL_6MG_6/OV                               
+
+91187814            Narvaez/Jesus                                     
+39088               NORFLOXACINO_T20_400MG                            
+24522               LEVOFLOXACINO_500MG_C/7_TAB                       
+51148               PANTOPRAZOL_40MG_C/14                             
+
+59561864            Rosemberg/Julio                                   
+72939               VITIS_VINIFERA_(UVA)_60C                          
+
+54149342            Leyva/Diana                                       
+34070               FEXOFENADINA_C/10_180MG                           
+26506               ITRACONAZOL_100_MG_C/15                           
+
+HUMBERTO_ALBERTO_VARGAS_GUEVARA                   ST60049             Gastroenterologia   
+62126128            Durand/Enrique                                    
+51148               PANTOPRAZOL_40MG_C/14                             
+27447               OXIDO_DE_ZINC_TUBO_PASTA_30GR                     
+
+59596317            Justino/Virginia                                  
+77358               LOPERAMIDA_T/12_2MG                               
+
+51642949            Miranda/Alfonso                                   
+65985               LAMOTRIGINA_100MG_TAB_28                          
+70113               TETRACICLINA_250MG_10T                            
+89528               CLORMADINONA_2MG_20T                              
+
+20371464            Lozada/Heli                                       
+76238               BEZOCAINA_10GR_GEL                                
+28219               NITAZOXANIDA_200_MG_T6                            
+
+52313890            Rivero/Wilver                                     
+60888               CAPTOPRIL_25MG_30T                                
+30430               PRUEBA_DE_EMBARAZO                                
+81821               AMIODARONA_200MG_T20                              
+
+32538825            Hijar/Martin                                      
+88266               PREDNISONA_20MG_C30_TAB_GI                        
+
+54815159            Patino/Delicia                                    
+62008               LISINOPRIL_T/30_10_MG                             
+
+37282858            Soma/Lourdes                                      
+96554               PIROXICAM_20MG_T20                                
+37007               DIFENHIDRAMINA_250MG_JBE_120ML                    
+17845               GINKO_YANG_CAPS_C/30                              
+
+DELICIA_ARCA_AQUINO                               NI70269             Dermatologia        
+27709566            Ortiz/Raul                                        
+36822               CLARITROMICINA_125MG_SUSP                         
+30007               DICLOFENACO_SODICO_1MG_GTS_5_ML                   
+91653               SAL_DE_UVAS_PICOT                                 
+85865               PLANTAGO_PSYLLIUM_400GR._GI                       
+26484               DILTIAZEM_30_TAB/30_MG                            
+
+45914393            Lozada/Antonio                                    
+80839               CARBAMAZEPINA_120ML_SUSP                          
+30220               AMOXICILINA+BROMEXINA_C12                         
+30430               PRUEBA_DE_EMBARAZO                                
+84766               CIPROFLOXACINO_SOL.OFT_5MG                        
+85641               TAMOXIFENO_10MG_30T                               
+
+43704548            Vizcardo/Maribel                                  
+85325               AMOXICILINA_250MG_C12                             
+37549               TOPIRAMATO_100MG_20T                              
+55021               AMOXICILINA_500MG/5ML_SUSP                        
+
+62126128            Durand/Enrique                                    
+60888               CAPTOPRIL_25MG_30T                                
+42856               FELODIPINO_5_MG_20T                               
+49644               HIDROCORTISONA_CRA_30GR                           
+33311               ALBENDAZOL_200MG_C/6_TAB                          
+14075               CLOTRIMAZOL_C/6_CPR_VAG                           
+
+93231760            Zarate/Alexander                                  
+89528               CLORMADINONA_2MG_20T                              
+49157               RANITIDINA_300_MG_C/10                            
+
+80694546            Ramirez/Karina                                    
+82469               GUAYACOL_AMPOLLETA_1ML                            
+76596               CEFADROXILO_250MG_SUSP                            
+30228               METOPROLOL_20T/100                                
+88994               FENITOINA_SODICA_7.5MG_120ML                      
+
+36934113            Serrano/Arturo                                    
+70225               CEFTRIAXONA_1.0GR_IM_G_I                          
+26484               DILTIAZEM_30_TAB/30_MG                            
+59121               DESLORATADINA_5MG_10T                             
+28992               ALUMUMINIO+MAGNESIO_SUSP_240ML                    
+
+35852072            Jauregui/Victor                                   
+81062               PAROXETINA_T/10_20MG                              
+26360               VITAMINAS_A_C_Y_D_3AMP/3ML_ING                    
+89325               DIMENHIDRINATO_24_T_50MG                          
+37007               DIFENHIDRAMINA_250MG_JBE_120ML                    
+
+93961840            Pairazaman/Tatiana                                
+26920               HIDRALAZINA_20T_10MG                              
+18672               TINIDAZOL_500MG_8T                                
+42856               FELODIPINO_5_MG_20T                               
+68539               METENAMINA_30T_500MG                              
+95540               NAPROXENO_500_MG_C/10_TAB                         
+
+41964357            Arca/Magali                                       
+53200               VITAMINA+OMEGA_3_30T                              
+70226               CALCIO+VITAMINA_D_SUSP                            
+49157               RANITIDINA_300_MG_C/10                            
+17645               KETOKONAZOL_CRA_30GR                              
+
+13731806            Salamanca/Virginia                                
+11592               TERBINAFINA_1%_CRA_20_GR                          
+55021               AMOXICILINA_500MG/5ML_SUSP                        
+
+14956687            Luna/Waldemar                                     
+70116               LACTULOSA_125ML                                   
+
+VALENTINA_PAULA_URBINA_ANTEZANO                   LZ53556             Pediatria           
+32538825            Hijar/Martin                                      
+92560               EXALVER_FENILEFRINA_PED._30_ML                    
+16681               SIBUTRAMINA_10_MG_C15                             
+47697               CLINDAMICINA_300_MG_C/16                          
+26506               ITRACONAZOL_100_MG_C/15                           
+
+85395219            Fuentes/Patricia                                  
+30428               PROPAFENONA_150_MG/20_TAB                         
+33311               ALBENDAZOL_200MG_C/6_TAB                          
+57505               ESPIRONOLACTONA_25MG_20T                          
+52072               BROMOCRIPTINA_2.5MG_C/14TAB                       
+22232               LEVETIRACETAM                                     
+
+77440060            Escalante/Emigdio                                 
+30228               METOPROLOL_20T/100                                
+36622               TEOFILINA_20_TAB/100_MG                           
+46000               HIDROX_MAGNESIO+ALUMINIO_240ML                    
+
+45914393            Lozada/Antonio                                    
+22553               FLUCINOLONA+NEOMICINA_CRA_30G                     
+73972               VITAMINA_E_400_MG_C90_CAPS                        
+61508               DEXTROMETORFANO_300MG_JBE_120_ML                  
+19397               ORLISTAT_/_21_CAP_120_MG                          
+
+62126128            Durand/Enrique                                    
+42053               TRETINOINA_30G_CREMA_0.05%                        
+94459               VALPROATO_DE_MAGNESIO_SUSP                        
+98261               ACICLOVIR_200_MG_C/25_CPR                         
+77203               ONDANSETRON_8MG_C10T                              
+
+62287143            Wong/Beatriz                                      
+22232               LEVETIRACETAM                                     
+57269               SIMVASTATINA_10_MG_C14                            
+40997               ELECTROLIT_PED_FRESA_625ML                        
+
+ZKENIA_IRMA_CHUNG_ZUNIGA                          LK70612             Traumatologia       
+59561864            Rosemberg/Julio                                   
+40862               YODOPOVIDONA_120ML                                
+
+27709566            Ortiz/Raul                                        
+88994               FENITOINA_SODICA_7.5MG_120ML                      
+86681               HIDROCLOROTIAZIDA_25_MG_20TAB                     
+55813               SALBUTAMOL_4MG_T30                                
+75565               MICONAZOL_20_GR_CRA                               
+
+31284904            Sakaguchi/Carlos                                  
+86681               HIDROCLOROTIAZIDA_25_MG_20TAB                     
+16681               SIBUTRAMINA_10_MG_C15                             
+44253               PROGESTERONA+ESTRADIOL_50/5_AMP                   
+86451               TRIMEBUTINA_100MG/5ML_SUSP                        
+
+93231760            Zarate/Alexander                                  
+47734               MICRODACYN_60_SOL_240ML                           
+
+81647285            Vega/Henrry                                       
+70116               LACTULOSA_125ML                                   
+79996               LANSOPRAZOL_15_MG_C/14                            
+
+28992638            Trigueros/Luz                                     
+18672               TINIDAZOL_500MG_8T                                
+15098               LISINA_CLOHRIDRATO_125MG_T10                      
+86158               SENOSIDOS_A_y_B_C20                               
+42053               TRETINOINA_30G_CREMA_0.05%                        
+82528               LORATADINA_T/10_10MG                              
+
+45201670            Guevara/Milena                                    
+79189               CLORFENAMINA_4MG_T20                              
+79189               CLORFENAMINA_4MG_T20                              
+22553               FLUCINOLONA+NEOMICINA_CRA_30G                     
+30430               PRUEBA_DE_EMBARAZO                                
+26360               VITAMINAS_A_C_Y_D_3AMP/3ML_ING                    
+
+LOURDES_CARMELA_YALLICO_PAREDES                   IM64405             Oftalmologia        
+53420926            Prado/Juan                                        
+47697               CLINDAMICINA_300_MG_C/16                          
+
+99891737            Contreras/Johana                                  
+59121               DESLORATADINA_5MG_10T                             
+
+81647285            Vega/Henrry                                       
+90198               NITROFURAL_6MG_6/OV                               
+58036               PENTOXIFILINA_400MG_T30                           
+16299               AZITROMICINA_500MG_C/3T                           
+33390               CORTILONA_CRA_30GR                                
+
+86988155            Cerna/Cinthia                                     
+81333               CARNITINA_C/30                                    
+
+DELICIA_ROSA_ARCA_LEIVA                           KT90929             Oftalmologia        
+61061535            Solis/Maria                                       
+88994               FENITOINA_SODICA_7.5MG_120ML                      
+12388               PROTEINAS+CREATINA_500_GR_30T                     
+97465               GLIBENCLAMIDA_5_MG_C/50                           
+67784               LOSARTAN_50MG_C/10T                               
+
+68114999            Rios/Ines                                         
+92560               EXALVER_FENILEFRINA_PED._30_ML                    
+62302               BEZAFIBRATO_200MG_C/30TAB                         
+57505               ESPIRONOLACTONA_25MG_20T                          
+
+61061535            Solis/Maria                                       
+96031               CETIRIZINA_10_MG_TABS_C/10                        
+52072               BROMOCRIPTINA_2.5MG_C/14TAB                       
+60086               METAMISOL_500_MG_T10                              
+
+95656771            Raffo/Rolando                                     
+22553               FLUCINOLONA+NEOMICINA_CRA_30G                     
+
+86988155            Cerna/Cinthia                                     
+30428               PROPAFENONA_150_MG/20_TAB                         
+58259               SULFADIAZINA_DE_PLATA_CRA_28GR                    
+
+90367684            Sinche/Yvonne                                     
+28219               NITAZOXANIDA_200_MG_T6                            
+49644               HIDROCORTISONA_CRA_30GR                           
+92517               ISOCONAZOL_CR_20GR_GI                             
+
+77440060            Escalante/Emigdio                                 
+68610               CALCITRIOL_0.25MCG_50_CAP                         
+44215               DICICLOVERINA_10MG_30T                            
+92517               ISOCONAZOL_CR_20GR_GI                             
+34027               DANAZOL_100MG_50T                                 
+46919               VITAMINA_C_C20_TAB_100MG                          
+
+80694546            Ramirez/Karina                                    
+41995               DIMETICONA_SUSP_100MG_30ML                        
+81821               AMIODARONA_200MG_T20                              
+42861               BENCIDAMIDA_CRA_5%_60GR                           
+
+51873364            Calixto/Erick                                     
+30428               PROPAFENONA_150_MG/20_TAB                         
+42861               BENCIDAMIDA_CRA_5%_60GR                           
+26360               VITAMINAS_A_C_Y_D_3AMP/3ML_ING                    
+31311               METILPREDNISOLONA_500MG                           
+
+94683380            Farfan/Margot                                     
+33276               INDOMETACINA_C30                                  
+
+DELIA_ESTEFANIA_CABRERA_MORENO                    IH70367             Urologia            
+22598563            Sueldo/Adria                                      
+93578               SUCRALFATO_40_TAB/1G                              
+96554               PIROXICAM_20MG_T20                                
+93578               SUCRALFATO_40_TAB/1G                              
+
+30246960            Escalante/Ines                                    
+90300               FLUOXETINA_20_MG_C/14                             
+28219               NITAZOXANIDA_200_MG_T6                            
+
+94683380            Farfan/Margot                                     
+40645               VERAPAMILO_80_MG/20_TAB                           
+48244               CLORANFENICOL_SOL_OFT_10ML                        
+53200               VITAMINA+OMEGA_3_30T                              
+40997               ELECTROLIT_PED_FRESA_625ML                        
+
+WILMER_SAENZ_ARANDA                               VJ18708             Ginecologia         
+36934113            Serrano/Arturo                                    
+36711               TIBOLONA_2.5MG_30T                                
+82469               GUAYACOL_AMPOLLETA_1ML                            
+68539               METENAMINA_30T_500MG                              
+74680               FENITOINA_T50_100MG                               
+
+58643376            Arroyo/Natalia                                    
+43222               AMBROXOL_GOTAS_30ML                               
+
+36471787            Pena/Glenda                                       
+44215               DICICLOVERINA_10MG_30T                            
+48557               NAPROXENO_SODICO_100/2.5_SUSP                     
+45814               ERITROMICINA_250MG_SUSP                           
+54692               NAFAZOLINA_SOL_OFT_15_ml                          
+81333               CARNITINA_C/30                                    
+
+81539774            Alfaro/Erick                                      
+19397               ORLISTAT_/_21_CAP_120_MG                          
+
+93961840            Pairazaman/Tatiana                                
+17804               PIROXICAM_30_GM_CRA                               
+42856               FELODIPINO_5_MG_20T                               
+16299               AZITROMICINA_500MG_C/3T                           
+
+90367684            Sinche/Yvonne                                     
+12388               PROTEINAS+CREATINA_500_GR_30T                     
+70303               AZITROMICINA_SUSP                                 
+
+36934113            Serrano/Arturo                                    
+70113               TETRACICLINA_250MG_10T                            
+55813               SALBUTAMOL_4MG_T30                                
+90198               NITROFURAL_6MG_6/OV                               
+
+45201670            Guevara/Milena                                    
+95196               DIGOXINA_0.250_MG_C/24                            
+17790               DICLOFENACO_100MG_20T                             
+
+63640178            Rodriguez/Blanca                                  
+80830               COMPLEJO_B_T30                                    
+
+90367684            Sinche/Yvonne                                     
+97465               GLIBENCLAMIDA_5_MG_C/50                           
+64347               DIFENHIDRAMINA_25MG_C30                           
+
+GUSTAVO_ALONSO_DEL_CASTILLO_MEJIA                 RC80138             Geriatria           
+15290194            Hernandez/Guillermo                               
+84555               PARACETAMOL_300MG_C/5_SUP                         
+43222               AMBROXOL_GOTAS_30ML                               
+32486               BENZOCAINA_FRAMBUESA_C/24                         
+34066               SULINDACO_200MG/20_TAB                            
+84771               BETAMETASONA_CREMA_30GR                           
+
+58643376            Arroyo/Natalia                                    
+28892               GLIMEPIRIDA_2MG_C30                               
+89839               ACIDO_MEFENAMICO_500MG_C10_TAB                    
+40862               YODOPOVIDONA_120ML                                
+
+62287143            Wong/Beatriz                                      
+68860               METFORMINA_850MG_T30                              
+85325               AMOXICILINA_250MG_C12                             
+70303               AZITROMICINA_SUSP                                 
+33311               ALBENDAZOL_200MG_C/6_TAB                          
+77358               LOPERAMIDA_T/12_2MG                               
+
+59596317            Justino/Virginia                                  
+60509               AMPICILINA_125MG_SUSP_90ML                        
+60086               METAMISOL_500_MG_T10                              
+
+51465986            Sam/Ines                                          
+73174               VITAMINA_P/DIABETICOS_30T                         
+77534               METRONIDAZOL_500_MG_T30                           
+
+49357767            Solis/Rolando                                     
+70024               METILDOPA_250_MG_30_TAB                           
+59395               VITAMINICO_GERIATRICO_C30                         
+31311               METILPREDNISOLONA_500MG                           
+
+93961840            Pairazaman/Tatiana                                
+62302               BEZAFIBRATO_200MG_C/30TAB                         
+22306               NIMESULIDA_25MG_20ML                              
+70303               AZITROMICINA_SUSP                                 
+
+53420926            Prado/Juan                                        
+42053               TRETINOINA_30G_CREMA_0.05%                        
+
+JAVIER_EDGARD_LANDA_CABRERA                       PW35451             Pediatria           
+30246960            Escalante/Ines                                    
+32486               BENZOCAINA_FRAMBUESA_C/24                         
+30428               PROPAFENONA_150_MG/20_TAB                         
+61508               DEXTROMETORFANO_300MG_JBE_120_ML                  
+16681               SIBUTRAMINA_10_MG_C15                             
+
+41964357            Arca/Magali                                       
+36622               TEOFILINA_20_TAB/100_MG                           
+42856               FELODIPINO_5_MG_20T                               
+96881               GABAPENTINA_300_MG_C/15                           
+70226               CALCIO+VITAMINA_D_SUSP                            
+
+17299012            Suarez/Amaru                                      
+94429               TIAMAZOL_5MG_20T                                  
+26506               ITRACONAZOL_100_MG_C/15                           
+14962               HIERRO_DEXTRANO_AMP4                              
+68610               CALCITRIOL_0.25MCG_50_CAP                         
+
+32538825            Hijar/Martin                                      
+41403               VITAMINAS_Y_MINERALES_30-30T                      
+
+12484697            Diaz/Enrique                                      
+15098               LISINA_CLOHRIDRATO_125MG_T10                      
+68539               METENAMINA_30T_500MG                              
+22842               AMIKACINA_500MG_C/1_AMP                           
+11370               KETOROLACO_4T_30MG_SUBLINGUAL                     
+
+86988155            Cerna/Cinthia                                     
+26920               HIDRALAZINA_20T_10MG                              
+38648               PENICILINA_V_POT_400000U_20T                      
+53166               ASTEMIZOL_SUSP_200MG                              
+40645               VERAPAMILO_80_MG/20_TAB                           
+
+OFELIA_BEATRIZ_MONTERO_BOLANOS                    GO70992             Gastroenterologia   
+35347567            Sedano/Elia                                       
+79996               LANSOPRAZOL_15_MG_C/14                            
+40997               ELECTROLIT_PED_FRESA_625ML                        
+38648               PENICILINA_V_POT_400000U_20T                      
+37007               DIFENHIDRAMINA_250MG_JBE_120ML                    
+18672               TINIDAZOL_500MG_8T                                
+
+20371464            Lozada/Heli                                       
+98261               ACICLOVIR_200_MG_C/25_CPR                         
+68730               MELOXICAM_7.5_MG_C/14                             
+70226               CALCIO+VITAMINA_D_SUSP                            
+
+90367684            Sinche/Yvonne                                     
+36622               TEOFILINA_20_TAB/100_MG                           
+
+57182371            Moscoso/Fiorella                                  
+68730               MELOXICAM_7.5_MG_C/14                             
+
+66039166            Chavez/Johan                                      
+48244               CLORANFENICOL_SOL_OFT_10ML                        
+58036               PENTOXIFILINA_400MG_T30                           
+
+32538825            Hijar/Martin                                      
+96554               PIROXICAM_20MG_T20                                
+83801               CEFACLOR_125_MG_SUSP                              
+30690               VITAMINAS_EMBARAZO_9_MESES_C30                    
+90198               NITROFURAL_6MG_6/OV                               
+
+62126128            Durand/Enrique                                    
+84766               CIPROFLOXACINO_SOL.OFT_5MG                        
+77358               LOPERAMIDA_T/12_2MG                               
+70303               AZITROMICINA_SUSP                                 
+
+13731806            Salamanca/Virginia                                
+61039               NISTATINA_GI_C/12_TAB                             
+17845               GINKO_YANG_CAPS_C/30                              
+
+68269451            Asmad/Adria                                       
+53084               MINOCICLINA_100MG_10T                             
+47734               MICRODACYN_60_SOL_240ML                           
+
+80694546            Ramirez/Karina                                    
+77466               RAMIPRIL_16_TAB/5_MG                              
+81062               PAROXETINA_T/10_20MG                              
+74924               TAMSULOSINA_0.4_MG_CAPS_20                        
+
+MARINA_NATALIA_GARCIA_INGA                        PY49768             Cardiologia         
+65912822            Camacho/Ydali                                     
+46919               VITAMINA_C_C20_TAB_100MG                          
+
+72330000            Vega/Carmela                                      
+33311               ALBENDAZOL_200MG_C/6_TAB                          
+48244               CLORANFENICOL_SOL_OFT_10ML                        
+46000               HIDROX_MAGNESIO+ALUMINIO_240ML                    
+77534               METRONIDAZOL_500_MG_T30                           
+
+62287143            Wong/Beatriz                                      
+12388               PROTEINAS+CREATINA_500_GR_30T                     
+31389               BETAMETASONA_4_MG/ML                              
+46919               VITAMINA_C_C20_TAB_100MG                          
+73174               VITAMINA_P/DIABETICOS_30T                         
+28992               ALUMUMINIO+MAGNESIO_SUSP_240ML                    
+
+68269451            Asmad/Adria                                       
+53200               VITAMINA+OMEGA_3_30T                              
+53084               MINOCICLINA_100MG_10T                             
+86158               SENOSIDOS_A_y_B_C20                               
+72969               ISOSORBIDE_10MG_T/20                              
+
+30246960            Escalante/Ines                                    
+97465               GLIBENCLAMIDA_5_MG_C/50                           
+73972               VITAMINA_E_400_MG_C90_CAPS                        
+
+BLANCA_LUZ_ACUNA_AYLLON                           XN33687             Oftalmologia        
+99891737            Contreras/Johana                                  
+34027               DANAZOL_100MG_50T                                 
+15098               LISINA_CLOHRIDRATO_125MG_T10                      
+30430               PRUEBA_DE_EMBARAZO                                
+94415               PRAVASTATINA_10_MG_C/15                           
+77358               LOPERAMIDA_T/12_2MG                               
+
+15290194            Hernandez/Guillermo                               
+33276               INDOMETACINA_C30                                  
+52072               BROMOCRIPTINA_2.5MG_C/14TAB                       
+36649               CITALOPRAM_20MG_14T                               
+62302               BEZAFIBRATO_200MG_C/30TAB                         
+
+VICTORIA_MILAGROS_SHIRAKAWA_SAONA                 PJ70789             Pediatria           
+93282118            Zambrano/Ofelia                                   
+98679               DOXICICLINA_100MG_10_CAPS                         
+81960               CEFALEXINA_500MG_C/20_CAP                         
+
+93961840            Pairazaman/Tatiana                                
+58252               KETOTIFENO_SOL_120ML                              
+14962               HIERRO_DEXTRANO_AMP4                              
+22232               LEVETIRACETAM                                     
+98679               DOXICICLINA_100MG_10_CAPS                         
+49756               PREDNISOLONA_5MG_SOL_OFT_5_ML                     
+
+51465986            Sam/Ines                                          
+30228               METOPROLOL_20T/100                                
+68730               MELOXICAM_7.5_MG_C/14                             
+26360               VITAMINAS_A_C_Y_D_3AMP/3ML_ING                    
+86158               SENOSIDOS_A_y_B_C20                               
+88681               NIFEDIPINO_30_MG_30_CPS                           
+
+93939698            Henriquez/Silvana                                 
+53084               MINOCICLINA_100MG_10T                             
+22842               AMIKACINA_500MG_C/1_AMP                           
+
+77440060            Escalante/Emigdio                                 
+96031               CETIRIZINA_10_MG_TABS_C/10                        
+68860               METFORMINA_850MG_T30                              
+24522               LEVOFLOXACINO_500MG_C/7_TAB                       
+62008               LISINOPRIL_T/30_10_MG                             
+81333               CARNITINA_C/30                                    
+
+61061535            Solis/Maria                                       
+26506               ITRACONAZOL_100_MG_C/15                           
+
+90367684            Sinche/Yvonne                                     
+68730               MELOXICAM_7.5_MG_C/14                             
+
+37282858            Soma/Lourdes                                      
+48039               TRAMADOL_100MG_5AMP                               
+31189               CEFADROXILO_500MG_C/16CAP                         
+26754               SILDENAFIL_50MG_C/1-TAB                           
+
+53420926            Prado/Juan                                        
+67415               FINASTERIDA_5MG_30T                               
+72495               ACIDO_GLUTAMICO_600_MG_C/100                      
+
+EMILIO_EMIGDIO_GONZALES_AGUIRRE                   OW18262             Urologia            
+12484697            Diaz/Enrique                                      
+76247               FLUOCINOLONA_CREMA_30G                            
+
+22679759            Bravo/Janet                                       
+70303               AZITROMICINA_SUSP                                 
+91653               SAL_DE_UVAS_PICOT                                 
+16359               NAPROXENO_250_MG_TAB_C/30                         
+
+51465986            Sam/Ines                                          
+16055               AMBROXOL_C/20_TAB                                 
+
+77324146            Moscoso/Janet                                     
+33390               CORTILONA_CRA_30GR                                
+12388               PROTEINAS+CREATINA_500_GR_30T                     
+61039               NISTATINA_GI_C/12_TAB                             
+31311               METILPREDNISOLONA_500MG                           
+
+37282858            Soma/Lourdes                                      
+17790               DICLOFENACO_100MG_20T                             
+81821               AMIODARONA_200MG_T20                              
+96881               GABAPENTINA_300_MG_C/15                           
+44253               PROGESTERONA+ESTRADIOL_50/5_AMP                   
+34080               ELECTROLIT_FRESA_500ML                            
+
+GLENDA_CABRERA_MORI                               BF14655             Oncologia           
+68114999            Rios/Ines                                         
+26754               SILDENAFIL_50MG_C/1-TAB                           
+
+57182371            Moscoso/Fiorella                                  
+70116               LACTULOSA_125ML                                   
+
+20371464            Lozada/Heli                                       
+68539               METENAMINA_30T_500MG                              
+60685               NITROFURANTOINA_C40_100MG                         
+
+54149342            Leyva/Diana                                       
+28219               NITAZOXANIDA_200_MG_T6                            
+90300               FLUOXETINA_20_MG_C/14                             
+60509               AMPICILINA_125MG_SUSP_90ML                        
+
+54815159            Patino/Delicia                                    
+61508               DEXTROMETORFANO_300MG_JBE_120_ML                  
+58252               KETOTIFENO_SOL_120ML                              
+28219               NITAZOXANIDA_200_MG_T6                            
+73174               VITAMINA_P/DIABETICOS_30T                         
+
+14956687            Luna/Waldemar                                     
+79189               CLORFENAMINA_4MG_T20                              
+
+90367684            Sinche/Yvonne                                     
+89528               CLORMADINONA_2MG_20T                              
+63555               FAMOTIDINA_20MG_30C                               
+68346               TOLBUTAMIDA_50T_500MG                             
+22842               AMIKACINA_500MG_C/1_AMP                           
+76596               CEFADROXILO_250MG_SUSP                            
+
+62287143            Wong/Beatriz                                      
+28992               ALUMUMINIO+MAGNESIO_SUSP_240ML                    
+96031               CETIRIZINA_10_MG_TABS_C/10                        
+79996               LANSOPRAZOL_15_MG_C/14                            
+88994               FENITOINA_SODICA_7.5MG_120ML                      
+
+TERESA_TERESA_MARTEL_MERCADO                      IM80227             Pediatria           
+81647285            Vega/Henrry                                       
+46919               VITAMINA_C_C20_TAB_100MG                          
+91653               SAL_DE_UVAS_PICOT                                 
+88266               PREDNISONA_20MG_C30_TAB_GI                        
+17645               KETOKONAZOL_CRA_30GR                              
+30690               VITAMINAS_EMBARAZO_9_MESES_C30                    
+
+54149342            Leyva/Diana                                       
+58036               PENTOXIFILINA_400MG_T30                           
+95196               DIGOXINA_0.250_MG_C/24                            
+17804               PIROXICAM_30_GM_CRA                               
+70226               CALCIO+VITAMINA_D_SUSP                            
+76247               FLUOCINOLONA_CREMA_30G                            
+
+51642949            Miranda/Alfonso                                   
+12388               PROTEINAS+CREATINA_500_GR_30T                     
+76238               BEZOCAINA_10GR_GEL                                
+
+86988155            Cerna/Cinthia                                     
+31883               ACIDO_NALIDIXICO_SUSP                             
+76247               FLUOCINOLONA_CREMA_30G                            
+53846               CLENBUTEROL_.02MG_50T                             
+
+99891737            Contreras/Johana                                  
+53846               CLENBUTEROL_.02MG_50T                             
+58259               SULFADIAZINA_DE_PLATA_CRA_28GR                    
+30228               METOPROLOL_20T/100                                
+42856               FELODIPINO_5_MG_20T                               
+76247               FLUOCINOLONA_CREMA_30G                            
+
+77324146            Moscoso/Janet                                     
+74680               FENITOINA_T50_100MG                               
+72969               ISOSORBIDE_10MG_T/20                              
+43222               AMBROXOL_GOTAS_30ML                               
+
+54815159            Patino/Delicia                                    
+96554               PIROXICAM_20MG_T20                                
+70116               LACTULOSA_125ML                                   
+26920               HIDRALAZINA_20T_10MG                              
+92517               ISOCONAZOL_CR_20GR_GI                             
+
+MIGUEL_ALEX_LANDEO_ESTRADA                        JL34115             Cardiologia         
+15290194            Hernandez/Guillermo                               
+26484               DILTIAZEM_30_TAB/30_MG                            
+26920               HIDRALAZINA_20T_10MG                              
+
+51873364            Calixto/Erick                                     
+91653               SAL_DE_UVAS_PICOT                                 
+16299               AZITROMICINA_500MG_C/3T                           
+46919               VITAMINA_C_C20_TAB_100MG                          
+24522               LEVOFLOXACINO_500MG_C/7_TAB                       
+40862               YODOPOVIDONA_120ML                                
+
+93961840            Pairazaman/Tatiana                                
+46000               HIDROX_MAGNESIO+ALUMINIO_240ML                    
+41995               DIMETICONA_SUSP_100MG_30ML                        
+89325               DIMENHIDRINATO_24_T_50MG                          
+37549               TOPIRAMATO_100MG_20T                              
+81333               CARNITINA_C/30                                    
+
+20371464            Lozada/Heli                                       
+46000               HIDROX_MAGNESIO+ALUMINIO_240ML                    
+75565               MICONAZOL_20_GR_CRA                               
+
+12484697            Diaz/Enrique                                      
+74924               TAMSULOSINA_0.4_MG_CAPS_20                        
+43633               ERITROMICINA_T_250_MG_C/20                        
+74680               FENITOINA_T50_100MG                               
+75565               MICONAZOL_20_GR_CRA                               
+
+61061535            Solis/Maria                                       
+43633               ERITROMICINA_T_250_MG_C/20                        
+73174               VITAMINA_P/DIABETICOS_30T                         
+
+34697743            Ayala/Ericka                                      
+14962               HIERRO_DEXTRANO_AMP4                              
+90198               NITROFURAL_6MG_6/OV                               
+70807               LINCOMICINA_600_MG_INY_C/3                        
+
+43704548            Vizcardo/Maribel                                  
+39779               OMEPRAZOL_20_MG_C/14                              
+36649               CITALOPRAM_20MG_14T                               
+77358               LOPERAMIDA_T/12_2MG                               
+47734               MICRODACYN_60_SOL_240ML                           
+17804               PIROXICAM_30_GM_CRA                               
+
+68269451            Asmad/Adria                                       
+42861               BENCIDAMIDA_CRA_5%_60GR                           
+34070               FEXOFENADINA_C/10_180MG                           
+
+99891737            Contreras/Johana                                  
+84555               PARACETAMOL_300MG_C/5_SUP                         
+
+DAVID_CARLOS_PEREZ_ANTEZANO                       MB80040             Endocrinologia      
+75100362            Arca/Lucero                                       
+41995               DIMETICONA_SUSP_100MG_30ML                        
+25684               DEXAMETASONA_0.5MG_T/30                           
+94415               PRAVASTATINA_10_MG_C/15                           
+18672               TINIDAZOL_500MG_8T                                
+
+13731806            Salamanca/Virginia                                
+27016               ACECLOFENACO_100MG_10T                            
+28409               RIFAMPICINA_300_MG_C/16_CAP                       
+46919               VITAMINA_C_C20_TAB_100MG                          
+47697               CLINDAMICINA_300_MG_C/16                          
+
+91187814            Narvaez/Jesus                                     
+57036               OXOLAMINA_JBE_100ML                               
+40997               ELECTROLIT_PED_FRESA_625ML                        
+40862               YODOPOVIDONA_120ML                                
+53084               MINOCICLINA_100MG_10T                             
+64347               DIFENHIDRAMINA_25MG_C30                           
+
+31284904            Sakaguchi/Carlos                                  
+53846               CLENBUTEROL_.02MG_50T                             
+
+51642949            Miranda/Alfonso                                   
+91653               SAL_DE_UVAS_PICOT                                 
+
+27709566            Ortiz/Raul                                        
+45814               ERITROMICINA_250MG_SUSP                           
+72495               ACIDO_GLUTAMICO_600_MG_C/100                      
+
+59596317            Justino/Virginia                                  
+26920               HIDRALAZINA_20T_10MG                              
+98679               DOXICICLINA_100MG_10_CAPS                         
+51148               PANTOPRAZOL_40MG_C/14                             
+
+99891737            Contreras/Johana                                  
+82469               GUAYACOL_AMPOLLETA_1ML                            
+30428               PROPAFENONA_150_MG/20_TAB                         
+62008               LISINOPRIL_T/30_10_MG                             
+24733               CALCIO+MAGNESIO_30T                               
+
+68269451            Asmad/Adria                                       
+61295               QUINFAMIDA_100_MG_3TAB                            
+86828               FENAZOPIRIDINA_100_MG_C/20_TAB                    
+
+CARMEN_ZAMORA_CABRERA                             CQ25448             Endocrinologia      
+35606314            Mercado/Elia                                      
+14075               CLOTRIMAZOL_C/6_CPR_VAG                           
+
+85395219            Fuentes/Patricia                                  
+86476               KETOTIFENO_C/30                                   
+
+36471787            Pena/Glenda                                       
+14075               CLOTRIMAZOL_C/6_CPR_VAG                           
+
+35606314            Mercado/Elia                                      
+39779               OMEPRAZOL_20_MG_C/14                              
+70807               LINCOMICINA_600_MG_INY_C/3                        
+
+57182371            Moscoso/Fiorella                                  
+81821               AMIODARONA_200MG_T20                              
+76238               BEZOCAINA_10GR_GEL                                
+92517               ISOCONAZOL_CR_20GR_GI                             
+58252               KETOTIFENO_SOL_120ML                              
+
+93282118            Zambrano/Ofelia                                   
+68730               MELOXICAM_7.5_MG_C/14                             
+86681               HIDROCLOROTIAZIDA_25_MG_20TAB                     
+85325               AMOXICILINA_250MG_C12                             
+68610               CALCITRIOL_0.25MCG_50_CAP                         
+47734               MICRODACYN_60_SOL_240ML                           
+
+59596317            Justino/Virginia                                  
+33200               GLUCOSAMINA_30C_500MG                             
+92628               KETOPROFENO_100MG_C15                             
+83510               FUROSEMIDA_40_MG_C/20                             
+83510               FUROSEMIDA_40_MG_C/20                             
+
+68114999            Rios/Ines                                         
+96881               GABAPENTINA_300_MG_C/15                           
+39088               NORFLOXACINO_T20_400MG                            
+25684               DEXAMETASONA_0.5MG_T/30                           
+17645               KETOKONAZOL_CRA_30GR                              
+49644               HIDROCORTISONA_CRA_30GR                           
+
+YLIANA_FLOR_ORTIZ_GUEVARA                         ZD40414             Ginecologia         
+66091742            Baca/Milagros                                     
+75565               MICONAZOL_20_GR_CRA                               
+74924               TAMSULOSINA_0.4_MG_CAPS_20                        
+60086               METAMISOL_500_MG_T10                              
+70950               LIDOCAINA_10%_115ML_SPRAY                         
+31389               BETAMETASONA_4_MG/ML                              
+
+20371464            Lozada/Heli                                       
+32486               BENZOCAINA_FRAMBUESA_C/24                         
+44253               PROGESTERONA+ESTRADIOL_50/5_AMP                   
+
+15290194            Hernandez/Guillermo                               
+44215               DICICLOVERINA_10MG_30T                            
+50450               SERTRALINA_50MG_C/14_T                            
+
+HUMBERTO_ALFONSO_AMEZQUITA_CONTRERAS              EU90562             Dermatologia        
+30246960            Escalante/Ines                                    
+26920               HIDRALAZINA_20T_10MG                              
+90300               FLUOXETINA_20_MG_C/14                             
+34070               FEXOFENADINA_C/10_180MG                           
+
+22598563            Sueldo/Adria                                      
+26484               DILTIAZEM_30_TAB/30_MG                            
+
+51642949            Miranda/Alfonso                                   
+22232               LEVETIRACETAM                                     
+28409               RIFAMPICINA_300_MG_C/16_CAP                       
+88994               FENITOINA_SODICA_7.5MG_120ML                      
+40862               YODOPOVIDONA_120ML                                
+
+49357767            Solis/Rolando                                     
+58259               SULFADIAZINA_DE_PLATA_CRA_28GR                    
+
+RAUL_COLLADO_VILLA                                RQ91509             Cardiologia         
+13731806            Salamanca/Virginia                                
+85641               TAMOXIFENO_10MG_30T                               
+
+27709566            Ortiz/Raul                                        
+48557               NAPROXENO_SODICO_100/2.5_SUSP                     
+31389               BETAMETASONA_4_MG/ML                              
+70950               LIDOCAINA_10%_115ML_SPRAY                         
+
+34697743            Ayala/Ericka                                      
+68539               METENAMINA_30T_500MG                              
+91653               SAL_DE_UVAS_PICOT                                 
+19397               ORLISTAT_/_21_CAP_120_MG                          
+72061               DEFLAZACORT_30MG_10T                              
+62302               BEZAFIBRATO_200MG_C/30TAB                         
+
+93939698            Henriquez/Silvana                                 
+32486               BENZOCAINA_FRAMBUESA_C/24                         
+16359               NAPROXENO_250_MG_TAB_C/30                         
+11592               TERBINAFINA_1%_CRA_20_GR                          
+90300               FLUOXETINA_20_MG_C/14                             
+
+35852072            Jauregui/Victor                                   
+34027               DANAZOL_100MG_50T                                 
+34070               FEXOFENADINA_C/10_180MG                           
+58259               SULFADIAZINA_DE_PLATA_CRA_28GR                    
+57505               ESPIRONOLACTONA_25MG_20T                          
+81821               AMIODARONA_200MG_T20                              
+
+22598563            Sueldo/Adria                                      
+36649               CITALOPRAM_20MG_14T                               
+86158               SENOSIDOS_A_y_B_C20                               
+
+JAIME_JULIAN_SHIRAKAWA_FLORIAN                    OL30557             Neumologia          
+95656771            Raffo/Rolando                                     
+91653               SAL_DE_UVAS_PICOT                                 
+77358               LOPERAMIDA_T/12_2MG                               
+88994               FENITOINA_SODICA_7.5MG_120ML                      
+34066               SULINDACO_200MG/20_TAB                            
+
+37282858            Soma/Lourdes                                      
+11592               TERBINAFINA_1%_CRA_20_GR                          
+59121               DESLORATADINA_5MG_10T                             
+70113               TETRACICLINA_250MG_10T                            
+26920               HIDRALAZINA_20T_10MG                              
+95196               DIGOXINA_0.250_MG_C/24                            
+
+54149342            Leyva/Diana                                       
+96031               CETIRIZINA_10_MG_TABS_C/10                        
+55701               EUCALIPTO_GUAYACOL_PERLAS30                       
+77358               LOPERAMIDA_T/12_2MG                               
+
+72330000            Vega/Carmela                                      
+26920               HIDRALAZINA_20T_10MG                              
+
+45914393            Lozada/Antonio                                    
+67784               LOSARTAN_50MG_C/10T                               
+58252               KETOTIFENO_SOL_120ML                              
+95196               DIGOXINA_0.250_MG_C/24                            
+83801               CEFACLOR_125_MG_SUSP                              
+
+93961840            Pairazaman/Tatiana                                
+91282               LEVONORGESTREL_1.5MG_/1_TAB                       
+54692               NAFAZOLINA_SOL_OFT_15_ml                          
+
+36471787            Pena/Glenda                                       
+55701               EUCALIPTO_GUAYACOL_PERLAS30                       
+82528               LORATADINA_T/10_10MG                              
+85325               AMOXICILINA_250MG_C12                             
+46000               HIDROX_MAGNESIO+ALUMINIO_240ML                    
+25684               DEXAMETASONA_0.5MG_T/30                           
+
+FRANCISCO_ZIMIC_SALAS                             LE20189             Endocrinologia      
+62126128            Durand/Enrique                                    
+16055               AMBROXOL_C/20_TAB                                 
+
+51642949            Miranda/Alfonso                                   
+92628               KETOPROFENO_100MG_C15                             
+36622               TEOFILINA_20_TAB/100_MG                           
+83510               FUROSEMIDA_40_MG_C/20                             
+49685               PINAVERIO_BROMURO_DE_100_MG_14T                   
+28992               ALUMUMINIO+MAGNESIO_SUSP_240ML                    
+
+41964357            Arca/Magali                                       
+97465               GLIBENCLAMIDA_5_MG_C/50                           
+
+20371464            Lozada/Heli                                       
+73174               VITAMINA_P/DIABETICOS_30T                         
+
+93282118            Zambrano/Ofelia                                   
+60086               METAMISOL_500_MG_T10                              
+70303               AZITROMICINA_SUSP                                 
+39779               OMEPRAZOL_20_MG_C/14                              
+30690               VITAMINAS_EMBARAZO_9_MESES_C30                    
+40862               YODOPOVIDONA_120ML                                
+
+52313890            Rivero/Wilver                                     
+58200               FLUCONAZOL_150MG._1C                              
+72969               ISOSORBIDE_10MG_T/20                              
+57036               OXOLAMINA_JBE_100ML                               
+42053               TRETINOINA_30G_CREMA_0.05%                        
+88681               NIFEDIPINO_30_MG_30_CPS                           
+
+93961840            Pairazaman/Tatiana                                
+81333               CARNITINA_C/30                                    
+16299               AZITROMICINA_500MG_C/3T                           
+
+86988155            Cerna/Cinthia                                     
+74680               FENITOINA_T50_100MG                               
+39779               OMEPRAZOL_20_MG_C/14                              
+
+85395219            Fuentes/Patricia                                  
+17804               PIROXICAM_30_GM_CRA                               
+37007               DIFENHIDRAMINA_250MG_JBE_120ML                    
+
+71422479            Lozada/Felicita                                   
+75565               MICONAZOL_20_GR_CRA                               
+86476               KETOTIFENO_C/30                                   
+31189               CEFADROXILO_500MG_C/16CAP                         
+22232               LEVETIRACETAM                                     
+70116               LACTULOSA_125ML                                   
+
+ALFONSO_WALDEMAR_CABELLO_LAM                      YR30082             Cardiologia         
+77440060            Escalante/Emigdio                                 
+43222               AMBROXOL_GOTAS_30ML                               
+76238               BEZOCAINA_10GR_GEL                                
+36711               TIBOLONA_2.5MG_30T                                
+
+62126128            Durand/Enrique                                    
+49685               PINAVERIO_BROMURO_DE_100_MG_14T                   
+77466               RAMIPRIL_16_TAB/5_MG                              
+
+35606314            Mercado/Elia                                      
+11592               TERBINAFINA_1%_CRA_20_GR                          
+63555               FAMOTIDINA_20MG_30C                               
+
+54815159            Patino/Delicia                                    
+34070               FEXOFENADINA_C/10_180MG                           
+73174               VITAMINA_P/DIABETICOS_30T                         
+82469               GUAYACOL_AMPOLLETA_1ML                            
+39779               OMEPRAZOL_20_MG_C/14                              
+
+77324146            Moscoso/Janet                                     
+88994               FENITOINA_SODICA_7.5MG_120ML                      
+34066               SULINDACO_200MG/20_TAB                            
+16359               NAPROXENO_250_MG_TAB_C/30                         
+67415               FINASTERIDA_5MG_30T                               
+
+65912822            Camacho/Ydali                                     
+88681               NIFEDIPINO_30_MG_30_CPS                           
+
+22598563            Sueldo/Adria                                      
+58252               KETOTIFENO_SOL_120ML                              
+
+12484697            Diaz/Enrique                                      
+48039               TRAMADOL_100MG_5AMP                               
+94429               TIAMAZOL_5MG_20T                                  
+93578               SUCRALFATO_40_TAB/1G                              
+
+72330000            Vega/Carmela                                      
+92628               KETOPROFENO_100MG_C15                             
+70116               LACTULOSA_125ML                                   
+53200               VITAMINA+OMEGA_3_30T                              
+30430               PRUEBA_DE_EMBARAZO                                
+
+93939698            Henriquez/Silvana                                 
+72061               DEFLAZACORT_30MG_10T                              
+95196               DIGOXINA_0.250_MG_C/24                            
+26754               SILDENAFIL_50MG_C/1-TAB                           
+
+ESTEFANIA_ZEGARRA_CASANOVA                        ES50718             Pediatria           
+66091742            Baca/Milagros                                     
+40862               YODOPOVIDONA_120ML                                
+90198               NITROFURAL_6MG_6/OV                               
+41403               VITAMINAS_Y_MINERALES_30-30T                      
+43633               ERITROMICINA_T_250_MG_C/20                        
+32486               BENZOCAINA_FRAMBUESA_C/24                         
+
+35852072            Jauregui/Victor                                   
+82469               GUAYACOL_AMPOLLETA_1ML                            
+25684               DEXAMETASONA_0.5MG_T/30                           
+47697               CLINDAMICINA_300_MG_C/16                          
+81960               CEFALEXINA_500MG_C/20_CAP                         
+72495               ACIDO_GLUTAMICO_600_MG_C/100                      
+
+13731806            Salamanca/Virginia                                
+36208               ENALAPRIL_T/30_10MG                               
+26484               DILTIAZEM_30_TAB/30_MG                            
+80830               COMPLEJO_B_T30                                    
+75565               MICONAZOL_20_GR_CRA                               
+
+MILENA_CINTHIA_ZARATE_ACUNA                       HW52063             Traumatologia       
+15290194            Hernandez/Guillermo                               
+38648               PENICILINA_V_POT_400000U_20T                      
+90198               NITROFURAL_6MG_6/OV                               
+49157               RANITIDINA_300_MG_C/10                            
+68610               CALCITRIOL_0.25MCG_50_CAP                         
+40997               ELECTROLIT_PED_FRESA_625ML                        
+
+51642949            Miranda/Alfonso                                   
+16299               AZITROMICINA_500MG_C/3T                           
+88994               FENITOINA_SODICA_7.5MG_120ML                      
+41403               VITAMINAS_Y_MINERALES_30-30T                      
+
+22598563            Sueldo/Adria                                      
+61211               OFLOXACINO_400_MG_C/8                             
+37007               DIFENHIDRAMINA_250MG_JBE_120ML                    
+81062               PAROXETINA_T/10_20MG                              
+
+93231760            Zarate/Alexander                                  
+92628               KETOPROFENO_100MG_C15                             
+86476               KETOTIFENO_C/30                                   
+70116               LACTULOSA_125ML                                   
+90300               FLUOXETINA_20_MG_C/14                             
+
+35852072            Jauregui/Victor                                   
+80839               CARBAMAZEPINA_120ML_SUSP                          
+31189               CEFADROXILO_500MG_C/16CAP                         
+84555               PARACETAMOL_300MG_C/5_SUP                         
+40862               YODOPOVIDONA_120ML                                
+
+71422479            Lozada/Felicita                                   
+76360               DICLOXACILINA_250_MG_C20                          
+55439               FUMARATO_FERROSO_SUSP_120ML                       
+22842               AMIKACINA_500MG_C/1_AMP                           
+40862               YODOPOVIDONA_120ML                                
+
+15290194            Hernandez/Guillermo                               
+70116               LACTULOSA_125ML                                   
+
+54149342            Leyva/Diana                                       
+88266               PREDNISONA_20MG_C30_TAB_GI                        
+
+62287143            Wong/Beatriz                                      
+61295               QUINFAMIDA_100_MG_3TAB                            
+
+VICTORIA_FIORELLA_CUBA_POMAJAMBO                  GY80063             Gastroenterologia   
+58643376            Arroyo/Natalia                                    
+16055               AMBROXOL_C/20_TAB                                 
+79996               LANSOPRAZOL_15_MG_C/14                            
+54692               NAFAZOLINA_SOL_OFT_15_ml                          
+46919               VITAMINA_C_C20_TAB_100MG                          
+70950               LIDOCAINA_10%_115ML_SPRAY                         
+
+13731806            Salamanca/Virginia                                
+77203               ONDANSETRON_8MG_C10T                              
+11370               KETOROLACO_4T_30MG_SUBLINGUAL                     
+
+51465986            Sam/Ines                                          
+59121               DESLORATADINA_5MG_10T                             
+81821               AMIODARONA_200MG_T20                              
+55439               FUMARATO_FERROSO_SUSP_120ML                       
+
+15290194            Hernandez/Guillermo                               
+26506               ITRACONAZOL_100_MG_C/15                           
+88994               FENITOINA_SODICA_7.5MG_120ML                      
+95540               NAPROXENO_500_MG_C/10_TAB                         
+65667               SUBSALICILATO/BISMUTO_SUSP_120ML                  
+36711               TIBOLONA_2.5MG_30T                                
+
+54815159            Patino/Delicia                                    
+74680               FENITOINA_T50_100MG                               
+86828               FENAZOPIRIDINA_100_MG_C/20_TAB                    
+36622               TEOFILINA_20_TAB/100_MG                           
+70225               CEFTRIAXONA_1.0GR_IM_G_I                          
+
+94683380            Farfan/Margot                                     
+30690               VITAMINAS_EMBARAZO_9_MESES_C30                    
+81695               LECHE_DE_MAGNESIA_180ML                           
+
+72330000            Vega/Carmela                                      
+68730               MELOXICAM_7.5_MG_C/14                             
+59395               VITAMINICO_GERIATRICO_C30                         
+36649               CITALOPRAM_20MG_14T                               
+53166               ASTEMIZOL_SUSP_200MG                              
+
+ROSARIO_TABORI_ARIAS                              JL19777             Oftalmologia        
+52313890            Rivero/Wilver                                     
+17845               GINKO_YANG_CAPS_C/30                              
+
+77324146            Moscoso/Janet                                     
+45814               ERITROMICINA_250MG_SUSP                           
+81695               LECHE_DE_MAGNESIA_180ML                           
+30007               DICLOFENACO_SODICO_1MG_GTS_5_ML                   
+48557               NAPROXENO_SODICO_100/2.5_SUSP                     
+77203               ONDANSETRON_8MG_C10T                              
+
+35852072            Jauregui/Victor                                   
+88681               NIFEDIPINO_30_MG_30_CPS                           
+55813               SALBUTAMOL_4MG_T30                                
+
+93282118            Zambrano/Ofelia                                   
+25684               DEXAMETASONA_0.5MG_T/30                           
+53846               CLENBUTEROL_.02MG_50T                             
+17845               GINKO_YANG_CAPS_C/30                              
+
+62287143            Wong/Beatriz                                      
+94459               VALPROATO_DE_MAGNESIO_SUSP                        
+16359               NAPROXENO_250_MG_TAB_C/30                         
+73174               VITAMINA_P/DIABETICOS_30T                         
+
+12484697            Diaz/Enrique                                      
+17645               KETOKONAZOL_CRA_30GR                              
+81960               CEFALEXINA_500MG_C/20_CAP                         
+
+51465986            Sam/Ines                                          
+43633               ERITROMICINA_T_250_MG_C/20                        
+94415               PRAVASTATINA_10_MG_C/15                           
+47697               CLINDAMICINA_300_MG_C/16                          
+16299               AZITROMICINA_500MG_C/3T                           
+
+62287143            Wong/Beatriz                                      
+15098               LISINA_CLOHRIDRATO_125MG_T10                      
+40862               YODOPOVIDONA_120ML                                
+
