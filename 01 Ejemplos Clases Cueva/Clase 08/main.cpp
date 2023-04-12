@@ -12,6 +12,7 @@ int main(){
     cout << rnotas++ << endl;
     cout << rnotas;
 
-    cout << rnotas + rcurva;    
+    cout << rnotas + rcurva;
+      
     return 0;
 }
