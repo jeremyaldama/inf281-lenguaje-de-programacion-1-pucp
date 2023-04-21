@@ -141,8 +141,8 @@ int VerificarSeEncuentraInt(int llave, const char*nombre_arch){
     while(1){
         arch.read(reinterpret_cast<char*>(&entero), sizeof(int));
         if (arch.eof()) break;
-        arch.read(reinterpret_cast<char*>(nombre), sizeof(char)*100);
-        arch.read(reinterpret_cast<char*>(&flotante), sizeof(double));
+        arch.seekg(sizeof(char)*100, ios::cur);
+        arch.seekg(sizeof(double), ios::cur);
         if (entero == llave) return 1;
     }
     return 0;
