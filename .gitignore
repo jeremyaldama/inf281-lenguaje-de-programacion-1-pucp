@@ -6,3 +6,9 @@ nbproject
 .dep.inc
 Makefile
 .vscode
+# pruebas
+referencia.cpp
+js.js
+py.py
+casteo.cpp
+getline.cpp
