@@ -16,8 +16,11 @@ int main(int argc, char** argv) {
     struct Estructura_ClienteRegistrado clientes[20];
     LeerDatosClientes(clientes);
     struct Estructura_ProductosEnAlmacen productos[100];
+    cout << "INICIO: " << productos[0].descripcion << endl;
     LeerPedidos(clientes, productos);
     ImprimirReporte(clientes, productos);
+    bool bul = false;
+    cout << bul << endl;
     return 0;
 }
 
