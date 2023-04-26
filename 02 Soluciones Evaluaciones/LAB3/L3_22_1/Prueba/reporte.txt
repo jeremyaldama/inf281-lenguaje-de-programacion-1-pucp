@@ -1,0 +1,6 @@
+  DNI                           NOMBRE
+71984468    IPARRAGUIRRE_VILLEGAS_NICOLAS_EDILBERTO
+Cliente frecuente
+No.   CODIGO                  CANTIDAD                FECHA
+0)    HOLA                    100                   25/04/2023
+Monto total comprado: 100
