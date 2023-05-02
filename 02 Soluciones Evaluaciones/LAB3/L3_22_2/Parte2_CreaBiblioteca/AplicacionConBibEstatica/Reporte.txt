@@ -1,0 +1,618 @@
+
+DNI            NOMBRE                                            TELEFONO
+43704548       Vizcardo/Maribel                                  960851431
+RELACION DE CITAS
+1    20220909    892133      Gastroenterologia   389.91
+2    20220801    147871      Traumatologia       298.45
+3    20230127    300822      Cardiologia         184.46
+MONTO TOTAL GASTADO: 872.82
+
+DNI            NOMBRE                                            TELEFONO
+36471787       Pena/Glenda                                       480411757
+RELACION DE CITAS
+1    20230116    600493      Gastroenterologia   780.49
+2    20220814    707896      Pediatria           19.29
+3    20230403    909077      Dermatologia        470.72
+4    20230202    197775      Oftalmologia        977.98
+MONTO TOTAL GASTADO: 2248.48
+
+DNI            NOMBRE                                            TELEFONO
+71422479       Lozada/Felicita                                   680516877
+RELACION DE CITAS
+1    20220817    703676      Urologia            781.15
+2    20221001    802270      Pediatria           170.85
+3    20220819    800631      Gastroenterologia   256.05
+4    20220923    146552      Oncologia           940.91
+5    20220822    300822      Cardiologia         184.46
+MONTO TOTAL GASTADO: 2333.42
+
+DNI            NOMBRE                                            TELEFONO
+51465986       Sam/Ines                                          676247212
+RELACION DE CITAS
+1    20220805    702339      Ginecologia         902.38
+2    20220817    802270      Pediatria           170.85
+3    20230330    800631      Gastroenterologia   256.05
+4    20221022    300822      Cardiologia         184.46
+5    20220827    354519      Pediatria           897.5
+6    20220909    197775      Oftalmologia        977.98
+7    20221215    305578      Neumologia          169.44
+MONTO TOTAL GASTADO: 3558.66
+
+DNI            NOMBRE                                            TELEFONO
+20371464       Lozada/Heli                                       915825030
+RELACION DE CITAS
+1    20220828    147871      Traumatologia       298.45
+2    20220812    197775      Oftalmologia        977.98
+3    20220913    341150      Cardiologia         893.34
+4    20230407    197775      Oftalmologia        977.98
+5    20220830    907988      Traumatologia       758.51
+6    20220804    807862      Ginecologia         997.38
+7    20221001    150928      Dermatologia        756.45
+8    20221129    354519      Pediatria           897.5
+9    20230330    892133      Gastroenterologia   389.91
+MONTO TOTAL GASTADO: 6947.5
+
+DNI            NOMBRE                                            TELEFONO
+36934113       Serrano/Arturo                                    343899369
+RELACION DE CITAS
+1    20220817    497687      Cardiologia         197.06
+2    20220901    535567      Pediatria           410.37
+3    20221127    909077      Dermatologia        470.72
+4    20221204    601846      Traumatologia       738.9
+5    20220829    182620      Urologia            981.29
+6    20221030    520631      Traumatologia       792.07
+MONTO TOTAL GASTADO: 3590.41
+
+DNI            NOMBRE                                            TELEFONO
+15290194       Hernandez/Guillermo                               624395862
+RELACION DE CITAS
+1    20230209    892133      Gastroenterologia   389.91
+2    20230404    707896      Pediatria           19.29
+3    20220906    702694      Dermatologia        523.53
+4    20220829    702694      Dermatologia        523.53
+5    20220814    182620      Urologia            981.29
+6    20220809    802270      Pediatria           170.85
+7    20230418    807862      Ginecologia         997.38
+8    20220818    702694      Dermatologia        523.53
+MONTO TOTAL GASTADO: 4129.31
+
+DNI            NOMBRE                                            TELEFONO
+85395219       Fuentes/Patricia                                  890128958
+RELACION DE CITAS
+1    20230126    520631      Traumatologia       792.07
+2    20220817    915098      Cardiologia         146.35
+3    20221229    609349      Neumologia          526.45
+4    20230126    305578      Neumologia          169.44
+5    20230206    800404      Endocrinologia      4.56
+MONTO TOTAL GASTADO: 1638.87
+
+DNI            NOMBRE                                            TELEFONO
+93961840       Pairazaman/Tatiana                                753142166
+RELACION DE CITAS
+1    20221002    201895      Endocrinologia      854.93
+2    20220813    354519      Pediatria           897.5
+3    20220901    300822      Cardiologia         184.46
+4    20230206    601846      Traumatologia       738.9
+5    20220801    707896      Pediatria           19.29
+6    20220829    300822      Cardiologia         184.46
+7    20221001    146552      Oncologia           940.91
+8    20221113    146552      Oncologia           940.91
+9    20220914    709926      Gastroenterologia   525.59
+MONTO TOTAL GASTADO: 5286.95
+
+DNI            NOMBRE                                            TELEFONO
+61061535       Solis/Maria                                       737275515
+RELACION DE CITAS
+1    20220802    497687      Cardiologia         197.06
+2    20220829    404143      Ginecologia         55.48
+3    20230328    150928      Dermatologia        756.45
+4    20220820    336876      Oftalmologia        654.46
+5    20220818    909295      Oftalmologia        405.69
+6    20221215    600493      Gastroenterologia   780.49
+MONTO TOTAL GASTADO: 2849.63
+
+DNI            NOMBRE                                            TELEFONO
+62126128       Durand/Enrique                                    122222040
+RELACION DE CITAS
+1    20230228    909077      Dermatologia        470.72
+2    20220801    702694      Dermatologia        523.53
+3    20221017    800404      Endocrinologia      4.56
+4    20220817    909077      Dermatologia        470.72
+5    20220801    909295      Oftalmologia        405.69
+6    20220817    305578      Neumologia          169.44
+7    20220827    182620      Urologia            981.29
+8    20230206    187089      Ginecologia         176.6
+MONTO TOTAL GASTADO: 3202.55
+
+DNI            NOMBRE                                            TELEFONO
+54815159       Patino/Delicia                                    206563313
+RELACION DE CITAS
+1    20220803    702694      Dermatologia        523.53
+2    20221027    907988      Traumatologia       758.51
+3    20230212    201895      Endocrinologia      854.93
+4    20230223    709926      Gastroenterologia   525.59
+5    20220917    182620      Urologia            981.29
+6    20220829    800404      Endocrinologia      4.56
+7    20230318    802270      Pediatria           170.85
+8    20221122    909077      Dermatologia        470.72
+MONTO TOTAL GASTADO: 4289.98
+
+DNI            NOMBRE                                            TELEFONO
+91187814       Narvaez/Jesus                                     217355048
+RELACION DE CITAS
+1    20220827    341150      Cardiologia         893.34
+2    20220816    807862      Ginecologia         997.38
+3    20221015    802270      Pediatria           170.85
+MONTO TOTAL GASTADO: 2061.57
+
+DNI            NOMBRE                                            TELEFONO
+51642949       Miranda/Alfonso                                   922420457
+RELACION DE CITAS
+1    20230209    600493      Gastroenterologia   780.49
+2    20230216    707896      Pediatria           19.29
+3    20221127    201895      Endocrinologia      854.93
+4    20220803    707896      Pediatria           19.29
+5    20230212    801383      Geriatria           319.8
+6    20230330    305578      Neumologia          169.44
+7    20221218    187089      Ginecologia         176.6
+MONTO TOTAL GASTADO: 2339.84
+
+DNI            NOMBRE                                            TELEFONO
+45201670       Guevara/Milena                                    903110724
+RELACION DE CITAS
+1    20230318    535567      Pediatria           410.37
+2    20220821    907988      Traumatologia       758.51
+3    20220814    201895      Endocrinologia      854.93
+MONTO TOTAL GASTADO: 2023.81
+
+DNI            NOMBRE                                            TELEFONO
+31284904       Sakaguchi/Carlos                                  703752482
+RELACION DE CITAS
+1    20220826    497687      Cardiologia         197.06
+2    20221117    800404      Endocrinologia      4.56
+3    20220827    905627      Dermatologia        869.33
+4    20230307    909077      Dermatologia        470.72
+MONTO TOTAL GASTADO: 1541.67
+
+DNI            NOMBRE                                            TELEFONO
+93282118       Zambrano/Ofelia                                   138628867
+RELACION DE CITAS
+1    20220806    497687      Cardiologia         197.06
+2    20220830    601846      Traumatologia       738.9
+3    20220919    354519      Pediatria           897.5
+4    20221026    147871      Traumatologia       298.45
+5    20220829    807862      Ginecologia         997.38
+6    20230318    341150      Cardiologia         893.34
+MONTO TOTAL GASTADO: 4022.63
+
+DNI            NOMBRE                                            TELEFONO
+34697743       Ayala/Ericka                                      587272727
+RELACION DE CITAS
+1    20220805    909295      Oftalmologia        405.69
+2    20220901    506117      Urologia            337.03
+3    20220804    709926      Gastroenterologia   525.59
+MONTO TOTAL GASTADO: 1268.31
+
+DNI            NOMBRE                                            TELEFONO
+68114999       Rios/Ines                                         893464725
+RELACION DE CITAS
+1    20220814    702339      Ginecologia         902.38
+2    20220826    909295      Oftalmologia        405.69
+3    20220901    907988      Traumatologia       758.51
+4    20221025    201895      Endocrinologia      854.93
+5    20220819    254488      Endocrinologia      496.87
+MONTO TOTAL GASTADO: 3418.38
+
+DNI            NOMBRE                                            TELEFONO
+95656771       Raffo/Rolando                                     685781560
+RELACION DE CITAS
+1    20230206    187089      Ginecologia         176.6
+2    20230124    909295      Oftalmologia        405.69
+3    20220803    197775      Oftalmologia        977.98
+MONTO TOTAL GASTADO: 1560.27
+
+DNI            NOMBRE                                            TELEFONO
+54149342       Leyva/Diana                                       373707475
+RELACION DE CITAS
+1    20220830    905627      Dermatologia        869.33
+2    20220826    507183      Pediatria           264.21
+3    20230318    300822      Cardiologia         184.46
+4    20220804    907988      Traumatologia       758.51
+5    20230312    341150      Cardiologia         893.34
+6    20220820    702339      Ginecologia         902.38
+7    20230310    709926      Gastroenterologia   525.59
+MONTO TOTAL GASTADO: 4397.82
+
+DNI            NOMBRE                                            TELEFONO
+99891737       Contreras/Johana                                  973415589
+RELACION DE CITAS
+1    20220815    182620      Urologia            981.29
+2    20220909    187089      Ginecologia         176.6
+3    20221206    706122      Traumatologia       842.24
+4    20230307    909295      Oftalmologia        405.69
+5    20230404    150928      Dermatologia        756.45
+6    20230411    404143      Ginecologia         55.48
+MONTO TOTAL GASTADO: 3217.75
+
+DNI            NOMBRE                                            TELEFONO
+93939698       Henriquez/Silvana                                 459353442
+RELACION DE CITAS
+1    20220829    197775      Oftalmologia        977.98
+2    20230404    150928      Dermatologia        756.45
+3    20220801    609349      Neumologia          526.45
+4    20221129    707896      Pediatria           19.29
+5    20220915    702694      Dermatologia        523.53
+MONTO TOTAL GASTADO: 2803.7
+
+DNI            NOMBRE                                            TELEFONO
+32538825       Hijar/Martin                                      552348311
+RELACION DE CITAS
+1    20220820    909077      Dermatologia        470.72
+2    20230310    800404      Endocrinologia      4.56
+3    20220901    341150      Cardiologia         893.34
+4    20221118    600493      Gastroenterologia   780.49
+5    20220829    915098      Cardiologia         146.35
+MONTO TOTAL GASTADO: 2295.46
+
+DNI            NOMBRE                                            TELEFONO
+63640178       Rodriguez/Blanca                                  979357318
+RELACION DE CITAS
+1    20221004    802270      Pediatria           170.85
+2    20230114    506117      Urologia            337.03
+3    20220809    702694      Dermatologia        523.53
+MONTO TOTAL GASTADO: 1031.41
+
+DNI            NOMBRE                                            TELEFONO
+35852072       Jauregui/Victor                                   954019148
+RELACION DE CITAS
+1    20221214    600493      Gastroenterologia   780.49
+2    20230116    187089      Ginecologia         176.6
+3    20221206    305578      Neumologia          169.44
+4    20230411    609349      Neumologia          526.45
+5    20220819    706122      Traumatologia       842.24
+6    20230318    702694      Dermatologia        523.53
+MONTO TOTAL GASTADO: 3018.75
+
+DNI            NOMBRE                                            TELEFONO
+72330000       Vega/Carmela                                      322515219
+RELACION DE CITAS
+1    20220826    702694      Dermatologia        523.53
+2    20230209    905627      Dermatologia        869.33
+3    20220809    520631      Traumatologia       792.07
+4    20220901    707896      Pediatria           19.29
+5    20230330    507183      Pediatria           264.21
+6    20221026    187089      Ginecologia         176.6
+MONTO TOTAL GASTADO: 2645.03
+
+DNI            NOMBRE                                            TELEFONO
+80694546       Ramirez/Karina                                    976115294
+RELACION DE CITAS
+1    20220829    702339      Ginecologia         902.38
+2    20230411    800404      Endocrinologia      4.56
+3    20220830    201895      Endocrinologia      854.93
+4    20220802    909295      Oftalmologia        405.69
+MONTO TOTAL GASTADO: 2167.56
+
+DNI            NOMBRE                                            TELEFONO
+81647285       Vega/Henrry                                       966706570
+RELACION DE CITAS
+1    20230315    706122      Traumatologia       842.24
+2    20230418    609349      Neumologia          526.45
+3    20220801    909077      Dermatologia        470.72
+4    20230116    702339      Ginecologia         902.38
+MONTO TOTAL GASTADO: 2741.79
+
+DNI            NOMBRE                                            TELEFONO
+72973662       Vargas/Daniel                                     323159471
+RELACION DE CITAS
+1    20220819    800631      Gastroenterologia   256.05
+2    20230209    254488      Endocrinologia      496.87
+3    20221229    907988      Traumatologia       758.51
+MONTO TOTAL GASTADO: 1511.43
+
+DNI            NOMBRE                                            TELEFONO
+93231760       Zarate/Alexander                                  896774499
+RELACION DE CITAS
+1    20221027    146552      Oncologia           940.91
+2    20230327    609349      Neumologia          526.45
+3    20220816    147871      Traumatologia       298.45
+4    20230330    535567      Pediatria           410.37
+MONTO TOTAL GASTADO: 2176.18
+
+DNI            NOMBRE                                            TELEFONO
+77324146       Moscoso/Janet                                     740909448
+RELACION DE CITAS
+1    20221025    254488      Endocrinologia      496.87
+2    20221229    305578      Neumologia          169.44
+3    20221122    201895      Endocrinologia      854.93
+4    20230328    801383      Geriatria           319.8
+5    20221201    915098      Cardiologia         146.35
+MONTO TOTAL GASTADO: 1987.39
+
+DNI            NOMBRE                                            TELEFONO
+51873364       Calixto/Erick                                     175280362
+RELACION DE CITAS
+1    20221022    702694      Dermatologia        523.53
+2    20221229    150928      Dermatologia        756.45
+3    20220803    201895      Endocrinologia      854.93
+MONTO TOTAL GASTADO: 2134.91
+
+DNI            NOMBRE                                            TELEFONO
+45914393       Lozada/Antonio                                    356363924
+RELACION DE CITAS
+1    20220821    197775      Oftalmologia        977.98
+2    20220819    892133      Gastroenterologia   389.91
+3    20230124    341150      Cardiologia         893.34
+4    20221220    497687      Cardiologia         197.06
+MONTO TOTAL GASTADO: 2458.29
+
+DNI            NOMBRE                                            TELEFONO
+35347567       Sedano/Elia                                       470481309
+RELACION DE CITAS
+1    20230407    609349      Neumologia          526.45
+2    20220823    909077      Dermatologia        470.72
+MONTO TOTAL GASTADO: 997.17
+
+DNI            NOMBRE                                            TELEFONO
+34571095       Infantes/Luis                                     539722326
+RELACION DE CITAS
+1    20230402    801383      Geriatria           319.8
+MONTO TOTAL GASTADO: 319.8
+
+DNI            NOMBRE                                            TELEFONO
+49357767       Solis/Rolando                                     268485732
+RELACION DE CITAS
+1    20230312    600493      Gastroenterologia   780.49
+2    20220804    800631      Gastroenterologia   256.05
+3    20221002    146552      Oncologia           940.91
+MONTO TOTAL GASTADO: 1977.45
+
+DNI            NOMBRE                                            TELEFONO
+13731806       Salamanca/Virginia                                504346365
+RELACION DE CITAS
+1    20221108    801383      Geriatria           319.8
+2    20230111    702694      Dermatologia        523.53
+3    20221116    644057      Oftalmologia        232.61
+4    20220824    187089      Ginecologia         176.6
+5    20220808    520631      Traumatologia       792.07
+6    20220824    800631      Gastroenterologia   256.05
+7    20220808    187089      Ginecologia         176.6
+MONTO TOTAL GASTADO: 2477.26
+
+DNI            NOMBRE                                            TELEFONO
+22679759       Bravo/Janet                                       639486017
+RELACION DE CITAS
+1    20230307    187089      Ginecologia         176.6
+2    20230121    187089      Ginecologia         176.6
+MONTO TOTAL GASTADO: 353.2
+
+DNI            NOMBRE                                            TELEFONO
+94683380       Farfan/Margot                                     654189411
+RELACION DE CITAS
+1    20220817    801383      Geriatria           319.8
+2    20220906    520631      Traumatologia       792.07
+3    20230201    709926      Gastroenterologia   525.59
+4    20220909    336876      Oftalmologia        654.46
+MONTO TOTAL GASTADO: 2291.92
+
+DNI            NOMBRE                                            TELEFONO
+92275859       Egusquiza/Doris                                   340934240
+RELACION DE CITAS
+1    20220802    703676      Urologia            781.15
+MONTO TOTAL GASTADO: 781.15
+
+DNI            NOMBRE                                            TELEFONO
+35606314       Mercado/Elia                                      861780261
+RELACION DE CITAS
+1    20230404    644057      Oftalmologia        232.61
+2    20230403    354519      Pediatria           897.5
+3    20230127    892133      Gastroenterologia   389.91
+4    20230111    709926      Gastroenterologia   525.59
+MONTO TOTAL GASTADO: 2045.61
+
+DNI            NOMBRE                                            TELEFONO
+65912822       Camacho/Ydali                                     938453880
+RELACION DE CITAS
+1    20220806    354519      Pediatria           897.5
+2    20230116    601846      Traumatologia       738.9
+3    20230318    802270      Pediatria           170.85
+MONTO TOTAL GASTADO: 1807.25
+
+DNI            NOMBRE                                            TELEFONO
+59561864       Rosemberg/Julio                                   762180890
+RELACION DE CITAS
+1    20221217    807862      Ginecologia         997.38
+2    20220803    300822      Cardiologia         184.46
+MONTO TOTAL GASTADO: 1181.84
+
+DNI            NOMBRE                                            TELEFONO
+59596317       Justino/Virginia                                  900594107
+RELACION DE CITAS
+1    20221216    892133      Gastroenterologia   389.91
+2    20230427    254488      Endocrinologia      496.87
+3    20220901    915098      Cardiologia         146.35
+4    20221214    254488      Endocrinologia      496.87
+MONTO TOTAL GASTADO: 1530
+
+DNI            NOMBRE                                            TELEFONO
+52313890       Rivero/Wilver                                     744249340
+RELACION DE CITAS
+1    20220817    609349      Neumologia          526.45
+2    20221127    150928      Dermatologia        756.45
+3    20220816    702694      Dermatologia        523.53
+MONTO TOTAL GASTADO: 1806.43
+
+DNI            NOMBRE                                            TELEFONO
+37282858       Soma/Lourdes                                      227523525
+RELACION DE CITAS
+1    20220829    300822      Cardiologia         184.46
+2    20220913    800631      Gastroenterologia   256.05
+3    20230209    341150      Cardiologia         893.34
+4    20230111    909295      Oftalmologia        405.69
+MONTO TOTAL GASTADO: 1739.54
+
+DNI            NOMBRE                                            TELEFONO
+27709566       Ortiz/Raul                                        796752488
+RELACION DE CITAS
+1    20220823    801383      Geriatria           319.8
+2    20230328    709926      Gastroenterologia   525.59
+3    20221201    506117      Urologia            337.03
+4    20230318    800404      Endocrinologia      4.56
+MONTO TOTAL GASTADO: 1186.98
+
+DNI            NOMBRE                                            TELEFONO
+41964357       Arca/Magali                                       826306601
+RELACION DE CITAS
+1    20220816    706122      Traumatologia       842.24
+2    20230315    404143      Ginecologia         55.48
+3    20220917    707896      Pediatria           19.29
+MONTO TOTAL GASTADO: 917.01
+
+DNI            NOMBRE                                            TELEFONO
+14956687       Luna/Waldemar                                     346368780
+RELACION DE CITAS
+1    20230418    535567      Pediatria           410.37
+2    20220821    703676      Urologia            781.15
+MONTO TOTAL GASTADO: 1191.52
+
+DNI            NOMBRE                                            TELEFONO
+77440060       Escalante/Emigdio                                 261313606
+RELACION DE CITAS
+1    20221022    201895      Endocrinologia      854.93
+2    20230426    807862      Ginecologia         997.38
+3    20220820    707896      Pediatria           19.29
+4    20220826    800404      Endocrinologia      4.56
+MONTO TOTAL GASTADO: 1876.16
+
+DNI            NOMBRE                                            TELEFONO
+62287143       Wong/Beatriz                                      146854741
+RELACION DE CITAS
+1    20230212    909295      Oftalmologia        405.69
+2    20221020    709926      Gastroenterologia   525.59
+3    20221127    706122      Traumatologia       842.24
+4    20230312    600493      Gastroenterologia   780.49
+5    20220818    146552      Oncologia           940.91
+6    20220804    300822      Cardiologia         184.46
+7    20220916    644057      Oftalmologia        232.61
+MONTO TOTAL GASTADO: 3911.99
+
+DNI            NOMBRE                                            TELEFONO
+28992638       Trigueros/Luz                                     114153263
+RELACION DE CITAS
+1    20220817    197775      Oftalmologia        977.98
+MONTO TOTAL GASTADO: 977.98
+
+DNI            NOMBRE                                            TELEFONO
+53420926       Prado/Juan                                        470373331
+RELACION DE CITAS
+1    20220806    341150      Cardiologia         893.34
+2    20220801    801383      Geriatria           319.8
+3    20221222    254488      Endocrinologia      496.87
+MONTO TOTAL GASTADO: 1710.01
+
+DNI            NOMBRE                                            TELEFONO
+86988155       Cerna/Cinthia                                     745522518
+RELACION DE CITAS
+1    20220914    254488      Endocrinologia      496.87
+2    20221229    506117      Urologia            337.03
+3    20220901    915098      Cardiologia         146.35
+4    20220813    300822      Cardiologia         184.46
+5    20221122    146552      Oncologia           940.91
+MONTO TOTAL GASTADO: 2105.62
+
+DNI            NOMBRE                                            TELEFONO
+90367684       Sinche/Yvonne                                     783649119
+RELACION DE CITAS
+1    20220804    907988      Traumatologia       758.51
+2    20221127    915098      Cardiologia         146.35
+3    20220917    535567      Pediatria           410.37
+4    20230315    520631      Traumatologia       792.07
+5    20221026    520631      Traumatologia       792.07
+6    20230327    341150      Cardiologia         893.34
+MONTO TOTAL GASTADO: 3792.71
+
+DNI            NOMBRE                                            TELEFONO
+22598563       Sueldo/Adria                                      253269588
+RELACION DE CITAS
+1    20221108    341150      Cardiologia         893.34
+2    20220829    150928      Dermatologia        756.45
+3    20220810    506117      Urologia            337.03
+4    20220829    706122      Traumatologia       842.24
+5    20230228    305578      Neumologia          169.44
+MONTO TOTAL GASTADO: 2998.5
+
+DNI            NOMBRE                                            TELEFONO
+30246960       Escalante/Ines                                    976841944
+RELACION DE CITAS
+1    20220829    201895      Endocrinologia      854.93
+2    20221129    150928      Dermatologia        756.45
+3    20220917    702339      Ginecologia         902.38
+4    20220901    147871      Traumatologia       298.45
+MONTO TOTAL GASTADO: 2812.21
+
+DNI            NOMBRE                                            TELEFONO
+58643376       Arroyo/Natalia                                    444012515
+RELACION DE CITAS
+1    20220826    709926      Gastroenterologia   525.59
+2    20230303    702339      Ginecologia         902.38
+3    20220827    520631      Traumatologia       792.07
+MONTO TOTAL GASTADO: 2220.04
+
+DNI            NOMBRE                                            TELEFONO
+81539774       Alfaro/Erick                                      683768197
+RELACION DE CITAS
+1    20221004    507183      Pediatria           264.21
+MONTO TOTAL GASTADO: 264.21
+
+DNI            NOMBRE                                            TELEFONO
+17299012       Suarez/Amaru                                      296011887
+RELACION DE CITAS
+1    20221027    709926      Gastroenterologia   525.59
+MONTO TOTAL GASTADO: 525.59
+
+DNI            NOMBRE                                            TELEFONO
+12484697       Diaz/Enrique                                      331859358
+RELACION DE CITAS
+1    20220916    254488      Endocrinologia      496.87
+2    20230114    702339      Ginecologia         902.38
+3    20220810    801383      Geriatria           319.8
+4    20220913    905627      Dermatologia        869.33
+5    20220812    535567      Pediatria           410.37
+MONTO TOTAL GASTADO: 2998.75
+
+DNI            NOMBRE                                            TELEFONO
+57182371       Moscoso/Fiorella                                  531838148
+RELACION DE CITAS
+1    20221026    909295      Oftalmologia        405.69
+2    20230418    644057      Oftalmologia        232.61
+3    20221121    506117      Urologia            337.03
+MONTO TOTAL GASTADO: 975.33
+
+DNI            NOMBRE                                            TELEFONO
+66039166       Chavez/Johan                                      768705362
+RELACION DE CITAS
+1    20220825    706122      Traumatologia       842.24
+MONTO TOTAL GASTADO: 842.24
+
+DNI            NOMBRE                                            TELEFONO
+68269451       Asmad/Adria                                       233585092
+RELACION DE CITAS
+1    20220801    800631      Gastroenterologia   256.05
+2    20220816    800404      Endocrinologia      4.56
+3    20220825    909077      Dermatologia        470.72
+4    20220818    520631      Traumatologia       792.07
+MONTO TOTAL GASTADO: 1523.4
+
+DNI            NOMBRE                                            TELEFONO
+75100362       Arca/Lucero                                       246213116
+RELACION DE CITAS
+1    20220830    600493      Gastroenterologia   780.49
+MONTO TOTAL GASTADO: 780.49
+
+DNI            NOMBRE                                            TELEFONO
+66091742       Baca/Milagros                                     845718743
+RELACION DE CITAS
+1    20220923    146552      Oncologia           940.91
+2    20220803    907988      Traumatologia       758.51
+MONTO TOTAL GASTADO: 1699.42
+

@@ -48,15 +48,27 @@ void cargaclientes(int *&cli_dni, char **&cli_nombre, char *&cli_categoria){
         cont++;
     }
     auxdni[cont] = -1;
-    cont++;
     
     cli_dni = new int[cont];
     cli_nombre = new char*[cont];
     cli_categoria = new char[cont];
     
-    for (int i=0; i<cont-1; i++){
+    for (int i=0; i<cont+1; i++){
         cli_dni[i] = auxdni[i];
         cli_nombre[i] = auxnombre[i];
         cli_categoria[i] = auxcate[i];
+    }
+}
+
+void imprimirclientes(int *cli_dni, char **cli_nombre, char *cli_categoria){
+    ofstream arch("reporte.txt", ios::out);
+    if(!arch){
+        cout << "NO SE PUDO ABRIR CLIENTES";
+        exit(1);
+    }
+    
+    for (int i=0; cli_dni[i]!=-1; i++){
+        arch << cli_dni[i] << setw(50) << cli_nombre[i] << right << "###" << setw(10) <<
+                cli_categoria[i] << endl;
     }
 }

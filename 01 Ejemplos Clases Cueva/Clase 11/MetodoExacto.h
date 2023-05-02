@@ -12,5 +12,6 @@ using namespace std;
 
 void cargaclientes(int *&cli_dni, char **&cli_nombre, char *&cli_categoria);
 void leercadena(ifstream &arch, char*&cad);
+void imprimirclientes(int *cli_dni, char **cli_nombre, char *cli_categoria);
 
 #endif /* FUNCIONES_H */

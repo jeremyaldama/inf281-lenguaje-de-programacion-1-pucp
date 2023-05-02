@@ -15,6 +15,7 @@ int main(int argc, char** argv) {
     int *cli_dni;
     
     cargaclientes(cli_dni, cli_nombre, cli_categoria);
+    imprimirclientes(cli_dni, cli_nombre, cli_categoria);
     return 0;
 }
 
