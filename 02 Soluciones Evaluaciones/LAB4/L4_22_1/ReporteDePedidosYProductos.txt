@@ -1,0 +1,436 @@
+CLIENTES: 
+DNI: 71984468
+CODIGOS FECHA PEDIDOS: 
+         308982       20191006
+         696000       20190807
+         511824       20220211
+         485302       20211128
+         244316       20210305
+         620036       20201126
+CANTIDADES PRECIOS
+      1.12
+      0.85
+      8.13
+      5.99
+      6.67
+      6.41
+========================================================
+DNI: 29847168
+CODIGOS FECHA PEDIDOS: 
+         927404       20210101
+         178097       20210802
+         412041       20200304
+         415932       20200626
+         731238       20210423
+         582920       20191230
+         204890       20211102
+CANTIDADES PRECIOS
+      3.79
+      4.49
+     11.35
+      1.17
+       7.5
+      1.16
+      9.45
+========================================================
+DNI: 79475585
+CODIGOS FECHA PEDIDOS: 
+         826317       20200514
+         411461       20200907
+         455703       20191216
+         925916       20210124
+         696000       20200718
+         462755       20200430
+CANTIDADES PRECIOS
+       3.8
+      6.89
+      7.81
+      8.54
+      5.32
+      5.07
+========================================================
+DNI: 91897732
+CODIGOS FECHA PEDIDOS: 
+         422763       20200720
+         714788       20211109
+         582920       20210309
+         387889       20211004
+         731238       20210705
+         620036       20211217
+         311343       20190313
+CANTIDADES PRECIOS
+      6.44
+     11.52
+      1.66
+     11.71
+      9.37
+      9.02
+       6.3
+========================================================
+DNI: 33397650
+CODIGOS FECHA PEDIDOS: 
+         874884       20190817
+         630286       20201213
+         423073       20190101
+         118050       20201007
+         172692       20190201
+         455703       20190605
+         248223       20190729
+         178097       20190628
+         714788       20211226
+         927404       20210115
+         520755       20210324
+         793026       20211111
+CANTIDADES PRECIOS
+      11.3
+      5.06
+      4.04
+      8.64
+       5.6
+       6.9
+      3.48
+      9.01
+       8.6
+     10.71
+      4.34
+      2.84
+========================================================
+DNI: 83236386
+CODIGOS FECHA PEDIDOS: 
+         455703       20190815
+         992564       20190803
+         308982       20200911
+         434681       20190713
+         882099       20211020
+         244316       20200806
+CANTIDADES PRECIOS
+     10.54
+      9.37
+      2.18
+      3.91
+      1.08
+      3.78
+========================================================
+DNI: 32821689
+CODIGOS FECHA PEDIDOS: 
+         793026       20200419
+         390920       20200428
+         942003       20211019
+         126218       20201010
+         753496       20210101
+         162581       20200210
+         631403       20210701
+CANTIDADES PRECIOS
+      5.54
+       3.6
+      8.61
+      1.81
+      1.24
+       4.2
+     10.32
+========================================================
+DNI: 45783712
+CODIGOS FECHA PEDIDOS: 
+         374588       20190105
+         162581       20190701
+         283781       20201002
+         748899       20190927
+         825712       20200706
+CANTIDADES PRECIOS
+      8.43
+      3.41
+       7.9
+       9.7
+      9.22
+========================================================
+DNI: 48184351
+CODIGOS FECHA PEDIDOS: 
+         511824       20220202
+         582920       20190725
+         132999       20220329
+         691890       20190602
+         565169       20201231
+         613623       20210929
+         714788       20200531
+         311343       20190418
+         179485       20200417
+CANTIDADES PRECIOS
+      1.21
+      1.48
+      6.45
+      5.46
+     11.59
+      5.16
+      4.36
+      2.62
+     11.68
+========================================================
+DNI: 33713901
+CODIGOS FECHA PEDIDOS: 
+         317404       20200419
+         200984       20210902
+         168505       20191203
+         748899       20200805
+         412041       20200126
+         744237       20190506
+         170844       20190319
+         690039       20191202
+CANTIDADES PRECIOS
+      0.52
+      5.11
+       5.5
+      3.95
+     11.12
+     11.26
+       7.2
+      8.38
+========================================================
+DNI: 76388967
+CODIGOS FECHA PEDIDOS: 
+         151641       20200509
+         387889       20190421
+         317404       20201129
+         731238       20190203
+         632129       20190105
+CANTIDADES PRECIOS
+      11.5
+      2.24
+      3.19
+      6.39
+      5.29
+========================================================
+DNI: 81114108
+CODIGOS FECHA PEDIDOS: 
+         631403       20201006
+         444809       20200605
+         582920       20190710
+         151641       20220124
+         162581       20220205
+         459032       20201105
+         565169       20200309
+         182942       20200921
+         923804       20210713
+         311343       20190519
+CANTIDADES PRECIOS
+      2.81
+       4.9
+      1.56
+      11.6
+      6.14
+       3.3
+     11.43
+      6.93
+      6.74
+      4.92
+========================================================
+DNI: 57263719
+CODIGOS FECHA PEDIDOS: 
+         455703       20220101
+         462755       20200519
+         126218       20200925
+         948168       20211122
+         219619       20220106
+         434681       20200727
+         734432       20211010
+CANTIDADES PRECIOS
+      5.18
+      3.76
+      1.47
+      9.04
+      4.92
+      9.36
+     11.03
+========================================================
+DNI: 79140840
+CODIGOS FECHA PEDIDOS: 
+         428331       20210415
+         900698       20210520
+         311343       20190518
+         620036       20210528
+         734432       20210717
+         880988       20220221
+         311343       20190529
+CANTIDADES PRECIOS
+     10.01
+      2.77
+      9.82
+      2.38
+       2.6
+      7.68
+      7.56
+========================================================
+DNI: 71378466
+CODIGOS FECHA PEDIDOS: 
+         397718       20201026
+         793026       20200319
+         874503       20210117
+         501182       20210104
+         317404       20211219
+         469016       20200529
+         406688       20190424
+CANTIDADES PRECIOS
+      1.78
+      7.38
+      8.02
+      4.83
+      0.56
+      9.89
+      3.36
+========================================================
+DNI: 17913944
+CODIGOS FECHA PEDIDOS: 
+         748008       20191020
+         882099       20211129
+         691890       20191228
+         459032       20190923
+         588754       20200813
+         734979       20201015
+         891590       20210422
+         336973       20201129
+         620036       20210205
+         397718       20210704
+         499460       20210322
+CANTIDADES PRECIOS
+      4.93
+      5.75
+      1.35
+      1.96
+      0.69
+      7.45
+      7.62
+      9.02
+      3.45
+      0.31
+      2.12
+========================================================
+DNI: 62566305
+CODIGOS FECHA PEDIDOS: 
+         613623       20201123
+         690039       20210227
+         725312       20200730
+         168505       20220123
+CANTIDADES PRECIOS
+       6.9
+      1.66
+     10.94
+     11.87
+========================================================
+DNI: 46462527
+CODIGOS FECHA PEDIDOS: 
+         374253       20191018
+         342342       20190726
+         132999       20200714
+         744237       20200816
+         997564       20191009
+         126218       20191012
+         961802       20211227
+         778066       20211003
+         690039       20210316
+         415932       20210606
+         994185       20210529
+         170844       20200312
+         788630       20190527
+         961627       20210823
+CANTIDADES PRECIOS
+      0.17
+     11.45
+      3.93
+      5.47
+      1.95
+      2.43
+      1.01
+      1.88
+     11.11
+      4.47
+      4.59
+      1.06
+      6.35
+========================================================
+
+PRODUCTOS: 
+397718      LECHE LALA SEMI DESLACTOSADA 1LT                            0         16.98
+793026      YOGHURT NATURAL LIGHT LALA 1KG                              4.7       25.86
+317404      LICUADO LALA CIRUELA PASA Y NUEZ 240GR                      5.13      10.89
+874884      BEBIDA NARANJA BEBERE 470ML                                 13.59     6.72
+428331      CHILE PUYA DE LOS ALTOS 100GR                               0         10.85
+200984      DONAS BIMBO 157.5GR 6 PZA PROMOCION                         8.1       10.77
+374253      TE DE MANZANILLA NEBO 24 1GR                                0         13.81
+511824      FLAN LALA SABOR VAINILLA 100GR                              0         5.88
+342342      SEMILLA DE ACELGA MINA                                      0         15.07
+630286      REBANADAS BIMBO 110GR                                       7.42      8.73
+374588      BEBIDA DE SOYA ADES GUANABANA 946ML                         8.37      18.07
+168505      GALLETAS CREMAX DE NIEVE VAINILLA 416GR                     7.99      26.76
+132999      YOGHURT CON DURAZNO LALA 1KG                                0         25.15
+455703      PALOMITAS POFETS FLAMIN HOT 28GR                            0         6.88
+308982      YOGHURT P BEBER FRUGGIS FRESA 150GR                         0         5.29
+423073      POLVO PARA HORNEAR REXAL 15KILOS                            5.67      350.22
+748008      SANDWICH COMBINADA 3 FLORES 150GR                           3.18      8.23
+826317      CHAMYTO BIG 114ML                                           0         7.58
+613623      CHILE PASILLA MULATO LARGO 100GR                            12.13     18.19
+151641      YOGHURT P BEBER LACTIGURT COCO 250G                         0         9.87
+162581      ZENZO BAR FRESA 66GR                                        9.41      4.05
+118050      PAPAYA                                                      0         20.99
+882099      NESQUIK CHOCOLATE 200GR                                     0         13.51
+411461      VUALA CAJETA 84GR                                           11.43     5.25
+387889      CONDIMENTO PARA BIRRIA CUCU.                                10.56     80.95
+631403      PAN DE MUERTO GRANDE                                        2.63      25.42
+900698      VAINILLA MOLINA 500ML                                       13.42     19.26
+691890      NESCAFE DOLCA 200GR                                         6.26      42.01
+311343      YOGHURT FRESA NESTLE 1KG                                    12.73     23.27
+444809      MAIZENA NATURAL 750GR                                       0         43.62
+582920      PINGUINOS MARINELA 40GR                                     7.02      4.4
+927404      GELATINA SABOR PIÑA LIGHT LA GLORIA 25GR                    12.04     8.51
+459032      GELATINA DANY LIMON 125GR                                   0         5.38
+283781      FRIJOLES REFRITOS ISADORA 430GR                             1.92      13.28
+422763      GALLETAS SUAVICREMAS FRESA 158GR                            0         13.85
+744237      ALUBIAS ANTIQUA 540GR                                       8.19      17.85
+462755      JUGO DE UVA MINUTE MAID 200ML                               8.24      4.39
+172692      BARRA DE HOGUELAS DE ARROZ Y TRIGO 24 GR                    3.33      4.83
+588754      LIMONADA H2O 250ML                                          4.82      8.58
+997564      MANGO ECUATORIANO                                           11.83     16.5
+748899      NARANJA SIN SEMILLA                                         0         10.24
+248223      LECHE EN POLVO NIDO KINDER 400GR                            2.09      39.84
+178097      CROQUETAS PEDIGREE BENEFUL 10.1KG                           12.84     270.88
+565169      PASTILLA PEPTO BISMOL                                       2.41      3.15
+390920      AGUA NIAGARA 500ML                                          0.94      5.64
+942003      ACHIOTE MARIN 130GR                                         0         8.71
+126218      TANJERINA                                                   0         5.58
+961802      ACHIOTE LA EXTRA 1KG                                        6.77      45.54
+734979      TOSTILOCOS PREPARADOS                                       4.83      25.53
+778066      CHILES CHIPOTLES LA COSTENA 380GR                           0         18.53
+714788      PAPA EN CUBOS DEL FUERTE 12 380GR.                          0         9.53
+690039      CORAZONES DE OREJONA PZA                                    14.32     10.79
+696000      MEDIA CREMA NESTLE 1LT                                      1.35      40.8
+412041      TORTILLAS DE MAIZ 1KG                                       7.91      14.93
+415932      SOPA MARUCHAN CAMARON 71GR                                  10.53     7.68
+925916      PAPATINAS CHILIX 25GR                                       0         4.71
+891590      MIEL DE ABEJA VIRGEN 1KG                                    0.21      30.92
+874503      GALLETAS LORS SNACKS MARINELA 75GR                          8.69      9.54
+753496      OREO C TROZOS DE CHOCOLATE 473ML                            0         25.95
+948168      CONCHAS BIMBO 120GR                                         0         15.55
+731238      SOPA MARUCHAN POLLO 12 64GR                                 0         66.7
+620036      SABRITAS ORIGINAL SAL 490GR                                 0         63.3
+336973      CORNETO CLASSIC LOVE                                        10.33     19.45
+219619      SALSA TERIYAKI KIKKOMAN B.EN GRASA 296ML                    0         14.41
+734432      MAIZ POZOLERO TEASDALE 3.06KG                               0         50.55
+825712      TORTILLAS DE HARINA DEL HOGAR 15PZAS                        0         17.44
+992564      LECHUGA ROMANA                                              0         20.79
+182942      ZAPOTE                                                      3.71      28.39
+880988      TOSTADAS HORNEADAS DEL HOGAR 210GR                          0         11.34
+501182      HARINA DE ARROZ DULCE 454GR                                 0         21.13
+994185      ANIS VERDE                                                  0         95.95
+923804      SAL BAJA PACIFIC BOLSA 1KGR                                 5.11      5.26
+725312      SALSA DE CHILE PERON PURHEPECHA 260GR                       11.51     14.47
+170844      EMPANIZADOR CONTADINA TRADICIONAL 283GR                     0         16.5
+632129      VINAGRE BLANCO CLEMENTE JACQUES 3.8LT                       0         24.29
+788630      SAZONADOR SPECIAL VALUE 453G                                0         28.24
+485302      YOGHURT LALA FRESA 240GR                                    7.62      6.68
+434681      ELOTE DORADO DEL MONTE 225GR                                0         5.92
+244316      CHAMPINIONES TROCITOS MONTEBLANCO 380GR                     0.82      18.99
+520755      TE LIPTON NATURAL 100 226GR                                 14.57     71.68
+179485      MOLE SURTIDO CON ESPECIAS 250GR                             0         25.11
+204890      LECHE YAQUI DESLACTOSADA 1LT                                0         19.31
+469016      SEMILLAS DE CHILE HABANEROMANZANO.3GR                       7.75      15.31
+961627      FRIJOLES PUERCOS LILIS 500GR                                8.22      16.26
+499460      TAMPICO CITRUS PUNCH 3.78LTS                                4.3       29.35
+406688      CHURROMAIS CON LIMON 38GR                                   1.17      5.62

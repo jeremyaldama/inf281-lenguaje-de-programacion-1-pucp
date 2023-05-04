@@ -1,0 +1,229 @@
+                               EMPRESA COMERCIALIZADORA DE ABARRATOTES
+GASTOS DE LOS CLIENTES REGISTRADOS:
+
+DNI                        NOMBRE                                         Categoria
+71984468   IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO                                        B
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    308982    YOGHURT P BEBER FRUGGIS FRESA 150GR          5.29      1.12      5.92      0.00        5.92        0.00        20191006
+2  )    696000    MEDIA CREMA NESTLE 1LT                       40.80     0.85      34.68     0.47        34.21       1.35        20190807
+3  )    511824    FLAN LALA SABOR VAINILLA 100GR               5.88      8.13      47.80     0.00        47.80       0.00        20220211
+4  )    485302    YOGHURT LALA FRESA 240GR                     6.68      5.99      40.01     3.05        36.96       7.62        20211128
+5  )    244316    CHAMPINIONES TROCITOS MONTEBLANCO 380GR      18.99     6.67      126.66    1.04        125.62      0.82        20210305
+6  )    620036    SABRITAS ORIGINAL SAL 490GR                  63.30     6.41      405.75    0.00        405.75      0.00        20201126
+
+DNI                        NOMBRE                                         Categoria
+29847168   ALDAVE ZEVALLOS ROSARIO                                                        A
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    927404    GELATINA SABOR PIÑA LIGHT LA GLORIA 25GR     8.51      3.79      32.25     3.88        28.37       12.04       20210101
+2  )    178097    CROQUETAS PEDIGREE BENEFUL 10.1KG            270.88    4.49      1216.25   156.17      1060.08     12.84       20210802
+3  )    412041    TORTILLAS DE MAIZ 1KG                        14.93     11.35     169.46    13.40       156.05      7.91        20200304
+4  )    415932    SOPA MARUCHAN CAMARON 71GR                   7.68      1.17      8.99      0.95        8.04        10.53       20200626
+5  )    731238    SOPA MARUCHAN POLLO 12 64GR                  66.70     7.50      500.25    0.00        500.25      0.00        20210423
+6  )    582920    PINGUINOS MARINELA 40GR                      4.40      1.16      5.10      0.36        4.75        7.02        20191230
+7  )    204890    LECHE YAQUI DESLACTOSADA 1LT                 19.31     9.45      182.48    0.00        182.48      0.00        20211102
+
+DNI                        NOMBRE                                         Categoria
+79475585   RETTO ARCA ANNIE MAGDA                                                         A
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    826317    CHAMYTO BIG 114ML                            7.58      3.80      28.80     0.00        28.80       0.00        20200514
+2  )    411461    VUALA CAJETA 84GR                            5.25      6.89      36.17     4.13        32.04       11.43       20200907
+3  )    455703    PALOMITAS POFETS FLAMIN HOT 28GR             6.88      7.81      53.73     0.00        53.73       0.00        20191216
+4  )    925916    PAPATINAS CHILIX 25GR                        4.71      8.54      40.22     0.00        40.22       0.00        20210124
+5  )    696000    MEDIA CREMA NESTLE 1LT                       40.80     5.32      217.06    2.93        214.13      1.35        20200718
+6  )    462755    JUGO DE UVA MINUTE MAID 200ML                4.39      5.07      22.26     1.83        20.42       8.24        20200430
+
+DNI                        NOMBRE                                         Categoria
+91897732   GAMARRA ALCOCER VIRGIN                                                         A
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    422763    GALLETAS SUAVICREMAS FRESA 158GR             13.85     6.44      89.19     0.00        89.19       0.00        20200720
+2  )    714788    PAPA EN CUBOS DEL FUERTE 12 380GR.           9.53      11.52     109.79    0.00        109.79      0.00        20211109
+3  )    582920    PINGUINOS MARINELA 40GR                      4.40      1.66      7.30      0.51        6.79        7.02        20210309
+4  )    387889    CONDIMENTO PARA BIRRIA CUCU.                 80.95     11.71     947.92    100.10      847.82      10.56       20211004
+5  )    731238    SOPA MARUCHAN POLLO 12 64GR                  66.70     9.37      624.98    0.00        624.98      0.00        20210705
+6  )    620036    SABRITAS ORIGINAL SAL 490GR                  63.30     9.02      570.97    0.00        570.97      0.00        20211217
+7  )    311343    YOGHURT FRESA NESTLE 1KG                     23.27     6.30      146.60    18.66       127.94      12.73       20190313
+
+DNI                        NOMBRE                                         Categoria
+33397650   RONDON EGUSQUIZA CARMELA VALENTINA                                             A
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    874884    BEBIDA NARANJA BEBERE 470ML                  6.72      11.30     75.94     10.32       65.62       13.59       20190817
+2  )    630286    REBANADAS BIMBO 110GR                        8.73      5.06      44.17     3.28        40.90       7.42        20201213
+3  )    423073    POLVO PARA HORNEAR REXAL 15KILOS             350.22    4.04      1414.89   80.22       1334.66     5.67        20190101
+4  )    118050    PAPAYA                                       20.99     8.64      181.35    0.00        181.35      0.00        20201007
+5  )    172692    BARRA DE HOGUELAS DE ARROZ Y TRIGO 24 GR     4.83      5.60      27.05     0.90        26.15       3.33        20190201
+6  )    455703    PALOMITAS POFETS FLAMIN HOT 28GR             6.88      6.90      47.47     0.00        47.47       0.00        20190605
+7  )    248223    LECHE EN POLVO NIDO KINDER 400GR             39.84     3.48      138.64    2.90        135.75      2.09        20190729
+8  )    178097    CROQUETAS PEDIGREE BENEFUL 10.1KG            270.88    9.01      2440.63   313.38      2127.25     12.84       20190628
+9  )    714788    PAPA EN CUBOS DEL FUERTE 12 380GR.           9.53      8.60      81.96     0.00        81.96       0.00        20211226
+10 )    927404    GELATINA SABOR PIÑA LIGHT LA GLORIA 25GR     8.51      10.71     91.14     10.97       80.17       12.04       20210115
+11 )    520755    TE LIPTON NATURAL 100 226GR                  71.68     4.34      311.09    45.33       265.77      14.57       20210324
+12 )    793026    YOGHURT NATURAL LIGHT LALA 1KG               25.86     2.84      73.44     3.45        69.99       4.70        20211111
+
+DNI                        NOMBRE                                         Categoria
+83236386   RIVERO CORRALES JUAN FERNAN                                                    O
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    455703    PALOMITAS POFETS FLAMIN HOT 28GR             6.88      10.54     72.52     0.00        72.52       0.00        20190815
+2  )    992564    LECHUGA ROMANA                               20.79     9.37      194.80    0.00        194.80      0.00        20190803
+3  )    308982    YOGHURT P BEBER FRUGGIS FRESA 150GR          5.29      2.18      11.53     0.00        11.53       0.00        20200911
+4  )    434681    ELOTE DORADO DEL MONTE 225GR                 5.92      3.91      23.15     0.00        23.15       0.00        20190713
+5  )    882099    NESQUIK CHOCOLATE 200GR                      13.51     1.08      14.59     0.00        14.59       0.00        20211020
+6  )    244316    CHAMPINIONES TROCITOS MONTEBLANCO 380GR      18.99     3.78      71.78     0.59        71.19       0.82        20200806
+
+DNI                        NOMBRE                                         Categoria
+32821689   ZAVALETA EPIQUEN CARMEN ZKENIA                                                 C
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    793026    YOGHURT NATURAL LIGHT LALA 1KG               25.86     5.54      143.26    6.73        136.53      4.70        20200419
+2  )    390920    AGUA NIAGARA 500ML                           5.64      3.60      20.30     0.19        20.11       0.94        20200428
+3  )    942003    ACHIOTE MARIN 130GR                          8.71      8.61      74.99     0.00        74.99       0.00        20211019
+4  )    126218    TANJERINA                                    5.58      1.81      10.10     0.00        10.10       0.00        20201010
+5  )    753496    OREO C TROZOS DE CHOCOLATE 473ML             25.95     1.24      32.18     0.00        32.18       0.00        20210101
+6  )    162581    ZENZO BAR FRESA 66GR                         4.05      4.20      17.01     1.60        15.41       9.41        20200210
+7  )    631403    PAN DE MUERTO GRANDE                         25.42     10.32     262.33    6.90        255.44      2.63        20210701
+
+DNI                        NOMBRE                                         Categoria
+45783712   POZO CHUNG RAFAEL DEL                                                          B
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    374588    BEBIDA DE SOYA ADES GUANABANA 946ML          18.07     8.43      152.33    12.75       139.58      8.37        20190105
+2  )    162581    ZENZO BAR FRESA 66GR                         4.05      3.41      13.81     1.30        12.51       9.41        20190701
+3  )    283781    FRIJOLES REFRITOS ISADORA 430GR              13.28     7.90      104.91    2.01        102.90      1.92        20201002
+4  )    748899    NARANJA SIN SEMILLA                          10.24     9.70      99.33     0.00        99.33       0.00        20190927
+5  )    825712    TORTILLAS DE HARINA DEL HOGAR 15PZAS         17.44     9.22      160.80    0.00        160.80      0.00        20200706
+
+DNI                        NOMBRE                                         Categoria
+48184351   LOPEZ JAUREGUI ROLANDO                                                         C
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    511824    FLAN LALA SABOR VAINILLA 100GR               5.88      1.21      7.11      0.00        7.11        0.00        20220202
+2  )    582920    PINGUINOS MARINELA 40GR                      4.40      1.48      6.51      0.46        6.05        7.02        20190725
+3  )    132999    YOGHURT CON DURAZNO LALA 1KG                 25.15     6.45      162.22    0.00        162.22      0.00        20220329
+4  )    691890    NESCAFE DOLCA 200GR                          42.01     5.46      229.37    14.36       215.02      6.26        20190602
+5  )    565169    PASTILLA PEPTO BISMOL                        3.15      11.59     36.51     0.88        35.63       2.41        20201231
+6  )    613623    CHILE PASILLA MULATO LARGO 100GR             18.19     5.16      93.86     11.39       82.48       12.13       20210929
+7  )    714788    PAPA EN CUBOS DEL FUERTE 12 380GR.           9.53      4.36      41.55     0.00        41.55       0.00        20200531
+8  )    311343    YOGHURT FRESA NESTLE 1KG                     23.27     2.62      60.97     7.76        53.21       12.73       20190418
+9  )    179485    MOLE SURTIDO CON ESPECIAS 250GR              25.11     11.68     293.28    0.00        293.28      0.00        20200417
+
+DNI                        NOMBRE                                         Categoria
+33713901   VILLEGAS CASTRO SOFIA VIRGINIA                                                 A
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR       10.89     0.52      5.66      0.29        5.37        5.13        20200419
+2  )    200984    DONAS BIMBO 157.5GR 6 PZA PROMOCION          10.77     5.11      55.03     4.46        50.58       8.10        20210902
+3  )    168505    GALLETAS CREMAX DE NIEVE VAINILLA 416GR      26.76     5.50      147.18    11.76       135.42      7.99        20191203
+4  )    748899    NARANJA SIN SEMILLA                          10.24     3.95      40.45     0.00        40.45       0.00        20200805
+5  )    412041    TORTILLAS DE MAIZ 1KG                        14.93     11.12     166.02    13.13       152.89      7.91        20200126
+6  )    744237    ALUBIAS ANTIQUA 540GR                        17.85     11.26     200.99    16.46       184.53      8.19        20190506
+7  )    170844    EMPANIZADOR CONTADINA TRADICIONAL 283GR      16.50     7.20      118.80    0.00        118.80      0.00        20190319
+8  )    690039    CORAZONES DE OREJONA PZA                     10.79     8.38      90.42     12.95       77.47       14.32       20191202
+
+DNI                        NOMBRE                                         Categoria
+76388967   GONZALES QUIO ISABEL                                                           B
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    151641    YOGHURT P BEBER LACTIGURT COCO 250G          9.87      11.50     113.50    0.00        113.50      0.00        20200509
+2  )    387889    CONDIMENTO PARA BIRRIA CUCU.                 80.95     2.24      181.33    19.15       162.18      10.56       20190421
+3  )    317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR       10.89     3.19      34.74     1.78        32.96       5.13        20201129
+4  )    731238    SOPA MARUCHAN POLLO 12 64GR                  66.70     6.39      426.21    0.00        426.21      0.00        20190203
+5  )    632129    VINAGRE BLANCO CLEMENTE JACQUES 3.8LT        24.29     5.29      128.49    0.00        128.49      0.00        20190105
+
+DNI                        NOMBRE                                         Categoria
+81114108   ZAMBRANO SHIRAKAWA WILMER                                                      B
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    631403    PAN DE MUERTO GRANDE                         25.42     2.81      71.43     1.88        69.55       2.63        20201006
+2  )    444809    MAIZENA NATURAL 750GR                        43.62     4.90      213.74    0.00        213.74      0.00        20200605
+3  )    582920    PINGUINOS MARINELA 40GR                      4.40      1.56      6.86      0.48        6.38        7.02        20190710
+4  )    151641    YOGHURT P BEBER LACTIGURT COCO 250G          9.87      11.60     114.49    0.00        114.49      0.00        20220124
+5  )    162581    ZENZO BAR FRESA 66GR                         4.05      6.14      24.87     2.34        22.53       9.41        20220205
+6  )    459032    GELATINA DANY LIMON 125GR                    5.38      3.30      17.75     0.00        17.75       0.00        20201105
+7  )    565169    PASTILLA PEPTO BISMOL                        3.15      11.43     36.00     0.87        35.14       2.41        20200309
+8  )    182942    ZAPOTE                                       28.39     6.93      196.74    7.30        189.44      3.71        20200921
+9  )    923804    SAL BAJA PACIFIC BOLSA 1KGR                  5.26      6.74      35.45     1.81        33.64       5.11        20210713
+10 )    311343    YOGHURT FRESA NESTLE 1KG                     23.27     4.92      114.49    14.57       99.91       12.73       20190519
+
+DNI                        NOMBRE                                         Categoria
+57263719   PRADO TORREALBA CARMEN JANET                                                   C
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    455703    PALOMITAS POFETS FLAMIN HOT 28GR             6.88      5.18      35.64     0.00        35.64       0.00        20220101
+2  )    462755    JUGO DE UVA MINUTE MAID 200ML                4.39      3.76      16.51     1.36        15.15       8.24        20200519
+3  )    126218    TANJERINA                                    5.58      1.47      8.20      0.00        8.20        0.00        20200925
+4  )    948168    CONCHAS BIMBO 120GR                          15.55     9.04      140.57    0.00        140.57      0.00        20211122
+5  )    219619    SALSA TERIYAKI KIKKOMAN B.EN GRASA 296ML     14.41     4.92      70.90     0.00        70.90       0.00        20220106
+6  )    434681    ELOTE DORADO DEL MONTE 225GR                 5.92      9.36      55.41     0.00        55.41       0.00        20200727
+7  )    734432    MAIZ POZOLERO TEASDALE 3.06KG                50.55     11.03     557.57    0.00        557.57      0.00        20211010
+
+DNI                        NOMBRE                                         Categoria
+79140840   TORREALBA ARCA VICTORIA GLEN                                                   A
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    428331    CHILE PUYA DE LOS ALTOS 100GR                10.85     10.01     108.61    0.00        108.61      0.00        20210415
+2  )    900698    VAINILLA MOLINA 500ML                        19.26     2.77      53.35     7.16        46.19       13.42       20210520
+3  )    311343    YOGHURT FRESA NESTLE 1KG                     23.27     9.82      228.51    29.09       199.42      12.73       20190518
+4  )    620036    SABRITAS ORIGINAL SAL 490GR                  63.30     2.38      150.65    0.00        150.65      0.00        20210528
+5  )    734432    MAIZ POZOLERO TEASDALE 3.06KG                50.55     2.60      131.43    0.00        131.43      0.00        20210717
+6  )    880988    TOSTADAS HORNEADAS DEL HOGAR 210GR           11.34     7.68      87.09     0.00        87.09       0.00        20220221
+7  )    311343    YOGHURT FRESA NESTLE 1KG                     23.27     7.56      175.92    22.39       153.53      12.73       20190529
+
+DNI                        NOMBRE                                         Categoria
+71378466   MIYAKE CARO HENRRY EDG                                                         R
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    397718    LECHE LALA SEMI DESLACTOSADA 1LT             16.98     1.78      30.22     0.00        30.22       0.00        20201026
+2  )    793026    YOGHURT NATURAL LIGHT LALA 1KG               25.86     7.38      190.85    8.97        181.88      4.70        20200319
+3  )    874503    GALLETAS LORS SNACKS MARINELA 75GR           9.54      8.02      76.51     6.65        69.86       8.69        20210117
+4  )    501182    HARINA DE ARROZ DULCE 454GR                  21.13     4.83      102.06    0.00        102.06      0.00        20210104
+5  )    317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR       10.89     0.56      6.10      0.31        5.79        5.13        20211219
+6  )    469016    SEMILLAS DE CHILE HABANEROMANZANO.3GR        15.31     9.89      151.42    11.73       139.68      7.75        20200529
+7  )    406688    CHURROMAIS CON LIMON 38GR                    5.62      3.36      18.88     0.22        18.66       1.17        20190424
+
+DNI                        NOMBRE                                         Categoria
+17913944   PALOMARES SANTISTEBAN HENRRY                                                   B
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    748008    SANDWICH COMBINADA 3 FLORES 150GR            8.23      4.93      40.57     1.29        39.28       3.18        20191020
+2  )    882099    NESQUIK CHOCOLATE 200GR                      13.51     5.75      77.68     0.00        77.68       0.00        20211129
+3  )    691890    NESCAFE DOLCA 200GR                          42.01     1.35      56.71     3.55        53.16       6.26        20191228
+4  )    459032    GELATINA DANY LIMON 125GR                    5.38      1.96      10.54     0.00        10.54       0.00        20190923
+5  )    588754    LIMONADA H2O 250ML                           8.58      0.69      5.92      0.29        5.63        4.82        20200813
+6  )    734979    TOSTILOCOS PREPARADOS                        25.53     7.45      190.20    9.19        181.01      4.83        20201015
+7  )    891590    MIEL DE ABEJA VIRGEN 1KG                     30.92     7.62      235.61    0.49        235.12      0.21        20210422
+8  )    336973    CORNETO CLASSIC LOVE                         19.45     9.02      175.44    18.12       157.32      10.33       20201129
+9  )    620036    SABRITAS ORIGINAL SAL 490GR                  63.30     3.45      218.38    0.00        218.38      0.00        20210205
+10 )    397718    LECHE LALA SEMI DESLACTOSADA 1LT             16.98     0.31      5.26      0.00        5.26        0.00        20210704
+11 )    499460    TAMPICO CITRUS PUNCH 3.78LTS                 29.35     2.12      62.22     2.68        59.55       4.30        20210322
+
+DNI                        NOMBRE                                         Categoria
+62566305   ROMERO ALFARO MONICA JOHANA                                                    C
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    613623    CHILE PASILLA MULATO LARGO 100GR             18.19     6.90      125.51    15.22       110.29      12.13       20201123
+2  )    690039    CORAZONES DE OREJONA PZA                     10.79     1.66      17.91     2.56        15.35       14.32       20210227
+3  )    725312    SALSA DE CHILE PERON PURHEPECHA 260GR        14.47     10.94     158.30    18.22       140.08      11.51       20200730
+4  )    168505    GALLETAS CREMAX DE NIEVE VAINILLA 416GR      26.76     11.87     317.64    25.38       292.26      7.99        20220123
+
+DNI                        NOMBRE                                         Categoria
+46462527   LOYOLA MORI NICOLAS FERNANDO                                                   B
+PRODUCTOS ADQUIRIDOS:
+        codigo   Descripcion                                P.Ucantidad  cantidad     total descuento   A pagar descuento     fecha
+1  )    374253    TE DE MANZANILLA NEBO 24 1GR                 13.81     0.17      2.35      0.00        2.35        0.00        20191018
+2  )    342342    SEMILLA DE ACELGA MINA                       15.07     11.45     172.55    0.00        172.55      0.00        20190726
+3  )    132999    YOGHURT CON DURAZNO LALA 1KG                 25.15     3.93      98.84     0.00        98.84       0.00        20200714
+4  )    744237    ALUBIAS ANTIQUA 540GR                        17.85     5.47      97.64     8.00        89.64       8.19        20200816
+5  )    997564    MANGO ECUATORIANO                            16.50     1.95      32.17     3.81        28.37       11.83       20191009
+6  )    126218    TANJERINA                                    5.58      2.43      13.56     0.00        13.56       0.00        20191012
+7  )    961802    ACHIOTE LA EXTRA 1KG                         45.54     1.01      46.00     3.11        42.88       6.77        20211227
+8  )    778066    CHILES CHIPOTLES LA COSTENA 380GR            18.53     1.88      34.84     0.00        34.84       0.00        20211003
+9  )    690039    CORAZONES DE OREJONA PZA                     10.79     11.11     119.88    17.17       102.71      14.32       20210316
+10 )    415932    SOPA MARUCHAN CAMARON 71GR                   7.68      4.47      34.33     3.61        30.71       10.53       20210606
+11 )    994185    ANIS VERDE                                   95.95     4.59      440.41    0.00        440.41      0.00        20210529
+12 )    170844    EMPANIZADOR CONTADINA TRADICIONAL 283GR      16.50     1.06      17.49     0.00        17.49       0.00        20200312
+13 )    788630    SAZONADOR SPECIAL VALUE 453G                 28.24     6.35      179.32    0.00        179.32      0.00        20190527
