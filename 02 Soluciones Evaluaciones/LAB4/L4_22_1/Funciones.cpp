@@ -122,11 +122,21 @@ void AsignaPedidosAux(int ind_cli, int**codigos_fechas_pedds,
     // codigos fechas pedidos
     int ind_ped;
     ind_ped = CalcularCantidad(codigos_fechas_pedds[ind_cli]);
-    codigos_fechas_pedds[ind_cli][ind_ped] = codigo;
-    codigos_fechas_pedds[ind_cli][ind_ped+1] = fecha;
+    AsignaFechasYCodigo(codigos_fechas_pedds[ind_cli], ind_ped, codigo, fecha);
     // cantidad
     ind_ped = CalcularCantidad(cantidades_pedidos[ind_cli]);
-    cantidades_pedidos[ind_cli][ind_ped] = cantidad;
+    AsignaCantidad(cantidades_pedidos[ind_cli], ind_ped, cantidad);
+}
+
+
+void AsignaCantidad(double*cantidades_pedidos, int ind_ped, double cantidad){
+    cantidades_pedidos[ind_ped] = cantidad;
+}
+
+void AsignaFechasYCodigo(int*codigos_fechas_pedds, int ind_ped, int codigo, 
+        int fecha){
+    codigos_fechas_pedds[ind_ped] = codigo;
+    codigos_fechas_pedds[ind_ped+1] = fecha;
 }
 
 void AsignaProductos(int i, int* &pro_Codigo,

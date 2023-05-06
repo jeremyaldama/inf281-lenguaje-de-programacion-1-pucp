@@ -36,5 +36,8 @@ void ReporteRelacionDePedidos(int*cli_DNI, char**cli_Nombre, char*cli_Categoria,
         int**cli_CodigoProFechaPedido, double**cli_CantidadPedido,
         int*pro_Codigo, char**pro_Descripcion, double*pro_Descuento,
         double*pro_Precio);
+void AsignaCantidad(double*cantidades_pedidos, int ind_ped, double cantidad);
+void AsignaFechasYCodigo(int*codigos_fechas_pedds, int ind_ped, int codigo, 
+        int fecha);
 #endif /* FUNCIONES_H */
 
