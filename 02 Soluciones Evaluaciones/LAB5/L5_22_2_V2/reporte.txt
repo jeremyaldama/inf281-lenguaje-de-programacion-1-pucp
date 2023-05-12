@@ -1,0 +1,391 @@
+DY2694      DELICIA ARCA AQUINO                                         523.53
+CITAS: 
+       51873364       Calixto/Erick                                               4         4.81      2518.76
+       72330000       Vega/Carmela                                                4         6.12      3203.28
+       54815159       Patino/Delicia                                              4         7.14      3740.33
+       15290194       Hernandez/Guillermo                                         3         6.77      3546.62
+       52313890       Rivero/Wilver                                               4         8.59      4495.81
+       35852072       Jauregui/Victor                                             3         3.49      1826.10
+       62126128       Durand/Enrique                                              4         5.82      3045.05
+       63640178       Rodriguez/Blanca                                            4         4.67      2446.63
+       93939698       Henriquez/Silvana                                           3         3.43      1794.84
+       13731806       Salamanca/Virginia                                          1         1.62      847.39
+
+LM6552      GLENDA CABRERA MORI                                         940.91
+CITAS: 
+       86988155       Cerna/Cinthia                                               5         8.81      8284.97
+       66091742       Baca/Milagros                                               4         8.26      7770.87
+       93231760       Zarate/Alexander                                            5         7.96      7487.81
+       62287143       Wong/Beatriz                                                4         6.63      6235.36
+       71422479       Lozada/Felicita                                             4         8.69      8174.16
+       93961840       Pairazaman/Tatiana                                          6         12.01     11302.42
+       49357767       Solis/Rolando                                               4         9.33      8774.51
+
+XJ7687      MARINA NATALIA GARCIA INGA                                  197.06
+CITAS: 
+       36934113       Serrano/Arturo                                              3         4.91      966.85
+       45914393       Lozada/Antonio                                              4         6.94      1367.92
+       93282118       Zambrano/Ofelia                                             3         6.27      1235.57
+       61061535       Solis/Maria                                                 4         8.20      1616.17
+       31284904       Sakaguchi/Carlos                                            2         2.94      579.08
+
+QT4519      JAVIER EDGARD LANDA CABRERA                                 897.50
+CITAS: 
+       93961840       Pairazaman/Tatiana                                          3         4.06      3647.59
+       65912822       Camacho/Ydali                                               4         6.72      6028.46
+       35606314       Mercado/Elia                                                3         5.09      4572.51
+       51465986       Sam/Ines                                                    4         4.15      3726.87
+       20371464       Lozada/Heli                                                 2         5.01      4495.23
+       93282118       Zambrano/Ofelia                                             3         4.96      4455.84
+
+EI1383      GUSTAVO ALONSO DEL CASTILLO MEJIA                           319.80
+CITAS: 
+       94683380       Farfan/Margot                                               2         2.23      713.51
+       12484697       Diaz/Enrique                                                1         1.63      522.25
+       51642949       Miranda/Alfonso                                             4         8.02      2565.42
+       13731806       Salamanca/Virginia                                          1         1.29      412.72
+       34571095       Infantes/Luis                                               3         4.84      1549.43
+       77324146       Moscoso/Janet                                               4         4.09      1307.98
+       53420926       Prado/Juan                                                  4         9.52      3045.56
+       27709566       Ortiz/Raul                                                  2         2.57      820.64
+
+BY928       LUZ SOFIA JAUREGUI BRAVO                                    756.45
+CITAS: 
+       30246960       Escalante/Ines                                              2         3.41      2578.65
+       51873364       Calixto/Erick                                               4         6.60      4994.46
+       61061535       Solis/Maria                                                 4         7.13      5390.34
+       99891737       Contreras/Johana                                            2         2.91      2204.63
+       52313890       Rivero/Wilver                                               4         8.14      6158.55
+       93939698       Henriquez/Silvana                                           3         3.99      3017.39
+       20371464       Lozada/Heli                                                 1         2.61      1973.28
+       22598563       Sueldo/Adria                                                2         5.30      4012.13
+
+CL9349      OFELIA CARMEN MERCADO CARO                                  526.45
+CITAS: 
+       93939698       Henriquez/Silvana                                           3         3.39      1783.06
+       35852072       Jauregui/Victor                                             3         5.13      2702.00
+       85395219       Fuentes/Patricia                                            6         10.62     5591.19
+       52313890       Rivero/Wilver                                               4         8.00      4211.60
+       35347567       Sedano/Elia                                                 3         6.61      3477.49
+       93231760       Zarate/Alexander                                            3         4.39      2312.43
+       81647285       Vega/Henrry                                                 6         9.15      4817.60
+
+UK631       VICTORIA FIORELLA CUBA POMAJAMBO                            256.05
+CITAS: 
+       49357767       Solis/Rolando                                               4         8.12      2080.41
+       72973662       Vargas/Daniel                                               4         9.09      2326.78
+       68269451       Asmad/Adria                                                 4         7.98      2042.28
+       51465986       Sam/Ines                                                    4         5.03      1288.64
+       71422479       Lozada/Felicita                                             4         3.94      1009.12
+       37282858       Soma/Lourdes                                                3         6.61      1692.85
+       13731806       Salamanca/Virginia                                          1         0.62      157.90
+
+KK4143      YLIANA FLOR ORTIZ GUEVARA                                   55.48
+CITAS: 
+       61061535       Solis/Maria                                                 4         7.17      398.05
+       41964357       Arca/Magali                                                 4         6.21      344.28
+       99891737       Contreras/Johana                                            2         2.21      122.81
+
+FN2270      TERESA TERESA MARTEL MERCADO                                170.85
+CITAS: 
+       71422479       Lozada/Felicita                                             4         7.10      1213.27
+       51465986       Sam/Ines                                                    4         7.90      1350.24
+       91187814       Narvaez/Jesus                                               5         7.62      1302.30
+       54815159       Patino/Delicia                                              4         6.61      1129.56
+       65912822       Camacho/Ydali                                               4         6.50      1109.67
+       63640178       Rodriguez/Blanca                                            4         7.63      1303.06
+       15290194       Hernandez/Guillermo                                         1         2.11      360.49
+
+NA7089      WILMER SAENZ ARANDA                                         176.60
+CITAS: 
+       35852072       Jauregui/Victor                                             3         6.23      1099.68
+       72330000       Vega/Carmela                                                4         7.40      1306.06
+       99891737       Contreras/Johana                                            2         1.74      306.45
+       62126128       Durand/Enrique                                              4         4.80      848.51
+       22679759       Bravo/Janet                                                 4         7.90      1394.60
+       95656771       Raffo/Rolando                                               2         4.02      709.93
+       51642949       Miranda/Alfonso                                             4         4.23      746.63
+       13731806       Salamanca/Virginia                                          2         3.31      584.25
+
+SI1895      FRANCISCO ZIMIC SALAS                                       854.93
+CITAS: 
+       51642949       Miranda/Alfonso                                             4         6.97      5961.71
+       80694546       Ramirez/Karina                                              4         5.41      4625.41
+       45201670       Guevara/Milena                                              4         8.98      7674.90
+       77440060       Escalante/Emigdio                                           4         8.51      7276.88
+       68114999       Rios/Ines                                                   4         6.39      5463.00
+       54815159       Patino/Delicia                                              4         8.51      7275.22
+       77324146       Moscoso/Janet                                               4         7.94      6784.34
+       93961840       Pairazaman/Tatiana                                          3         6.30      5388.43
+       51873364       Calixto/Erick                                               4         6.50      5554.20
+       30246960       Escalante/Ines                                              2         3.45      2945.95
+
+EG7183      ESTEFANIA ZEGARRA CASANOVA                                  264.21
+CITAS: 
+       81539774       Alfaro/Erick                                                6         12.29     3247.51
+       72330000       Vega/Carmela                                                4         6.67      1761.03
+       54149342       Leyva/Diana                                                 4         6.99      1846.90
+
+QF5627      HUMBERTO ALFONSO AMEZQUITA CONTRERAS                        869.33
+CITAS: 
+       54149342       Leyva/Diana                                                 4         9.01      7829.28
+       72330000       Vega/Carmela                                                4         9.67      8410.53
+       12484697       Diaz/Enrique                                                1         0.50      435.87
+       31284904       Sakaguchi/Carlos                                            2         4.12      3581.88
+
+WE4057      LOURDES CARMELA YALLICO PAREDES                             232.61
+CITAS: 
+       62287143       Wong/Beatriz                                                4         4.33      1007.27
+       35606314       Mercado/Elia                                                3         5.56      1294.15
+       57182371       Moscoso/Fiorella                                            4         7.19      1672.21
+       13731806       Salamanca/Virginia                                          1         3.01      700.16
+
+SU2339      CINTHIA MILENA ZEGARRA CABELLO                              902.38
+CITAS: 
+       54149342       Leyva/Diana                                                 4         8.13      7335.35
+       80694546       Ramirez/Karina                                              4         7.76      7000.71
+       58643376       Arroyo/Natalia                                              4         3.44      3106.94
+       81647285       Vega/Henrry                                                 6         10.23     9232.35
+       51465986       Sam/Ines                                                    4         6.06      5466.92
+       30246960       Escalante/Ines                                              2         3.51      3168.11
+       68114999       Rios/Ines                                                   4         7.54      6802.19
+       12484697       Diaz/Enrique                                                1         3.00      2707.39
+
+VE9926      OFELIA BEATRIZ MONTERO BOLANOS                              525.59
+CITAS: 
+       93961840       Pairazaman/Tatiana                                          3         5.96      3131.93
+       62287143       Wong/Beatriz                                                4         5.74      3015.13
+       54815159       Patino/Delicia                                              4         7.23      3799.58
+       58643376       Arroyo/Natalia                                              4         6.59      3464.51
+       35606314       Mercado/Elia                                                3         5.78      3037.62
+       34697743       Ayala/Ericka                                                3         4.64      2438.01
+       54149342       Leyva/Diana                                                 4         6.09      3203.18
+       17299012       Suarez/Amaru                                                1         2.46      1291.93
+       27709566       Ortiz/Raul                                                  2         3.20      1680.28
+       94683380       Farfan/Margot                                               2         3.35      1759.70
+
+FZ1150      MIGUEL ALEX LANDEO ESTRADA                                  893.34
+CITAS: 
+       53420926       Prado/Juan                                                  4         6.60      5895.05
+       54149342       Leyva/Diana                                                 4         8.55      7640.29
+       20371464       Lozada/Heli                                                 2         2.54      2265.11
+       37282858       Soma/Lourdes                                                3         3.63      3247.29
+       93282118       Zambrano/Ofelia                                             3         4.41      3937.15
+       32538825       Hijar/Martin                                                2         2.77      2473.31
+       91187814       Narvaez/Jesus                                               5         7.82      6988.90
+       45914393       Lozada/Antonio                                              4         7.38      6596.82
+       90367684       Sinche/Yvonne                                               5         10.99     9814.08
+       22598563       Sueldo/Adria                                                2         1.87      1672.03
+
+EM7896      VICTORIA MILAGROS SHIRAKAWA SAONA                           19.29
+CITAS: 
+       72330000       Vega/Carmela                                                4         7.14      137.82
+       51642949       Miranda/Alfonso                                             8         13.74     265.08
+       36471787       Pena/Glenda                                                 3         4.96      95.72
+       41964357       Arca/Magali                                                 4         5.39      104.03
+       77440060       Escalante/Emigdio                                           4         6.15      118.69
+       93939698       Henriquez/Silvana                                           3         7.92      152.69
+       93961840       Pairazaman/Tatiana                                          3         7.72      149.00
+       15290194       Hernandez/Guillermo                                         1         1.90      36.65
+
+GN6122      ZKENIA IRMA CHUNG ZUNIGA                                    842.24
+CITAS: 
+       99891737       Contreras/Johana                                            2         3.67      3091.49
+       41964357       Arca/Magali                                                 4         7.72      6505.60
+       81647285       Vega/Henrry                                                 6         11.80     9939.13
+       62287143       Wong/Beatriz                                                4         7.55      6357.98
+       35852072       Jauregui/Victor                                             3         7.49      6307.68
+       22598563       Sueldo/Adria                                                2         3.19      2683.70
+       66039166       Chavez/Johan                                                4         8.73      7352.52
+
+XS4488      CARMEN ZAMORA CABRERA                                       496.87
+CITAS: 
+       59596317       Justino/Virginia                                            8         14.64     7274.31
+       68114999       Rios/Ines                                                   4         9.00      4470.86
+       77324146       Moscoso/Janet                                               4         9.52      4727.86
+       53420926       Prado/Juan                                                  4         5.94      2952.65
+       86988155       Cerna/Cinthia                                               5         6.78      3366.71
+       72973662       Vargas/Daniel                                               4         6.05      3006.06
+       12484697       Diaz/Enrique                                                1         0.52      258.37
+
+EC5567      VALENTINA PAULA URBINA ANTEZANO                             410.37
+CITAS: 
+       12484697       Diaz/Enrique                                                1         0.71      289.99
+       93231760       Zarate/Alexander                                            5         7.86      3223.91
+       90367684       Sinche/Yvonne                                               6         10.27     4213.25
+       36934113       Serrano/Arturo                                              3         7.20      2956.15
+       45201670       Guevara/Milena                                              4         6.57      2695.45
+       14956687       Luna/Waldemar                                               1         1.37      562.09
+
+AQ7871      WALTER JOLAY CHUMPITAZ                                      298.45
+CITAS: 
+       20371464       Lozada/Heli                                                 1         0.50      150.22
+       93282118       Zambrano/Ofelia                                             3         3.62      1079.73
+       30246960       Escalante/Ines                                              2         3.77      1125.74
+       43704548       Vizcardo/Maribel                                            4         4.70      1403.21
+       93231760       Zarate/Alexander                                            5         9.35      2790.92
+
+VD631       MILENA CINTHIA ZARATE ACUNA                                 792.07
+CITAS: 
+       85395219       Fuentes/Patricia                                            6         8.06      6381.00
+       36934113       Serrano/Arturo                                              3         3.53      2792.27
+       58643376       Arroyo/Natalia                                              4         6.52      5160.34
+       90367684       Sinche/Yvonne                                               10        12.61     9988.22
+       68269451       Asmad/Adria                                                 4         5.76      4561.88
+       72330000       Vega/Carmela                                                4         8.34      6607.62
+       94683380       Farfan/Margot                                               3         7.07      5600.15
+       13731806       Salamanca/Virginia                                          1         1.52      1207.47
+
+SE6117      EDGAR MUNOZ VERGEL                                          337.03
+CITAS: 
+       34697743       Ayala/Ericka                                                3         4.78      1611.19
+       57182371       Moscoso/Fiorella                                            4         8.82      2971.20
+       27709566       Ortiz/Raul                                                  2         3.19      1073.91
+       22598563       Sueldo/Adria                                                2         5.79      1952.53
+       63640178       Rodriguez/Blanca                                            4         8.19      2761.59
+       86988155       Cerna/Cinthia                                               5         9.15      3082.61
+
+JC2133      DELIA ZARATE URBINA                                         389.91
+CITAS: 
+       59596317       Justino/Virginia                                            4         6.09      2376.18
+       43704548       Vizcardo/Maribel                                            4         5.33      2076.27
+       15290194       Hernandez/Guillermo                                         1         1.70      664.47
+       45914393       Lozada/Antonio                                              4         5.82      2268.84
+       35606314       Mercado/Elia                                                3         5.73      2232.56
+       20371464       Lozada/Heli                                                 2         3.69      1437.68
+
+QT9295      DELICIA ROSA ARCA LEIVA                                     405.69
+CITAS: 
+       57182371       Moscoso/Fiorella                                            4         5.64      2288.77
+       34697743       Ayala/Ericka                                                3         5.11      2073.98
+       62287143       Wong/Beatriz                                                4         9.53      3866.00
+       95656771       Raffo/Rolando                                               2         3.52      1427.13
+       62126128       Durand/Enrique                                              4         5.94      2408.90
+       99891737       Contreras/Johana                                            2         4.27      1732.63
+       80694546       Ramirez/Karina                                              6         11.67     4736.21
+       37282858       Soma/Lourdes                                                3         7.30      2960.97
+       68114999       Rios/Ines                                                   4         5.97      2421.18
+       61061535       Solis/Maria                                                 4         9.61      3900.37
+
+JH7988      GIOVANA MEJIA ZEGARRA                                       758.51
+CITAS: 
+       72973662       Vargas/Daniel                                               4         6.30      4776.30
+       68114999       Rios/Ines                                                   4         9.66      7323.62
+       54815159       Patino/Delicia                                              4         9.24      7006.74
+       90367684       Sinche/Yvonne                                               6         10.28     7798.11
+       45201670       Guevara/Milena                                              4         6.43      4877.01
+       66091742       Baca/Milagros                                               4         5.41      4105.01
+       20371464       Lozada/Heli                                                 2         4.37      3311.11
+       54149342       Leyva/Diana                                                 4         5.78      4384.40
+
+YX7775      ROSARIO TABORI ARIAS                                        977.98
+CITAS: 
+       93939698       Henriquez/Silvana                                           3         6.14      6002.90
+       45914393       Lozada/Antonio                                              4         7.68      7511.70
+       28992638       Trigueros/Luz                                               2         2.15      2103.74
+       95656771       Raffo/Rolando                                               2         2.96      2896.18
+       51465986       Sam/Ines                                                    4         6.63      6487.00
+       20371464       Lozada/Heli                                                 2         2.58      2522.92
+       36471787       Pena/Glenda                                                 3         4.64      4537.83
+
+TE5578      JAIME JULIAN SHIRAKAWA FLORIAN                              169.44
+CITAS: 
+       51465986       Sam/Ines                                                    4         7.01      1188.34
+       35852072       Jauregui/Victor                                             3         4.99      845.03
+       85395219       Fuentes/Patricia                                            6         13.83     2342.74
+       51642949       Miranda/Alfonso                                             4         8.73      1479.40
+       22598563       Sueldo/Adria                                                2         1.79      303.77
+       62126128       Durand/Enrique                                              4         8.68      1470.50
+       77324146       Moscoso/Janet                                               4         7.49      1269.44
+
+VG9077      FIORELLA ERIKA FLORENCIO POLO                               470.72
+CITAS: 
+       36934113       Serrano/Arturo                                              3         4.99      2347.98
+       54815159       Patino/Delicia                                              4         6.79      3193.97
+       81647285       Vega/Henrry                                                 6         13.58     6390.15
+       62126128       Durand/Enrique                                              8         12.09     5692.44
+       31284904       Sakaguchi/Carlos                                            2         2.92      1374.63
+       36471787       Pena/Glenda                                                 3         4.90      2307.97
+       32538825       Hijar/Martin                                                3         5.13      2415.84
+       35347567       Sedano/Elia                                                 3         5.01      2356.35
+       68269451       Asmad/Adria                                                 4         8.11      3815.84
+
+HF493       HUMBERTO ALBERTO VARGAS GUEVARA                             780.49
+CITAS: 
+       62287143       Wong/Beatriz                                                4         5.57      4351.01
+       49357767       Solis/Rolando                                               4         7.87      6141.37
+       61061535       Solis/Maria                                                 4         7.61      5938.01
+       32538825       Hijar/Martin                                                2         3.07      2392.42
+       51642949       Miranda/Alfonso                                             4         9.17      7156.66
+       75100362       Arca/Lucero                                                 4         4.59      3582.88
+       36471787       Pena/Glenda                                                 3         4.23      3304.94
+       35852072       Jauregui/Victor                                             3         6.49      5065.38
+
+YE3676      DELIA ESTEFANIA CABRERA MORENO                              781.15
+CITAS: 
+       71422479       Lozada/Felicita                                             4         8.81      6878.68
+       92275859       Egusquiza/Doris                                             5         10.10     7890.05
+       14956687       Luna/Waldemar                                               1         1.08      842.56
+
+WC7862      ROSARIO MARIBEL YEP ZAVALETA                                997.38
+CITAS: 
+       20371464       Lozada/Heli                                                 2         3.25      3245.36
+       77440060       Escalante/Emigdio                                           4         6.91      6896.33
+       91187814       Narvaez/Jesus                                               5         5.11      5098.83
+       93282118       Zambrano/Ofelia                                             3         8.57      8551.70
+       15290194       Hernandez/Guillermo                                         1         0.81      812.03
+       59561864       Rosemberg/Julio                                             4         9.87      9844.97
+
+HV822       ALFONSO WALDEMAR CABELLO LAM                                184.46
+CITAS: 
+       86988155       Cerna/Cinthia                                               5         10.09     1860.64
+       37282858       Soma/Lourdes                                                3         4.85      894.32
+       59561864       Rosemberg/Julio                                             4         4.33      798.25
+       93961840       Pairazaman/Tatiana                                          6         11.16     2058.88
+       43704548       Vizcardo/Maribel                                            4         9.27      1709.94
+       51465986       Sam/Ines                                                    4         9.10      1679.41
+       71422479       Lozada/Felicita                                             4         6.17      1138.37
+       62287143       Wong/Beatriz                                                4         6.69      1233.68
+       54149342       Leyva/Diana                                                 4         9.39      1732.75
+
+QO5098      RAUL COLLADO VILLA                                          146.35
+CITAS: 
+       59596317       Justino/Virginia                                            4         5.51      806.84
+       86988155       Cerna/Cinthia                                               5         7.14      1044.90
+       90367684       Sinche/Yvonne                                               6         9.74      1425.37
+       77324146       Moscoso/Janet                                               4         8.81      1288.73
+       85395219       Fuentes/Patricia                                            5         6.94      1015.43
+       32538825       Hijar/Martin                                                3         5.45      797.36
+
+IC404       DAVID CARLOS PEREZ ANTEZANO                                 4.56
+CITAS: 
+       54815159       Patino/Delicia                                              4         6.52      29.73
+       32538825       Hijar/Martin                                                3         2.20      10.01
+       80694546       Ramirez/Karina                                              6         6.79      30.98
+       77440060       Escalante/Emigdio                                           4         6.40      29.20
+       85395219       Fuentes/Patricia                                            5         9.59      43.75
+       62126128       Durand/Enrique                                              4         7.19      32.78
+       31284904       Sakaguchi/Carlos                                            2         3.23      14.74
+       27709566       Ortiz/Raul                                                  2         3.17      14.44
+       68269451       Asmad/Adria                                                 4         10.25     46.75
+
+QF2620      EMILIO EMIGDIO GONZALES AGUIRRE                             981.29
+CITAS: 
+       54815159       Patino/Delicia                                              4         7.72      7570.92
+       99891737       Contreras/Johana                                            2         3.27      3211.54
+       36934113       Serrano/Arturo                                              3         5.75      5645.14
+       62126128       Durand/Enrique                                              4         4.34      4259.34
+       15290194       Hernandez/Guillermo                                         1         1.58      1551.80
+
+GX6876      BLANCA LUZ ACUNA AYLLON                                     654.46
+CITAS: 
+       61061535       Solis/Maria                                                 4         7.15      4677.93
+       94683380       Farfan/Margot                                               3         3.87      2533.85
+
+IN1846      SURAMI HELI PRECIADO PINTO                                  738.90
+CITAS: 
+       93961840       Pairazaman/Tatiana                                          3         4.06      2997.68
+       65912822       Camacho/Ydali                                               4         6.11      4511.40
+       36934113       Serrano/Arturo                                              3         7.12      5261.38
+       93282118       Zambrano/Ofelia                                             3         4.90      3618.97
+
