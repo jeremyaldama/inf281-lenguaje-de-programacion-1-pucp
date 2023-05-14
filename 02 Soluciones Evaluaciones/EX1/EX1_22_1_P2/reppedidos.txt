@@ -1,0 +1,138 @@
+422763              GALLETAS SUAVICREMAS FRESA 158GR                  2         20190923  N         
+675770              JARABE DE MAMEY 1.25KG                            5         20191020  N         
+696000              MEDIA CREMA NESTLE 1LT                            1         20191228  N         
+415932              SOPA MARUCHAN CAMARON 71GR                        1         20200813  N         
+856894              HARINA MAZATL 5KG                                 7         20201015  NRIC=C;L1õ{M
+434681              ELOTE DORADO DEL MONTE 225GR                      9         20201129  N         
+422763              GALLETAS SUAVICREMAS FRESA 158GR                  3         20210205  N         
+317404              LICUADO LALA CIRUELA PASA Y NUEZ 240GR            2         20210322  N         
+390920              AGUA NIAGARA 500ML                                8         20210422  N         
+415932              SOPA MARUCHAN CAMARON 71GR                        1         20210704  N         
+582920              PINGUINOS MARINELA 40GR                           6         20211129  N         
+935218              FRIJOL AMARILLO KG                                1         20191230  N         
+308982              YOGHURT P BEBER FRUGGIS FRESA 150GR               11        20200304  N         
+961802              ACHIOTE LA EXTRA 1KG                              1         20200626  N         
+580927              TORTILLAS DE HARINA DEL HOGAR 22P. 840GR          4         20210101  N         
+620036              SABRITAS ORIGINAL SAL 490GR                       8         20210423  N         
+422763              GALLETAS SUAVICREMAS FRESA 158GR                  4         20210802  N         
+979865              GALLETAS MARIAS CUETARA 160GR                     9         20211102  N         
+151641              YOGHURT P BEBER LACTIGURT COCO 250G               4         20200210  N         
+872819              GELATINA DE LECHE VAINILLA DANETTE 100GR          6         20200419  N         
+422763              GALLETAS SUAVICREMAS FRESA 158GR                  4         20200428  N         
+992564              LECHUGA ROMANA                                    2         20201010  N         
+882099              NESQUIK CHOCOLATE 200GR                           1         20210101  N         
+793026              YOGHURT NATURAL LIGHT LALA 1KG                    10        20210701  N         
+406688              CHURROMAIS CON LIMON 38GR                         9         20211019  N         
+285807              YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G          4         20190101  N         
+947176              SALSA DE CHILE HABANERO ROJO 260GR                6         20190201  N         
+415932              SOPA MARUCHAN CAMARON 71GR                        7         20190605  N         
+412041              TORTILLAS DE MAIZ 1KG                             9         20190628  N         
+941699              MAIZ POZOLERO EXTRA 1KGR                          3         20190729  N         
+365906              AGUACATE REGIONAL KG.1.000 GR                     11        20190817  N         
+374253              TE DE MANZANILLA NEBO 24 1GR                      9         20201007  N         
+459032              GELATINA DANY LIMON 125GR                         5         20201213  N         
+179485              MOLE SURTIDO CON ESPECIAS 250GR                   11        20210115  N         
+374253              TE DE MANZANILLA NEBO 24 1GR                      4         20210324  N         
+651034              MANGO EN REBANADAS LA MORENA 800GR                3         20211111  N         
+178943              YOGHURT P BEBER DURAZNO LIGHT YOP 250GR           9         20211226  N         
+511824              FLAN LALA SABOR VAINILLA 100GR                    7         20190319  N         
+415932              SOPA MARUCHAN CAMARON 71GR                        11        20190506  N         
+696000              MEDIA CREMA NESTLE 1LT                            8         20191202  N         
+536472              SABRITAS CASERAS JALAPENO 42GR                    6         20191203  N         
+126218              TANJERINA                                         11        20200126  N         
+406688              CHURROMAIS CON LIMON 38GR                         1         20200419  N         
+785062              CORAZON DE ALCACHOFA SAN MIGUEL                   4         20200805  N         
+901816              JUGO VALLE FRUT CITRUS 12 250ML                   5         20210902  N         
+690039              CORAZONES DE OREJONA PZA                          8         20190105  N         
+412041              TORTILLAS DE MAIZ 1KG                             3         20190701  N         
+979865              GALLETAS MARIAS CUETARA 160GR                     10        20190927  N         
+170844              EMPANIZADOR CONTADINA TRADICIONAL 283GR           9         20200706  N         
+696000              MEDIA CREMA NESTLE 1LT                            8         20201002  N         
+178943              YOGHURT P BEBER DURAZNO LIGHT YOP 250GR           1         20190527  N         
+748899              NARANJA SIN SEMILLA                               11        20190726  N         
+900698              VAINILLA MOLINA 500ML                             5         20191009  N         
+182942              ZAPOTE                                            2         20191012  N         
+397718              LECHE LALA SEMI DESLACTOSADA 1LT                  0         20191018  N         
+390920              AGUA NIAGARA 500ML                                5         20200312  N         
+434681              ELOTE DORADO DEL MONTE 225GR                      4         20200714  N         
+582920              PINGUINOS MARINELA 40GR                           10        20200816  N         
+178943              YOGHURT P BEBER DURAZNO LIGHT YOP 250GR           2         20210316  N         
+826317              CHAMYTO BIG 114ML                                 4         20210529  N         
+317404              LICUADO LALA CIRUELA PASA Y NUEZ 240GR            11        20210606  N         
+308982              YOGHURT P BEBER FRUGGIS FRESA 150GR               6         20210823  N         
+330512              YOGHURT LALA LIGHT 240GR                          1         20211003  N         
+901816              JUGO VALLE FRUT CITRUS 12 250ML                   2         20211227  N         
+748008              SANDWICH COMBINADA 3 FLORES 150GR                 3         20190418  N         
+856894              HARINA MAZATL 5KG                                 5         20190602  N         
+485302              YOGHURT LALA FRESA 240GR                          1         20190725  N         
+856894              HARINA MAZATL 5KG                                 12        20200417  N         
+511824              FLAN LALA SABOR VAINILLA 100GR                    4         20200531  N         
+536472              SABRITAS CASERAS JALAPENO 42GR                    12        20201231  N         
+317404              LICUADO LALA CIRUELA PASA Y NUEZ 240GR            5         20210929  N         
+204890              LECHE YAQUI DESLACTOSADA 1LT                      1         20220202  N         
+565169              PASTILLA PEPTO BISMOL                             6         20220329  N         
+620036              SABRITAS ORIGINAL SAL 490GR                       4         20200519  N         
+941699              MAIZ POZOLERO EXTRA 1KGR                          9         20200727  N         
+856894              HARINA MAZATL 5KG                                 1         20200925  N         
+565169              PASTILLA PEPTO BISMOL                             11        20211010  N         
+778066              CHILES CHIPOTLES LA COSTENA 380GR                 9         20211122  N         
+662083              TAKIS SALSA BRAVA 62GR                            5         20220101  N         
+793026              YOGHURT NATURAL LIGHT LALA 1KG                    5         20220106  N         
+311343              YOGHURT FRESA NESTLE 1KG                          11        20200730  N         
+714788              PAPA EN CUBOS DEL FUERTE 12 380GR.                7         20201123  N         
+882099              NESQUIK CHOCOLATE 200GR                           2         20210227  N         
+882099              NESQUIK CHOCOLATE 200GR                           12        20220123  N         
+308982              YOGHURT P BEBER FRUGGIS FRESA 150GR               3         20190424  N         
+923804              SAL BAJA PACIFIC BOLSA 1KGR                       7         20200319  N         
+459032              GELATINA DANY LIMON 125GR                         10        20200529  N         
+412041              TORTILLAS DE MAIZ 1KG                             2         20201026  N         
+485302              YOGHURT LALA FRESA 240GR                          5         20210104  N         
+485302              YOGHURT LALA FRESA 240GR                          8         20210117  N         
+330512              YOGHURT LALA LIGHT 240GR                          1         20211219  N         
+874503              GALLETAS LORS SNACKS MARINELA 75GR                1         20190807  N         
+997564              MANGO ECUATORIANO                                 1         20191006  N         
+330512              YOGHURT LALA LIGHT 240GR                          6         20201126  N         
+283781              FRIJOLES REFRITOS ISADORA 430GR                   7         20210305  N         
+126218              TANJERINA                                         6         20211128  N         
+651034              MANGO EN REBANADAS LA MORENA 800GR                8         20220211  N         
+374253              TE DE MANZANILLA NEBO 24 1GR                      5         20190105  N         
+947176              SALSA DE CHILE HABANERO ROJO 260GR                6         20190203  N         
+935218              FRIJOL AMARILLO KG                                2         20190421  N         
+997564              MANGO ECUATORIANO                                 12        20200509  N         
+536472              SABRITAS CASERAS JALAPENO 42GR                    3         20201129  N         
+430669              AJO GRANULADO DE CALIFORNIA KIRKLAND 51.          10        20190518  N         
+459032              GELATINA DANY LIMON 125GR                         8         20190529  N         
+308982              YOGHURT P BEBER FRUGGIS FRESA 150GR               10        20210415  N         
+317404              LICUADO LALA CIRUELA PASA Y NUEZ 240GR            3         20210520  N         
+455703              PALOMITAS POFETS FLAMIN HOT 28GR                  2         20210528  N         
+126218              TANJERINA                                         3         20210717  N         
+748008              SANDWICH COMBINADA 3 FLORES 150GR                 8         20220221  N         
+118050              PAPAYA                                            8         20191216  N         
+118050              PAPAYA                                            5         20200430  N         
+390920              AGUA NIAGARA 500ML                                4         20200514  N         
+565169              PASTILLA PEPTO BISMOL                             5         20200718  N         
+793026              YOGHURT NATURAL LIGHT LALA 1KG                    7         20200907  N         
+748899              NARANJA SIN SEMILLA                               9         20210124  N         
+900698              VAINILLA MOLINA 500ML                             5         20190519  N         
+662083              TAKIS SALSA BRAVA 62GR                            2         20190710  N         
+118050              PAPAYA                                            11        20200309  N         
+565169              PASTILLA PEPTO BISMOL                             5         20200605  N         
+308982              YOGHURT P BEBER FRUGGIS FRESA 150GR               7         20200921  N         
+182942              ZAPOTE                                            3         20201006  N         
+992564              LECHUGA ROMANA                                    3         20201105  N         
+793026              YOGHURT NATURAL LIGHT LALA 1KG                    7         20210713  N         
+455703              PALOMITAS POFETS FLAMIN HOT 28GR                  12        20220124  N         
+941699              MAIZ POZOLERO EXTRA 1KGR                          6         20220205  N         
+365379              YOGHURT FRESA CON GRANOLA CHELSY 240GR            4         20190713  N         
+406688              CHURROMAIS CON LIMON 38GR                         9         20190803  N         
+923804              SAL BAJA PACIFIC BOLSA 1KGR                       11        20190815  N         
+311343              YOGHURT FRESA NESTLE 1KG                          4         20200806  N         
+675770              JARABE DE MAMEY 1.25KG                            2         20200911  N         
+872819              GELATINA DE LECHE VAINILLA DANETTE 100GR          1         20211020  N         
+204890              LECHE YAQUI DESLACTOSADA 1LT                      6         20190313  N         
+151641              YOGHURT P BEBER LACTIGURT COCO 250G               6         20200720  N         
+947176              SALSA DE CHILE HABANERO ROJO 260GR                2         20210309  N         
+485302              YOGHURT LALA FRESA 240GR                          9         20210705  N         
+961802              ACHIOTE LA EXTRA 1KG                              12        20211004  N         
+423073              POLVO PARA HORNEAR REXAL 15KILOS                  12        20211109  N         
+365906              AGUACATE REGIONAL KG.1.000 GR                     9         20211217  N         
