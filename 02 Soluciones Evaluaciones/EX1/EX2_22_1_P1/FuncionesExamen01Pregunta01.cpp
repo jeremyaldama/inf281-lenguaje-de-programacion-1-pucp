@@ -190,7 +190,7 @@ void IncrementarEspaciosPedidos(int*&datos, int&num_ped, int&cap) {
         num_ped = 3;
     } else {
         int*aux = new int[cap] {};
-        for (int i = 0; datos[i]; i++) {
+        for (int i = 0; i < num_ped; i++) {
             aux[i] = datos[i];
         }
         delete datos;
