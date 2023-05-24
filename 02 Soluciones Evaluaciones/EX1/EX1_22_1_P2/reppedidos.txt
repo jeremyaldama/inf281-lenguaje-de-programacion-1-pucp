@@ -2,7 +2,7 @@
 675770              JARABE DE MAMEY 1.25KG                            5         20191020  N         
 696000              MEDIA CREMA NESTLE 1LT                            1         20191228  N         
 415932              SOPA MARUCHAN CAMARON 71GR                        1         20200813  N         
-856894              HARINA MAZATL 5KG                                 7         20201015  NRIC=C;L1õ{M
+856894              HARINA MAZATL 5KG                                 7         20201015  N         
 434681              ELOTE DORADO DEL MONTE 225GR                      9         20201129  N         
 422763              GALLETAS SUAVICREMAS FRESA 158GR                  3         20210205  N         
 317404              LICUADO LALA CIRUELA PASA Y NUEZ 240GR            2         20210322  N         
