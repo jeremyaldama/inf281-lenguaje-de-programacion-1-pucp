@@ -1,0 +1,59 @@
+77763722   Farfan/Salazar/Margot                   90:3227    161.43
+89314225   Rios/Durand/Carlos Edilberto            90:3570    227.39
+23842717   Henriquez/Espino/Beatriz                90:3736    370.69
+35297848   Astete/Chang/Guida                      90:3839     21.00
+73357516   Trigueros/Jugo/Luz                      90:4433    311.31
+50449903   Florian/Morales/Ydali                   90:4841    488.11
+66811104   Pasquel/Quio/Surami Janet               90:4928    193.02
+53566003   Cabrera/Canales/Guillermo Edric         90:5241    420.26
+47844324   Vilca/Lee/Nestor Hugo                   10:2026    282.38
+48878256   Raffo/Coronado/Rolando                  10:4022    367.64
+46923852   Hijar/Pairazaman/Jenny Delicia          10:5029    490.33
+59121560   Lozada/Yino/Martha                      10:1256    363.21
+71832810   Sueldo/Sedano/Adria                     10:2234    370.96
+84074583   Coronel/Chumpitaz/Heli                  10:2712    180.49
+71180497   Portugal/Benavente/Johana Gloria        10:3070    241.37
+38362262   Coronado/Figueroa/Johan                 10:3143    417.69
+26522329   Sanchez/Del_Castillo/Fiorella Rosario   10:3210    461.05
+29851973   Cortez/Segura/Carmela Ines              10:3746    476.64
+13219606   Rodriguez/Moreno/Blanca Ofelia          10:4020    171.10
+68167636   Landeo/Sueldo/Adolfo                    10:4117    466.57
+48450395   Ramirez/Astete/Karina Estefania         10:4310    212.40
+45043076   Vega/Vilcara/Carmela Teresa             10:4740    311.65
+32090869   Sueldo/Antezano/Luis Jesus              10:5020    202.80
+68310808   Cano/Polo/Milagros Isabel               10:5027    144.83
+88854166   Pinto/Rojas/Juvenal Francisco           10:5043     30.32
+88000134   Ruiz/Gordillo/Carola Erika              10:5270    358.13
+66849703   Mercado/Coronel/Elia                    10:5544    105.06
+68369891   Laura/Wong/Melvin Henrry                10:5821    221.88
+97849227   Prado/Espinoza/Milagros                 10:5859    438.74
+63736112   Zamora/Zavaleta/Ronal Manuel            11:0029    340.00
+77982722   Justino/Cruz/Williams                   11:1020     62.10
+54141214   Durand/Miranda/Miguel Juan              11:2050      6.41
+71457094   Arca/Amezquita/Edric Ronald             11:8050    492.81
+60422425   Palomares/Vera/Henrry Humberto          11:8060    137.78
+62504139   Calixto/Tomasiche/Monica Doris          11:1135    358.50
+38004399   Auris/Zimic/Javier Daniel Luis          11:1434     29.16
+75945248   Mejia/Rodriguez/Ines Valentina          11:1722    391.24
+53853385   Solis/Narvaez/Maria Madeleine           11:2621      5.37
+64208029   Gavidia/Mendoza/Ronald Johnny           11:2950     24.46
+62004867   Caro/Polo/Sandro                        11:3029    426.75
+27185429   Solis/Chung/Rolando                     11:3444    157.48
+80310768   Minaya/Berrocal/Heli                    11:3949     87.77
+16477908   Baca/Camacho/Milagros Natalia           11:4548    176.39
+79766395   Fuentes/Escalante/Patricia Elizabeth    11:4960    392.86
+40237708   Vega/Munoz/Gonzalo                      11:5010    206.75
+69494747   Mendoza/Romero/Virginia Ydali           11:5141    407.84
+60335381   Diaz/Tang/Enrique                       11:5232    417.54
+35912665   Martinez/Cruz/Evert Rony                11:5540    407.37
+76083813   Zarate/Del_Pozo/Humberto Antonio        12:3036    470.24
+48175022   Alamo/Pairazaman/Miguel Roberto         12:6039     82.56
+58992942   Narvaez/Castillo/Jesus Rafael           12:7080    467.17
+84186239   Rivero/Coronado/Hector Alonso           12:9060    151.31
+94149989   Antezano/Segura/Teresa Delia            12:1048    146.05
+17709280   Moya/Aranda/Johnny                      12:1422    119.77
+31107104   Moscoso/Arias/Fiorella                  12:2122    391.70
+48528209   Zavaleta/Coronado/Felicita Eloisa       12:2480    199.25
+14467310   Paredes/Patino/Christian                12:2941    468.01
+15029228   Valverde/Maeireizo/Melvin Jair          12:3016     23.35
+86577817   Morales/Valverde/Ines Martha            12:3025    401.52

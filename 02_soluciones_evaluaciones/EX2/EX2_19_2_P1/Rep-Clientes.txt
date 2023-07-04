@@ -1,0 +1,66 @@
+Hora de apertura: 09:30:00
+
+                                                  HORA           TIEMPO           HORA          
+DNI       NOMBRE                                  DE LLEGADA     DE ESPERA        DE SALIDA     
+===============================================================================================
+77763722  Farfan/Salazar/Margot                   90:32:27          161 seg.      
+89314225  Rios/Durand/Carlos Edilberto            90:35:70          228 seg.      
+23842717  Henriquez/Espino/Beatriz                90:37:36          449 seg.      
+35297848  Astete/Chang/Guida                      90:38:39          407 seg.      
+73357516  Trigueros/Jugo/Luz                      90:44:33          364 seg.      
+50449903  Florian/Morales/Ydali                   90:48:41          604 seg.      
+66811104  Pasquel/Quio/Surami Janet               90:49:28          750 seg.      
+53566003  Cabrera/Canales/Guillermo Edric         90:52:41          977 seg.      
+47844324  Vilca/Lee/Nestor Hugo                   10:20:26          674 seg.      
+48878256  Raffo/Coronado/Rolando                  10:40:22          925 seg.      
+46923852  Hijar/Pairazaman/Jenny Delicia          10:50:29         1348 seg.      
+59121560  Lozada/Yino/Martha                      10:12:56         1264 seg.      
+71832810  Sueldo/Sedano/Adria                     10:22:34         1056 seg.      
+84074583  Coronel/Chumpitaz/Heli                  10:27:12          958 seg.      
+71180497  Portugal/Benavente/Johana Gloria        10:30:70         1024 seg.      
+38362262  Coronado/Figueroa/Johan                 10:31:43         1345 seg.      
+26522329  Sanchez/Del_Castillo/Fiorella Rosario   10:32:10         1779 seg.      
+29851973  Cortez/Segura/Carmela Ines              10:37:46         1919 seg.      
+13219606  Rodriguez/Moreno/Blanca Ofelia          10:40:20         1954 seg.      
+68167636  Landeo/Sueldo/Adolfo                    10:41:17         2345 seg.      
+48450395  Ramirez/Astete/Karina Estefania         10:43:10         2444 seg.      
+45043076  Vega/Vilcara/Carmela Teresa             10:47:40         2521 seg.      
+32090869  Sueldo/Antezano/Luis Jesus              10:50:20         2545 seg.      
+68310808  Cano/Polo/Milagros Isabel               10:50:27         2664 seg.      
+88854166  Pinto/Rojas/Juvenal Francisco           10:50:43         2678 seg.      
+88000134  Ruiz/Gordillo/Carola Erika              10:52:70         2952 seg.      
+66849703  Mercado/Coronel/Elia                    10:55:44         2840 seg.      
+68369891  Laura/Wong/Melvin Henrry                10:58:21         2904 seg.      
+97849227  Prado/Espinoza/Milagros                 10:58:59         3304 seg.      
+63736112  Zamora/Zavaleta/Ronal Manuel            11:00:29         3554 seg.      
+77982722  Justino/Cruz/Williams                   11:10:20         3583 seg.      
+54141214  Durand/Miranda/Miguel Juan              11:20:50         3526 seg.      
+71457094  Arca/Amezquita/Edric Ronald             11:80:50         3658 seg.      
+60422425  Palomares/Vera/Henrry Humberto          11:80:60         3794 seg.      
+62504139  Calixto/Tomasiche/Monica Doris          11:11:35         3943 seg.      
+38004399  Auris/Zimic/Javier Daniel Luis          11:14:34         3793 seg.      
+75945248  Mejia/Rodriguez/Ines Valentina          11:17:22         4016 seg.      
+53853385  Solis/Narvaez/Maria Madeleine           11:26:21         3482 seg.      
+64208029  Gavidia/Mendoza/Ronald Johnny           11:29:50         3342 seg.      
+62004867  Caro/Polo/Sandro                        11:30:29         3684 seg.      
+27185429  Solis/Chung/Rolando                     11:34:44         3586 seg.      
+80310768  Minaya/Berrocal/Heli                    11:39:49         3368 seg.      
+16477908  Baca/Camacho/Milagros Natalia           11:45:48         3185 seg.      
+79766395  Fuentes/Escalante/Patricia Elizabeth    11:49:60         3379 seg.      
+40237708  Vega/Munoz/Gonzalo                      11:50:10         3530 seg.      
+69494747  Mendoza/Romero/Virginia Ydali           11:51:41         3837 seg.      
+60335381  Diaz/Tang/Enrique                       11:52:32         4203 seg.      
+35912665  Martinez/Cruz/Evert Rony                11:55:40         4422 seg.      
+76083813  Zarate/Del_Pozo/Humberto Antonio        12:30:36         4416 seg.      
+48175022  Alamo/Pairazaman/Miguel Roberto         12:60:39         4315 seg.      
+58992942  Narvaez/Castillo/Jesus Rafael           12:70:80         4753 seg.      
+84186239  Rivero/Coronado/Hector Alonso           12:90:60         4786 seg.      
+94149989  Antezano/Segura/Teresa Delia            12:10:48         4830 seg.      
+17709280  Moya/Aranda/Johnny                      12:14:22         4735 seg.      
+31107104  Moscoso/Arias/Fiorella                  12:21:22         4706 seg.      
+48528209  Zavaleta/Coronado/Felicita Eloisa       12:24:80         4739 seg.      
+14467310  Paredes/Patino/Christian                12:29:41         4874 seg.      
+15029228  Valverde/Maeireizo/Melvin Jair          12:30:16         4862 seg.      
+86577817  Morales/Valverde/Ines Martha            12:30:25         5254 seg.      
+===============================================================================================
+Promedio de espera:    2839.63  seg.

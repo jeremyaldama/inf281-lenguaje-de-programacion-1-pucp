@@ -1,0 +1,5 @@
+Codigo del Alumno: 202123703
+Nombre del Alumno: GAMARRA TABORI PAUL RONAL
+Detalle de Cursos: 
+Cursados   Aprobados   1ra Vez   2da Vez   3ra Vez
+    0          0          0          0          0

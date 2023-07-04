@@ -1,0 +1,1662 @@
+CODIGO    Descripcion del Med.                                        Cant.     DNI                 Nombre              
+========================================================================================================================
+41379     FLUNARICINA 10 MG T20                                       5         51642949       Miranda/Alfonso
+47697     CLINDAMICINA 300 MG C/16                                    22        51642949       Miranda/Alfonso
+31883     ACIDO NALIDIXICO SUSP                                       19        51642949       Miranda/Alfonso
+47697     CLINDAMICINA 300 MG C/16                                    30        51642949       Miranda/Alfonso
+61039     NISTATINA GI C/12 TAB                                       28        61061535       Solis/Maria
+72969     ISOSORBIDE 10MG T/20                                        30        61061535       Solis/Maria
+57269     SIMVASTATINA 10 MG C14                                      12        61061535       Solis/Maria
+57269     SIMVASTATINA 10 MG C14                                      15        61061535       Solis/Maria
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              19        61061535       Solis/Maria
+81695     LECHE DE MAGNESIA 180ML                                     11        61061535       Solis/Maria
+75565     MICONAZOL 20 GR CRA                                         26        54815159       Patino/Delicia
+36711     TIBOLONA 2.5MG 30T                                          16        54815159       Patino/Delicia
+72061     DEFLAZACORT 30MG 10T                                        28        15290194       Hernandez/Guillermo
+72061     DEFLAZACORT 30MG 10T                                        18        15290194       Hernandez/Guillermo
+65667     SUBSALICILATO/BISMUTO SUSP 120ML                            22        15290194       Hernandez/Guillermo
+49157     RANITIDINA 300 MG C/10                                      25        15290194       Hernandez/Guillermo
+40997     ELECTROLIT PED FRESA 625ML                                  10        35347567       Sedano/Elia
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              33        35347567       Sedano/Elia
+42053     TRETINOINA 30G CREMA 0.05%                                  33        35347567       Sedano/Elia
+97465     GLIBENCLAMIDA 5 MG C/50                                     33        35347567       Sedano/Elia
+85641     TAMOXIFENO 10MG 30T                                         30        52313890       Rivero/Wilver
+85641     TAMOXIFENO 10MG 30T                                         5         52313890       Rivero/Wilver
+85641     TAMOXIFENO 10MG 30T                                         23        52313890       Rivero/Wilver
+60685     NITROFURANTOINA C40 100MG                                   19        93282118       Zambrano/Ofelia
+30007     DICLOFENACO SODICO 1MG GTS 5 ML                             14        93282118       Zambrano/Ofelia
+81695     LECHE DE MAGNESIA 180ML                                     8         93282118       Zambrano/Ofelia
+43633     ERITROMICINA T 250 MG C/20                                  6         93282118       Zambrano/Ofelia
+81695     LECHE DE MAGNESIA 180ML                                     6         93282118       Zambrano/Ofelia
+55021     AMOXICILINA 500MG/5ML SUSP                                  5         43704548       Vizcardo/Maribel
+75565     MICONAZOL 20 GR CRA                                         1         43704548       Vizcardo/Maribel
+88681     NIFEDIPINO 30 MG 30 CPS                                     27        20371464       Lozada/Heli
+96881     GABAPENTINA 300 MG C/15                                     8         20371464       Lozada/Heli
+88681     NIFEDIPINO 30 MG 30 CPS                                     19        20371464       Lozada/Heli
+96881     GABAPENTINA 300 MG C/15                                     23        20371464       Lozada/Heli
+97465     GLIBENCLAMIDA 5 MG C/50                                     27        86988155       Cerna/Cinthia
+58259     SULFADIAZINA DE PLATA CRA 28GR                              15        86988155       Cerna/Cinthia
+61295     QUINFAMIDA 100 MG 3TAB                                      22        86988155       Cerna/Cinthia
+16055     AMBROXOL C/20 TAB                                           18        86988155       Cerna/Cinthia
+58259     SULFADIAZINA DE PLATA CRA 28GR                              25        86988155       Cerna/Cinthia
+85641     TAMOXIFENO 10MG 30T                                         17        34697743       Ayala/Ericka
+60685     NITROFURANTOINA C40 100MG                                   18        34697743       Ayala/Ericka
+60685     NITROFURANTOINA C40 100MG                                   35        34697743       Ayala/Ericka
+16055     AMBROXOL C/20 TAB                                           23        34697743       Ayala/Ericka
+72495     ACIDO GLUTAMICO 600 MG C/100                                9         34697743       Ayala/Ericka
+24733     CALCIO+MAGNESIO 30T                                         11        32538825       Hijar/Martin
+37549     TOPIRAMATO 100MG 20T                                        7         32538825       Hijar/Martin
+37549     TOPIRAMATO 100MG 20T                                        14        32538825       Hijar/Martin
+24733     CALCIO+MAGNESIO 30T                                         26        32538825       Hijar/Martin
+16055     AMBROXOL C/20 TAB                                           30        32538825       Hijar/Martin
+61039     NISTATINA GI C/12 TAB                                       13        22598563       Sueldo/Adria
+63555     FAMOTIDINA 20MG 30C                                         15        22598563       Sueldo/Adria
+31883     ACIDO NALIDIXICO SUSP                                       34        22598563       Sueldo/Adria
+81333     CARNITINA C/30                                              19        22598563       Sueldo/Adria
+81333     CARNITINA C/30                                              26        22598563       Sueldo/Adria
+84771     BETAMETASONA CREMA 30GR                                     7         37282858       Soma/Lourdes
+47697     CLINDAMICINA 300 MG C/16                                    33        37282858       Soma/Lourdes
+55701     EUCALIPTO GUAYACOL PERLAS30                                 20        93939698       Henriquez/Silvana
+98261     ACICLOVIR 200 MG C/25 CPR                                   33        93939698       Henriquez/Silvana
+39779     OMEPRAZOL 20 MG C/14                                        14        93939698       Henriquez/Silvana
+57269     SIMVASTATINA 10 MG C14                                      34        95656771       Raffo/Rolando
+22553     FLUCINOLONA+NEOMICINA CRA 30G                               7         95656771       Raffo/Rolando
+92517     ISOCONAZOL CR 20GR GI                                       5         57182371       Moscoso/Fiorella
+36711     TIBOLONA 2.5MG 30T                                          11        57182371       Moscoso/Fiorella
+92517     ISOCONAZOL CR 20GR GI                                       31        57182371       Moscoso/Fiorella
+85325     AMOXICILINA 250MG C12                                       5         68269451       Asmad/Adria
+48557     NAPROXENO SODICO 100/2.5 SUSP                               7         95656771       Raffo/Rolando
+59121     DESLORATADINA 5MG 10T                                       8         36471787       Pena/Glenda
+77203     ONDANSETRON 8MG C10T                                        31        36471787       Pena/Glenda
+55021     AMOXICILINA 500MG/5ML SUSP                                  6         36471787       Pena/Glenda
+60509     AMPICILINA 125MG SUSP 90ML                                  23        45914393       Lozada/Antonio
+61039     NISTATINA GI C/12 TAB                                       5         53420926       Prado/Juan
+60685     NITROFURANTOINA C40 100MG                                   26        14956687       Luna/Waldemar
+89839     ACIDO MEFENAMICO 500MG C10 TAB                              20        81647285       Vega/Henrry
+85641     TAMOXIFENO 10MG 30T                                         31        81647285       Vega/Henrry
+89839     ACIDO MEFENAMICO 500MG C10 TAB                              15        81647285       Vega/Henrry
+70303     AZITROMICINA SUSP                                           14        81647285       Vega/Henrry
+65667     SUBSALICILATO/BISMUTO SUSP 120ML                            24        81647285       Vega/Henrry
+70303     AZITROMICINA SUSP                                           19        81647285       Vega/Henrry
+28409     RIFAMPICINA 300 MG C/16 CAP                                 30        31284904       Sakaguchi/Carlos
+27447     OXIDO DE ZINC TUBO PASTA 30GR                               12        31284904       Sakaguchi/Carlos
+55021     AMOXICILINA 500MG/5ML SUSP                                  32        36471787       Pena/Glenda
+59121     DESLORATADINA 5MG 10T                                       26        36471787       Pena/Glenda
+44215     DICICLOVERINA 10MG 30T                                      22        36471787       Pena/Glenda
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 15        54815159       Patino/Delicia
+59121     DESLORATADINA 5MG 10T                                       27        54815159       Patino/Delicia
+46919     VITAMINA C C20 TAB 100MG                                    26        54815159       Patino/Delicia
+94415     PRAVASTATINA 10 MG C/15                                     21        13731806       Salamanca/Virginia
+16813     VANCOMICINA 500MG SOL INY                                   19        13731806       Salamanca/Virginia
+48557     NAPROXENO SODICO 100/2.5 SUSP                               27        13731806       Salamanca/Virginia
+94415     PRAVASTATINA 10 MG C/15                                     35        62126128       Durand/Enrique
+94415     PRAVASTATINA 10 MG C/15                                     9         62126128       Durand/Enrique
+75565     MICONAZOL 20 GR CRA                                         26        62126128       Durand/Enrique
+63555     FAMOTIDINA 20MG 30C                                         28        22598563       Sueldo/Adria
+22553     FLUCINOLONA+NEOMICINA CRA 30G                               22        22598563       Sueldo/Adria
+68539     METENAMINA 30T 500MG                                        16        20371464       Lozada/Heli
+89839     ACIDO MEFENAMICO 500MG C10 TAB                              15        93961840       Pairazaman/Tatiana
+63555     FAMOTIDINA 20MG 30C                                         6         93961840       Pairazaman/Tatiana
+60685     NITROFURANTOINA C40 100MG                                   21        93961840       Pairazaman/Tatiana
+72061     DEFLAZACORT 30MG 10T                                        35        20371464       Lozada/Heli
+57269     SIMVASTATINA 10 MG C14                                      33        20371464       Lozada/Heli
+77203     ONDANSETRON 8MG C10T                                        15        32538825       Hijar/Martin
+80839     CARBAMAZEPINA 120ML SUSP                                    5         35852072       Jauregui/Victor
+82469     GUAYACOL AMPOLLETA 1ML                                      6         35852072       Jauregui/Victor
+42053     TRETINOINA 30G CREMA 0.05%                                  26        35852072       Jauregui/Victor
+70807     LINCOMICINA 600 MG INY C/3                                  14        93282118       Zambrano/Ofelia
+60685     NITROFURANTOINA C40 100MG                                   5         93282118       Zambrano/Ofelia
+92517     ISOCONAZOL CR 20GR GI                                       13        57182371       Moscoso/Fiorella
+61039     NISTATINA GI C/12 TAB                                       30        62126128       Durand/Enrique
+75565     MICONAZOL 20 GR CRA                                         28        62126128       Durand/Enrique
+42861     BENCIDAMIDA CRA 5% 60GR                                     25        54149342       Leyva/Diana
+40645     VERAPAMILO 80 MG/20 TAB                                     14        54149342       Leyva/Diana
+55813     SALBUTAMOL 4MG T30                                          31        54149342       Leyva/Diana
+40645     VERAPAMILO 80 MG/20 TAB                                     25        54149342       Leyva/Diana
+31189     CEFADROXILO 500MG C/16CAP                                   16        54149342       Leyva/Diana
+88681     NIFEDIPINO 30 MG 30 CPS                                     25        54149342       Leyva/Diana
+70225     CEFTRIAXONA 1.0GR IM G I                                    31        65912822       Camacho/Ydali
+55021     AMOXICILINA 500MG/5ML SUSP                                  10        65912822       Camacho/Ydali
+81695     LECHE DE MAGNESIA 180ML                                     10        65912822       Camacho/Ydali
+72939     VITIS VINIFERA (UVA) 60C                                    1         65912822       Camacho/Ydali
+65667     SUBSALICILATO/BISMUTO SUSP 120ML                            28        81647285       Vega/Henrry
+65667     SUBSALICILATO/BISMUTO SUSP 120ML                            16        81647285       Vega/Henrry
+14075     CLOTRIMAZOL C/6 CPR VAG                                     32        81647285       Vega/Henrry
+85641     TAMOXIFENO 10MG 30T                                         18        81647285       Vega/Henrry
+84771     BETAMETASONA CREMA 30GR                                     20        99891737       Contreras/Johana
+61039     NISTATINA GI C/12 TAB                                       7         62287143       Wong/Beatriz
+75565     MICONAZOL 20 GR CRA                                         23        62287143       Wong/Beatriz
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              4         62287143       Wong/Beatriz
+31311     METILPREDNISOLONA 500MG                                     19        68114999       Rios/Ines
+80839     CARBAMAZEPINA 120ML SUSP                                    20        68114999       Rios/Ines
+16681     SIBUTRAMINA 10 MG C15                                       34        12484697       Diaz/Enrique
+36711     TIBOLONA 2.5MG 30T                                          10        12484697       Diaz/Enrique
+64347     DIFENHIDRAMINA 25MG C30                                     6         12484697       Diaz/Enrique
+58259     SULFADIAZINA DE PLATA CRA 28GR                              12        12484697       Diaz/Enrique
+96031     CETIRIZINA 10 MG TABS C/10                                  27        51465986       Sam/Ines
+68539     METENAMINA 30T 500MG                                        33        51465986       Sam/Ines
+63555     FAMOTIDINA 20MG 30C                                         31        51465986       Sam/Ines
+61295     QUINFAMIDA 100 MG 3TAB                                      10        58643376       Arroyo/Natalia
+46919     VITAMINA C C20 TAB 100MG                                    25        58643376       Arroyo/Natalia
+65667     SUBSALICILATO/BISMUTO SUSP 120ML                            11        17299012       Suarez/Amaru
+81695     LECHE DE MAGNESIA 180ML                                     16        35347567       Sedano/Elia
+16359     NAPROXENO 250 MG TAB C/30                                   9         35347567       Sedano/Elia
+72969     ISOSORBIDE 10MG T/20                                        12        62126128       Durand/Enrique
+75565     MICONAZOL 20 GR CRA                                         6         62126128       Durand/Enrique
+57269     SIMVASTATINA 10 MG C14                                      14        62126128       Durand/Enrique
+84771     BETAMETASONA CREMA 30GR                                     2         62126128       Durand/Enrique
+63555     FAMOTIDINA 20MG 30C                                         12        51465986       Sam/Ines
+96031     CETIRIZINA 10 MG TABS C/10                                  28        51465986       Sam/Ines
+47697     CLINDAMICINA 300 MG C/16                                    2         51465986       Sam/Ines
+91653     SAL DE UVAS PICOT                                           21        71422479       Lozada/Felicita
+84771     BETAMETASONA CREMA 30GR                                     34        62287143       Wong/Beatriz
+72969     ISOSORBIDE 10MG T/20                                        8         62287143       Wong/Beatriz
+84771     BETAMETASONA CREMA 30GR                                     8         22679759       Bravo/Janet
+89325     DIMENHIDRINATO 24 T 50MG                                    28        22679759       Bravo/Janet
+67415     FINASTERIDA 5MG 30T                                         19        22679759       Bravo/Janet
+61039     NISTATINA GI C/12 TAB                                       15        22679759       Bravo/Janet
+81333     CARNITINA C/30                                              22        22679759       Bravo/Janet
+39779     OMEPRAZOL 20 MG C/14                                        33        59561864       Rosemberg/Julio
+76247     FLUOCINOLONA CREMA 30G                                      28        77324146       Moscoso/Janet
+37549     TOPIRAMATO 100MG 20T                                        5         77324146       Moscoso/Janet
+59121     DESLORATADINA 5MG 10T                                       19        77324146       Moscoso/Janet
+70303     AZITROMICINA SUSP                                           10        80694546       Ramirez/Karina
+44215     DICICLOVERINA 10MG 30T                                      15        36471787       Pena/Glenda
+59121     DESLORATADINA 5MG 10T                                       9         36471787       Pena/Glenda
+59395     VITAMINICO GERIATRICO C30                                   12        72973662       Vargas/Daniel
+41403     VITAMINAS Y MINERALES 30-30T                                30        72973662       Vargas/Daniel
+41403     VITAMINAS Y MINERALES 30-30T                                18        72973662       Vargas/Daniel
+31311     METILPREDNISOLONA 500MG                                     31        68269451       Asmad/Adria
+80839     CARBAMAZEPINA 120ML SUSP                                    32        68269451       Asmad/Adria
+14075     CLOTRIMAZOL C/6 CPR VAG                                     35        68269451       Asmad/Adria
+70225     CEFTRIAXONA 1.0GR IM G I                                    23        27709566       Ortiz/Raul
+70225     CEFTRIAXONA 1.0GR IM G I                                    19        27709566       Ortiz/Raul
+48557     NAPROXENO SODICO 100/2.5 SUSP                               6         27709566       Ortiz/Raul
+47697     CLINDAMICINA 300 MG C/16                                    33        45914393       Lozada/Antonio
+60685     NITROFURANTOINA C40 100MG                                   33        93961840       Pairazaman/Tatiana
+63555     FAMOTIDINA 20MG 30C                                         33        93961840       Pairazaman/Tatiana
+31189     CEFADROXILO 500MG C/16CAP                                   12        93961840       Pairazaman/Tatiana
+31189     CEFADROXILO 500MG C/16CAP                                   18        93961840       Pairazaman/Tatiana
+89325     DIMENHIDRINATO 24 T 50MG                                    30        30246960       Escalante/Ines
+97465     GLIBENCLAMIDA 5 MG C/50                                     8         30246960       Escalante/Ines
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              31        61061535       Solis/Maria
+72969     ISOSORBIDE 10MG T/20                                        8         61061535       Solis/Maria
+61039     NISTATINA GI C/12 TAB                                       22        61061535       Solis/Maria
+76247     FLUOCINOLONA CREMA 30G                                      25        77324146       Moscoso/Janet
+42053     TRETINOINA 30G CREMA 0.05%                                  10        77324146       Moscoso/Janet
+37549     TOPIRAMATO 100MG 20T                                        35        77324146       Moscoso/Janet
+55813     SALBUTAMOL 4MG T30                                          23        85395219       Fuentes/Patricia
+60509     AMPICILINA 125MG SUSP 90ML                                  33        45914393       Lozada/Antonio
+84771     BETAMETASONA CREMA 30GR                                     16        45914393       Lozada/Antonio
+77203     ONDANSETRON 8MG C10T                                        33        72330000       Vega/Carmela
+82469     GUAYACOL AMPOLLETA 1ML                                      6         72330000       Vega/Carmela
+33311     ALBENDAZOL 200MG C/6 TAB                                    4         72330000       Vega/Carmela
+57505     ESPIRONOLACTONA 25MG 20T                                    31        72330000       Vega/Carmela
+16299     AZITROMICINA 500MG C/3T                                     18        72330000       Vega/Carmela
+77203     ONDANSETRON 8MG C10T                                        16        72330000       Vega/Carmela
+44215     DICICLOVERINA 10MG 30T                                      12        36934113       Serrano/Arturo
+55021     AMOXICILINA 500MG/5ML SUSP                                  11        36934113       Serrano/Arturo
+59121     DESLORATADINA 5MG 10T                                       26        36934113       Serrano/Arturo
+89325     DIMENHIDRINATO 24 T 50MG                                    24        36934113       Serrano/Arturo
+44215     DICICLOVERINA 10MG 30T                                      31        36934113       Serrano/Arturo
+34027     DANAZOL 100MG 50T                                           22        62287143       Wong/Beatriz
+61039     NISTATINA GI C/12 TAB                                       25        62287143       Wong/Beatriz
+75565     MICONAZOL 20 GR CRA                                         1         62287143       Wong/Beatriz
+28409     RIFAMPICINA 300 MG C/16 CAP                                 10        35852072       Jauregui/Victor
+80839     CARBAMAZEPINA 120ML SUSP                                    8         35852072       Jauregui/Victor
+42053     TRETINOINA 30G CREMA 0.05%                                  17        35852072       Jauregui/Victor
+28409     RIFAMPICINA 300 MG C/16 CAP                                 11        35852072       Jauregui/Victor
+16813     VANCOMICINA 500MG SOL INY                                   33        45201670       Guevara/Milena
+70225     CEFTRIAXONA 1.0GR IM G I                                    26        45201670       Guevara/Milena
+65985     LAMOTRIGINA 100MG TAB 28                                    15        45201670       Guevara/Milena
+48039     TRAMADOL 100MG 5AMP                                         29        45201670       Guevara/Milena
+72061     DEFLAZACORT 30MG 10T                                        31        45201670       Guevara/Milena
+65985     LAMOTRIGINA 100MG TAB 28                                    28        45201670       Guevara/Milena
+30007     DICLOFENACO SODICO 1MG GTS 5 ML                             8         45201670       Guevara/Milena
+77203     ONDANSETRON 8MG C10T                                        33        32538825       Hijar/Martin
+47697     CLINDAMICINA 300 MG C/16                                    15        66091742       Baca/Milagros
+70807     LINCOMICINA 600 MG INY C/3                                  8         66091742       Baca/Milagros
+70225     CEFTRIAXONA 1.0GR IM G I                                    11        66091742       Baca/Milagros
+42861     BENCIDAMIDA CRA 5% 60GR                                     22        66091742       Baca/Milagros
+55021     AMOXICILINA 500MG/5ML SUSP                                  2         66091742       Baca/Milagros
+89325     DIMENHIDRINATO 24 T 50MG                                    6         36934113       Serrano/Arturo
+47697     CLINDAMICINA 300 MG C/16                                    18        36934113       Serrano/Arturo
+80839     CARBAMAZEPINA 120ML SUSP                                    18        68114999       Rios/Ines
+76247     FLUOCINOLONA CREMA 30G                                      33        59561864       Rosemberg/Julio
+84555     PARACETAMOL 300MG C/5 SUP                                   26        27709566       Ortiz/Raul
+85325     AMOXICILINA 250MG C12                                       16        27709566       Ortiz/Raul
+63555     FAMOTIDINA 20MG 30C                                         31        93961840       Pairazaman/Tatiana
+63555     FAMOTIDINA 20MG 30C                                         9         93961840       Pairazaman/Tatiana
+70807     LINCOMICINA 600 MG INY C/3                                  18        93961840       Pairazaman/Tatiana
+63555     FAMOTIDINA 20MG 30C                                         33        93961840       Pairazaman/Tatiana
+79189     CLORFENAMINA 4MG T20                                        18        93961840       Pairazaman/Tatiana
+72969     ISOSORBIDE 10MG T/20                                        16        62126128       Durand/Enrique
+84771     BETAMETASONA CREMA 30GR                                     6         62126128       Durand/Enrique
+57269     SIMVASTATINA 10 MG C14                                      9         62126128       Durand/Enrique
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              10        62126128       Durand/Enrique
+81695     LECHE DE MAGNESIA 180ML                                     17        62126128       Durand/Enrique
+28219     NITAZOXANIDA 200 MG T6                                      18        99891737       Contreras/Johana
+60509     AMPICILINA 125MG SUSP 90ML                                  11        99891737       Contreras/Johana
+60509     AMPICILINA 125MG SUSP 90ML                                  33        99891737       Contreras/Johana
+28219     NITAZOXANIDA 200 MG T6                                      9         99891737       Contreras/Johana
+42053     TRETINOINA 30G CREMA 0.05%                                  35        77440060       Escalante/Emigdio
+37549     TOPIRAMATO 100MG 20T                                        18        77440060       Escalante/Emigdio
+72939     VITIS VINIFERA (UVA) 60C                                    17        77440060       Escalante/Emigdio
+49685     PINAVERIO BROMURO DE 100 MG 14T                             20        77440060       Escalante/Emigdio
+42053     TRETINOINA 30G CREMA 0.05%                                  20        77440060       Escalante/Emigdio
+98261     ACICLOVIR 200 MG C/25 CPR                                   35        81539774       Alfaro/Erick
+34027     DANAZOL 100MG 50T                                           33        85395219       Fuentes/Patricia
+55813     SALBUTAMOL 4MG T30                                          16        85395219       Fuentes/Patricia
+55813     SALBUTAMOL 4MG T30                                          22        85395219       Fuentes/Patricia
+79851     CEFOTAXIMA 1GR IM                                           23        85395219       Fuentes/Patricia
+79851     CEFOTAXIMA 1GR IM                                           2         85395219       Fuentes/Patricia
+77203     ONDANSETRON 8MG C10T                                        9         36934113       Serrano/Arturo
+55021     AMOXICILINA 500MG/5ML SUSP                                  30        36934113       Serrano/Arturo
+44215     DICICLOVERINA 10MG 30T                                      26        36934113       Serrano/Arturo
+36711     TIBOLONA 2.5MG 30T                                          34        54815159       Patino/Delicia
+61295     QUINFAMIDA 100 MG 3TAB                                      30        54815159       Patino/Delicia
+37549     TOPIRAMATO 100MG 20T                                        6         54815159       Patino/Delicia
+59121     DESLORATADINA 5MG 10T                                       15        54815159       Patino/Delicia
+49685     PINAVERIO BROMURO DE 100 MG 14T                             2         54815159       Patino/Delicia
+79851     CEFOTAXIMA 1GR IM                                           32        80694546       Ramirez/Karina
+59121     DESLORATADINA 5MG 10T                                       5         54815159       Patino/Delicia
+59121     DESLORATADINA 5MG 10T                                       30        54815159       Patino/Delicia
+79189     CLORFENAMINA 4MG T20                                        25        54815159       Patino/Delicia
+61295     QUINFAMIDA 100 MG 3TAB                                      28        54815159       Patino/Delicia
+63555     FAMOTIDINA 20MG 30C                                         16        51465986       Sam/Ines
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  34        93961840       Pairazaman/Tatiana
+31189     CEFADROXILO 500MG C/16CAP                                   8         93961840       Pairazaman/Tatiana
+31189     CEFADROXILO 500MG C/16CAP                                   5         93961840       Pairazaman/Tatiana
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  18        93961840       Pairazaman/Tatiana
+63555     FAMOTIDINA 20MG 30C                                         12        93961840       Pairazaman/Tatiana
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  18        93961840       Pairazaman/Tatiana
+85641     TAMOXIFENO 10MG 30T                                         19        93231760       Zarate/Alexander
+42053     TRETINOINA 30G CREMA 0.05%                                  9         77440060       Escalante/Emigdio
+42053     TRETINOINA 30G CREMA 0.05%                                  33        77440060       Escalante/Emigdio
+49685     PINAVERIO BROMURO DE 100 MG 14T                             8         77440060       Escalante/Emigdio
+47697     CLINDAMICINA 300 MG C/16                                    27        94683380       Farfan/Margot
+75565     MICONAZOL 20 GR CRA                                         2         94683380       Farfan/Margot
+70303     AZITROMICINA SUSP                                           22        80694546       Ramirez/Karina
+70303     AZITROMICINA SUSP                                           3         80694546       Ramirez/Karina
+96881     GABAPENTINA 300 MG C/15                                     28        20371464       Lozada/Heli
+57269     SIMVASTATINA 10 MG C14                                      27        20371464       Lozada/Heli
+41403     VITAMINAS Y MINERALES 30-30T                                34        72973662       Vargas/Daniel
+88681     NIFEDIPINO 30 MG 30 CPS                                     22        72973662       Vargas/Daniel
+16055     AMBROXOL C/20 TAB                                           12        65912822       Camacho/Ydali
+81695     LECHE DE MAGNESIA 180ML                                     3         65912822       Camacho/Ydali
+47697     CLINDAMICINA 300 MG C/16                                    27        65912822       Camacho/Ydali
+84771     BETAMETASONA CREMA 30GR                                     4         22598563       Sueldo/Adria
+72969     ISOSORBIDE 10MG T/20                                        7         62126128       Durand/Enrique
+75565     MICONAZOL 20 GR CRA                                         25        62126128       Durand/Enrique
+67415     FINASTERIDA 5MG 30T                                         31        51873364       Calixto/Erick
+16359     NAPROXENO 250 MG TAB C/30                                   22        51873364       Calixto/Erick
+70113     TETRACICLINA 250MG 10T                                      21        51873364       Calixto/Erick
+72495     ACIDO GLUTAMICO 600 MG C/100                                26        51873364       Calixto/Erick
+55021     AMOXICILINA 500MG/5ML SUSP                                  29        51873364       Calixto/Erick
+85325     AMOXICILINA 250MG C12                                       17        13731806       Salamanca/Virginia
+94415     PRAVASTATINA 10 MG C/15                                     5         13731806       Salamanca/Virginia
+41995     DIMETICONA SUSP 100MG 30ML                                  17        77440060       Escalante/Emigdio
+42053     TRETINOINA 30G CREMA 0.05%                                  9         77440060       Escalante/Emigdio
+37549     TOPIRAMATO 100MG 20T                                        29        77440060       Escalante/Emigdio
+49685     PINAVERIO BROMURO DE 100 MG 14T                             16        77440060       Escalante/Emigdio
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP                             26        53420926       Prado/Juan
+31189     CEFADROXILO 500MG C/16CAP                                   26        53420926       Prado/Juan
+41379     FLUNARICINA 10 MG T20                                       15        51642949       Miranda/Alfonso
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  19        51642949       Miranda/Alfonso
+31883     ACIDO NALIDIXICO SUSP                                       17        51642949       Miranda/Alfonso
+72969     ISOSORBIDE 10MG T/20                                        21        61061535       Solis/Maria
+55021     AMOXICILINA 500MG/5ML SUSP                                  3         36934113       Serrano/Arturo
+75565     MICONAZOL 20 GR CRA                                         31        99891737       Contreras/Johana
+31189     CEFADROXILO 500MG C/16CAP                                   15        93961840       Pairazaman/Tatiana
+89839     ACIDO MEFENAMICO 500MG C10 TAB                              27        93961840       Pairazaman/Tatiana
+63555     FAMOTIDINA 20MG 30C                                         5         93961840       Pairazaman/Tatiana
+31189     CEFADROXILO 500MG C/16CAP                                   4         93961840       Pairazaman/Tatiana
+31189     CEFADROXILO 500MG C/16CAP                                   22        93961840       Pairazaman/Tatiana
+27447     OXIDO DE ZINC TUBO PASTA 30GR                               10        68114999       Rios/Ines
+85325     AMOXICILINA 250MG C12                                       14        68114999       Rios/Ines
+80839     CARBAMAZEPINA 120ML SUSP                                    10        68114999       Rios/Ines
+31311     METILPREDNISOLONA 500MG                                     17        68114999       Rios/Ines
+96031     CETIRIZINA 10 MG TABS C/10                                  10        32538825       Hijar/Martin
+60509     AMPICILINA 125MG SUSP 90ML                                  20        32538825       Hijar/Martin
+42053     TRETINOINA 30G CREMA 0.05%                                  9         54815159       Patino/Delicia
+36711     TIBOLONA 2.5MG 30T                                          5         54815159       Patino/Delicia
+75565     MICONAZOL 20 GR CRA                                         21        54815159       Patino/Delicia
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 30        54815159       Patino/Delicia
+75565     MICONAZOL 20 GR CRA                                         25        54815159       Patino/Delicia
+60509     AMPICILINA 125MG SUSP 90ML                                  35        91187814       Narvaez/Jesus
+80839     CARBAMAZEPINA 120ML SUSP                                    32        91187814       Narvaez/Jesus
+31311     METILPREDNISOLONA 500MG                                     1         91187814       Narvaez/Jesus
+70225     CEFTRIAXONA 1.0GR IM G I                                    23        27709566       Ortiz/Raul
+91653     SAL DE UVAS PICOT                                           4         27709566       Ortiz/Raul
+75565     MICONAZOL 20 GR CRA                                         27        45914393       Lozada/Antonio
+47697     CLINDAMICINA 300 MG C/16                                    24        45914393       Lozada/Antonio
+47697     CLINDAMICINA 300 MG C/16                                    13        45914393       Lozada/Antonio
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              5         93939698       Henriquez/Silvana
+65985     LAMOTRIGINA 100MG TAB 28                                    15        93939698       Henriquez/Silvana
+94459     VALPROATO DE MAGNESIO SUSP                                  4         93939698       Henriquez/Silvana
+44215     DICICLOVERINA 10MG 30T                                      28        36934113       Serrano/Arturo
+55021     AMOXICILINA 500MG/5ML SUSP                                  21        36934113       Serrano/Arturo
+59121     DESLORATADINA 5MG 10T                                       35        36934113       Serrano/Arturo
+55021     AMOXICILINA 500MG/5ML SUSP                                  22        36934113       Serrano/Arturo
+82469     GUAYACOL AMPOLLETA 1ML                                      17        72330000       Vega/Carmela
+47697     CLINDAMICINA 300 MG C/16                                    21        72330000       Vega/Carmela
+36649     CITALOPRAM 20MG 14T                                         7         72330000       Vega/Carmela
+55813     SALBUTAMOL 4MG T30                                          1         90367684       Sinche/Yvonne
+28219     NITAZOXANIDA 200 MG T6                                      8         90367684       Sinche/Yvonne
+72061     DEFLAZACORT 30MG 10T                                        33        15290194       Hernandez/Guillermo
+65667     SUBSALICILATO/BISMUTO SUSP 120ML                            27        15290194       Hernandez/Guillermo
+81695     LECHE DE MAGNESIA 180ML                                     32        93282118       Zambrano/Ofelia
+70225     CEFTRIAXONA 1.0GR IM G I                                    16        93282118       Zambrano/Ofelia
+70807     LINCOMICINA 600 MG INY C/3                                  23        93282118       Zambrano/Ofelia
+30007     DICLOFENACO SODICO 1MG GTS 5 ML                             15        93282118       Zambrano/Ofelia
+77203     ONDANSETRON 8MG C10T                                        34        86988155       Cerna/Cinthia
+76247     FLUOCINOLONA CREMA 30G                                      15        86988155       Cerna/Cinthia
+80839     CARBAMAZEPINA 120ML SUSP                                    27        86988155       Cerna/Cinthia
+58259     SULFADIAZINA DE PLATA CRA 28GR                              30        86988155       Cerna/Cinthia
+58259     SULFADIAZINA DE PLATA CRA 28GR                              13        86988155       Cerna/Cinthia
+58259     SULFADIAZINA DE PLATA CRA 28GR                              31        15290194       Hernandez/Guillermo
+72969     ISOSORBIDE 10MG T/20                                        6         61061535       Solis/Maria
+61039     NISTATINA GI C/12 TAB                                       26        61061535       Solis/Maria
+84771     BETAMETASONA CREMA 30GR                                     4         61061535       Solis/Maria
+22553     FLUCINOLONA+NEOMICINA CRA 30G                               13        13731806       Salamanca/Virginia
+85325     AMOXICILINA 250MG C12                                       24        13731806       Salamanca/Virginia
+31883     ACIDO NALIDIXICO SUSP                                       13        51642949       Miranda/Alfonso
+92517     ISOCONAZOL CR 20GR GI                                       9         51642949       Miranda/Alfonso
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  26        51642949       Miranda/Alfonso
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  18        51642949       Miranda/Alfonso
+16055     AMBROXOL C/20 TAB                                           25        52313890       Rivero/Wilver
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP                             8         52313890       Rivero/Wilver
+88681     NIFEDIPINO 30 MG 30 CPS                                     30        20371464       Lozada/Heli
+57269     SIMVASTATINA 10 MG C14                                      2         20371464       Lozada/Heli
+57269     SIMVASTATINA 10 MG C14                                      27        20371464       Lozada/Heli
+96881     GABAPENTINA 300 MG C/15                                     25        20371464       Lozada/Heli
+46919     VITAMINA C C20 TAB 100MG                                    14        59596317       Justino/Virginia
+31883     ACIDO NALIDIXICO SUSP                                       7         59596317       Justino/Virginia
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP                             33        59596317       Justino/Virginia
+76247     FLUOCINOLONA CREMA 30G                                      33        59596317       Justino/Virginia
+31189     CEFADROXILO 500MG C/16CAP                                   6         93961840       Pairazaman/Tatiana
+79189     CLORFENAMINA 4MG T20                                        32        93961840       Pairazaman/Tatiana
+94429     TIAMAZOL 5MG 20T                                            34        30246960       Escalante/Ines
+37549     TOPIRAMATO 100MG 20T                                        34        30246960       Escalante/Ines
+24733     CALCIO+MAGNESIO 30T                                         29        30246960       Escalante/Ines
+96031     CETIRIZINA 10 MG TABS C/10                                  29        51642949       Miranda/Alfonso
+41379     FLUNARICINA 10 MG T20                                       8         51642949       Miranda/Alfonso
+31311     METILPREDNISOLONA 500MG                                     23        91187814       Narvaez/Jesus
+81695     LECHE DE MAGNESIA 180ML                                     31        91187814       Narvaez/Jesus
+31311     METILPREDNISOLONA 500MG                                     33        91187814       Narvaez/Jesus
+60509     AMPICILINA 125MG SUSP 90ML                                  3         91187814       Narvaez/Jesus
+94415     PRAVASTATINA 10 MG C/15                                     13        91187814       Narvaez/Jesus
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              8         62126128       Durand/Enrique
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              4         62126128       Durand/Enrique
+84771     BETAMETASONA CREMA 30GR                                     24        62126128       Durand/Enrique
+82469     GUAYACOL AMPOLLETA 1ML                                      28        71422479       Lozada/Felicita
+47697     CLINDAMICINA 300 MG C/16                                    23        71422479       Lozada/Felicita
+40645     VERAPAMILO 80 MG/20 TAB                                     21        71422479       Lozada/Felicita
+82469     GUAYACOL AMPOLLETA 1ML                                      27        71422479       Lozada/Felicita
+72969     ISOSORBIDE 10MG T/20                                        26        62126128       Durand/Enrique
+72969     ISOSORBIDE 10MG T/20                                        22        62126128       Durand/Enrique
+81695     LECHE DE MAGNESIA 180ML                                     14        62126128       Durand/Enrique
+61039     NISTATINA GI C/12 TAB                                       26        62126128       Durand/Enrique
+41995     DIMETICONA SUSP 100MG 30ML                                  29        77324146       Moscoso/Janet
+37549     TOPIRAMATO 100MG 20T                                        35        77324146       Moscoso/Janet
+37549     TOPIRAMATO 100MG 20T                                        35        77324146       Moscoso/Janet
+37549     TOPIRAMATO 100MG 20T                                        15        77324146       Moscoso/Janet
+61039     NISTATINA GI C/12 TAB                                       23        54149342       Leyva/Diana
+88681     NIFEDIPINO 30 MG 30 CPS                                     23        54149342       Leyva/Diana
+85325     AMOXICILINA 250MG C12                                       5         13731806       Salamanca/Virginia
+85325     AMOXICILINA 250MG C12                                       32        13731806       Salamanca/Virginia
+39779     OMEPRAZOL 20 MG C/14                                        28        93939698       Henriquez/Silvana
+39779     OMEPRAZOL 20 MG C/14                                        23        93939698       Henriquez/Silvana
+70807     LINCOMICINA 600 MG INY C/3                                  34        63640178       Rodriguez/Blanca
+70225     CEFTRIAXONA 1.0GR IM G I                                    31        63640178       Rodriguez/Blanca
+55021     AMOXICILINA 500MG/5ML SUSP                                  6         63640178       Rodriguez/Blanca
+80839     CARBAMAZEPINA 120ML SUSP                                    14        35852072       Jauregui/Victor
+82469     GUAYACOL AMPOLLETA 1ML                                      31        35852072       Jauregui/Victor
+57269     SIMVASTATINA 10 MG C14                                      18        93231760       Zarate/Alexander
+88681     NIFEDIPINO 30 MG 30 CPS                                     30        54149342       Leyva/Diana
+40645     VERAPAMILO 80 MG/20 TAB                                     12        54149342       Leyva/Diana
+31189     CEFADROXILO 500MG C/16CAP                                   19        54149342       Leyva/Diana
+84771     BETAMETASONA CREMA 30GR                                     6         35852072       Jauregui/Victor
+31189     CEFADROXILO 500MG C/16CAP                                   19        35852072       Jauregui/Victor
+84771     BETAMETASONA CREMA 30GR                                     19        35852072       Jauregui/Victor
+96031     CETIRIZINA 10 MG TABS C/10                                  13        51465986       Sam/Ines
+47697     CLINDAMICINA 300 MG C/16                                    31        51465986       Sam/Ines
+68539     METENAMINA 30T 500MG                                        25        51465986       Sam/Ines
+60509     AMPICILINA 125MG SUSP 90ML                                  3         91187814       Narvaez/Jesus
+28219     NITAZOXANIDA 200 MG T6                                      5         15290194       Hernandez/Guillermo
+37549     TOPIRAMATO 100MG 20T                                        25        77324146       Moscoso/Janet
+41995     DIMETICONA SUSP 100MG 30ML                                  25        77324146       Moscoso/Janet
+84771     BETAMETASONA CREMA 30GR                                     29        37282858       Soma/Lourdes
+28219     NITAZOXANIDA 200 MG T6                                      12        37282858       Soma/Lourdes
+84771     BETAMETASONA CREMA 30GR                                     1         37282858       Soma/Lourdes
+60509     AMPICILINA 125MG SUSP 90ML                                  19        37282858       Soma/Lourdes
+84555     PARACETAMOL 300MG C/5 SUP                                   29        27709566       Ortiz/Raul
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              9         27709566       Ortiz/Raul
+82469     GUAYACOL AMPOLLETA 1ML                                      20        15290194       Hernandez/Guillermo
+65667     SUBSALICILATO/BISMUTO SUSP 120ML                            30        15290194       Hernandez/Guillermo
+82469     GUAYACOL AMPOLLETA 1ML                                      11        15290194       Hernandez/Guillermo
+58259     SULFADIAZINA DE PLATA CRA 28GR                              25        15290194       Hernandez/Guillermo
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  29        14956687       Luna/Waldemar
+68539     METENAMINA 30T 500MG                                        4         14956687       Luna/Waldemar
+48039     TRAMADOL 100MG 5AMP                                         23        14956687       Luna/Waldemar
+28219     NITAZOXANIDA 200 MG T6                                      25        90367684       Sinche/Yvonne
+83801     CEFACLOR 125 MG SUSP                                        8         49357767       Solis/Rolando
+55021     AMOXICILINA 500MG/5ML SUSP                                  31        49357767       Solis/Rolando
+68539     METENAMINA 30T 500MG                                        3         49357767       Solis/Rolando
+60509     AMPICILINA 125MG SUSP 90ML                                  27        41964357       Arca/Magali
+88681     NIFEDIPINO 30 MG 30 CPS                                     15        41964357       Arca/Magali
+75565     MICONAZOL 20 GR CRA                                         6         41964357       Arca/Magali
+48039     TRAMADOL 100MG 5AMP                                         24        41964357       Arca/Magali
+88681     NIFEDIPINO 30 MG 30 CPS                                     18        41964357       Arca/Magali
+48039     TRAMADOL 100MG 5AMP                                         32        41964357       Arca/Magali
+27447     OXIDO DE ZINC TUBO PASTA 30GR                               6         93939698       Henriquez/Silvana
+72969     ISOSORBIDE 10MG T/20                                        13        15290194       Hernandez/Guillermo
+89325     DIMENHIDRINATO 24 T 50MG                                    18        36934113       Serrano/Arturo
+77203     ONDANSETRON 8MG C10T                                        8         36934113       Serrano/Arturo
+44215     DICICLOVERINA 10MG 30T                                      31        36934113       Serrano/Arturo
+55021     AMOXICILINA 500MG/5ML SUSP                                  33        36934113       Serrano/Arturo
+55021     AMOXICILINA 500MG/5ML SUSP                                  30        36934113       Serrano/Arturo
+61039     NISTATINA GI C/12 TAB                                       10        54149342       Leyva/Diana
+40645     VERAPAMILO 80 MG/20 TAB                                     14        54149342       Leyva/Diana
+55813     SALBUTAMOL 4MG T30                                          9         54149342       Leyva/Diana
+57269     SIMVASTATINA 10 MG C14                                      6         93231760       Zarate/Alexander
+70225     CEFTRIAXONA 1.0GR IM G I                                    16        51873364       Calixto/Erick
+70807     LINCOMICINA 600 MG INY C/3                                  26        51873364       Calixto/Erick
+60685     NITROFURANTOINA C40 100MG                                   29        51873364       Calixto/Erick
+46919     VITAMINA C C20 TAB 100MG                                    15        59596317       Justino/Virginia
+94415     PRAVASTATINA 10 MG C/15                                     12        13731806       Salamanca/Virginia
+68539     METENAMINA 30T 500MG                                        25        13731806       Salamanca/Virginia
+16813     VANCOMICINA 500MG SOL INY                                   7         13731806       Salamanca/Virginia
+22553     FLUCINOLONA+NEOMICINA CRA 30G                               16        13731806       Salamanca/Virginia
+75565     MICONAZOL 20 GR CRA                                         8         37282858       Soma/Lourdes
+70303     AZITROMICINA SUSP                                           6         81647285       Vega/Henrry
+85641     TAMOXIFENO 10MG 30T                                         10        81647285       Vega/Henrry
+16813     VANCOMICINA 500MG SOL INY                                   31        45201670       Guevara/Milena
+16813     VANCOMICINA 500MG SOL INY                                   35        45201670       Guevara/Milena
+89325     DIMENHIDRINATO 24 T 50MG                                    27        45201670       Guevara/Milena
+94415     PRAVASTATINA 10 MG C/15                                     19        13731806       Salamanca/Virginia
+22553     FLUCINOLONA+NEOMICINA CRA 30G                               19        13731806       Salamanca/Virginia
+48557     NAPROXENO SODICO 100/2.5 SUSP                               29        13731806       Salamanca/Virginia
+94415     PRAVASTATINA 10 MG C/15                                     9         13731806       Salamanca/Virginia
+68539     METENAMINA 30T 500MG                                        21        13731806       Salamanca/Virginia
+61295     QUINFAMIDA 100 MG 3TAB                                      7         57182371       Moscoso/Fiorella
+79189     CLORFENAMINA 4MG T20                                        24        57182371       Moscoso/Fiorella
+42053     TRETINOINA 30G CREMA 0.05%                                  26        57182371       Moscoso/Fiorella
+79189     CLORFENAMINA 4MG T20                                        21        57182371       Moscoso/Fiorella
+16813     VANCOMICINA 500MG SOL INY                                   22        57182371       Moscoso/Fiorella
+94429     TIAMAZOL 5MG 20T                                            8         30246960       Escalante/Ines
+41403     VITAMINAS Y MINERALES 30-30T                                28        75100362       Arca/Lucero
+43633     ERITROMICINA T 250 MG C/20                                  25        75100362       Arca/Lucero
+43633     ERITROMICINA T 250 MG C/20                                  24        75100362       Arca/Lucero
+60509     AMPICILINA 125MG SUSP 90ML                                  23        75100362       Arca/Lucero
+96881     GABAPENTINA 300 MG C/15                                     24        20371464       Lozada/Heli
+82469     GUAYACOL AMPOLLETA 1ML                                      7         72330000       Vega/Carmela
+59121     DESLORATADINA 5MG 10T                                       34        72330000       Vega/Carmela
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP                             20        72330000       Vega/Carmela
+68539     METENAMINA 30T 500MG                                        34        72330000       Vega/Carmela
+59121     DESLORATADINA 5MG 10T                                       26        54815159       Patino/Delicia
+46919     VITAMINA C C20 TAB 100MG                                    14        54815159       Patino/Delicia
+61295     QUINFAMIDA 100 MG 3TAB                                      35        54815159       Patino/Delicia
+49685     PINAVERIO BROMURO DE 100 MG 14T                             25        54815159       Patino/Delicia
+75565     MICONAZOL 20 GR CRA                                         8         54815159       Patino/Delicia
+61295     QUINFAMIDA 100 MG 3TAB                                      24        54815159       Patino/Delicia
+49685     PINAVERIO BROMURO DE 100 MG 14T                             31        54815159       Patino/Delicia
+47697     CLINDAMICINA 300 MG C/16                                    30        66039166       Chavez/Johan
+55021     AMOXICILINA 500MG/5ML SUSP                                  22        66039166       Chavez/Johan
+42861     BENCIDAMIDA CRA 5% 60GR                                     18        66039166       Chavez/Johan
+16055     AMBROXOL C/20 TAB                                           8         66039166       Chavez/Johan
+47697     CLINDAMICINA 300 MG C/16                                    1         66039166       Chavez/Johan
+76247     FLUOCINOLONA CREMA 30G                                      20        58643376       Arroyo/Natalia
+47697     CLINDAMICINA 300 MG C/16                                    15        66091742       Baca/Milagros
+72939     VITIS VINIFERA (UVA) 60C                                    27        66091742       Baca/Milagros
+16055     AMBROXOL C/20 TAB                                           19        66091742       Baca/Milagros
+16055     AMBROXOL C/20 TAB                                           11        66091742       Baca/Milagros
+47697     CLINDAMICINA 300 MG C/16                                    11        66091742       Baca/Milagros
+63555     FAMOTIDINA 20MG 30C                                         7         51642949       Miranda/Alfonso
+85325     AMOXICILINA 250MG C12                                       26        68269451       Asmad/Adria
+67415     FINASTERIDA 5MG 30T                                         24        35852072       Jauregui/Victor
+28409     RIFAMPICINA 300 MG C/16 CAP                                 25        35852072       Jauregui/Victor
+67415     FINASTERIDA 5MG 30T                                         20        35852072       Jauregui/Victor
+84771     BETAMETASONA CREMA 30GR                                     23        35852072       Jauregui/Victor
+84771     BETAMETASONA CREMA 30GR                                     27        35852072       Jauregui/Victor
+60509     AMPICILINA 125MG SUSP 90ML                                  12        94683380       Farfan/Margot
+47697     CLINDAMICINA 300 MG C/16                                    24        94683380       Farfan/Margot
+84771     BETAMETASONA CREMA 30GR                                     17        94683380       Farfan/Margot
+47697     CLINDAMICINA 300 MG C/16                                    31        63640178       Rodriguez/Blanca
+70807     LINCOMICINA 600 MG INY C/3                                  18        63640178       Rodriguez/Blanca
+70225     CEFTRIAXONA 1.0GR IM G I                                    32        41964357       Arca/Magali
+75565     MICONAZOL 20 GR CRA                                         17        41964357       Arca/Magali
+72061     DEFLAZACORT 30MG 10T                                        9         41964357       Arca/Magali
+60685     NITROFURANTOINA C40 100MG                                   2         35606314       Mercado/Elia
+41379     FLUNARICINA 10 MG T20                                       26        35606314       Mercado/Elia
+58259     SULFADIAZINA DE PLATA CRA 28GR                              31        86988155       Cerna/Cinthia
+76247     FLUOCINOLONA CREMA 30G                                      11        86988155       Cerna/Cinthia
+97465     GLIBENCLAMIDA 5 MG C/50                                     6         86988155       Cerna/Cinthia
+41995     DIMETICONA SUSP 100MG 30ML                                  30        86988155       Cerna/Cinthia
+61295     QUINFAMIDA 100 MG 3TAB                                      1         86988155       Cerna/Cinthia
+88681     NIFEDIPINO 30 MG 30 CPS                                     29        54149342       Leyva/Diana
+61039     NISTATINA GI C/12 TAB                                       9         54149342       Leyva/Diana
+55813     SALBUTAMOL 4MG T30                                          8         54149342       Leyva/Diana
+31189     CEFADROXILO 500MG C/16CAP                                   7         54149342       Leyva/Diana
+46919     VITAMINA C C20 TAB 100MG                                    34        62287143       Wong/Beatriz
+34027     DANAZOL 100MG 50T                                           25        62287143       Wong/Beatriz
+94415     PRAVASTATINA 10 MG C/15                                     7         62287143       Wong/Beatriz
+57269     SIMVASTATINA 10 MG C14                                      19        62287143       Wong/Beatriz
+75565     MICONAZOL 20 GR CRA                                         20        62126128       Durand/Enrique
+72969     ISOSORBIDE 10MG T/20                                        32        62126128       Durand/Enrique
+81695     LECHE DE MAGNESIA 180ML                                     33        62126128       Durand/Enrique
+88681     NIFEDIPINO 30 MG 30 CPS                                     31        30246960       Escalante/Ines
+88681     NIFEDIPINO 30 MG 30 CPS                                     26        30246960       Escalante/Ines
+34027     DANAZOL 100MG 50T                                           6         62287143       Wong/Beatriz
+84771     BETAMETASONA CREMA 30GR                                     30        62287143       Wong/Beatriz
+84771     BETAMETASONA CREMA 30GR                                     8         62287143       Wong/Beatriz
+46919     VITAMINA C C20 TAB 100MG                                    30        62287143       Wong/Beatriz
+16359     NAPROXENO 250 MG TAB C/30                                   21        35852072       Jauregui/Victor
+67415     FINASTERIDA 5MG 30T                                         26        35852072       Jauregui/Victor
+94415     PRAVASTATINA 10 MG C/15                                     7         13731806       Salamanca/Virginia
+16813     VANCOMICINA 500MG SOL INY                                   9         13731806       Salamanca/Virginia
+94415     PRAVASTATINA 10 MG C/15                                     32        13731806       Salamanca/Virginia
+48557     NAPROXENO SODICO 100/2.5 SUSP                               15        13731806       Salamanca/Virginia
+16813     VANCOMICINA 500MG SOL INY                                   35        13731806       Salamanca/Virginia
+94415     PRAVASTATINA 10 MG C/15                                     10        62287143       Wong/Beatriz
+61039     NISTATINA GI C/12 TAB                                       22        62287143       Wong/Beatriz
+72969     ISOSORBIDE 10MG T/20                                        24        62287143       Wong/Beatriz
+46919     VITAMINA C C20 TAB 100MG                                    13        62287143       Wong/Beatriz
+84771     BETAMETASONA CREMA 30GR                                     17        62287143       Wong/Beatriz
+76247     FLUOCINOLONA CREMA 30G                                      17        90367684       Sinche/Yvonne
+41379     FLUNARICINA 10 MG T20                                       10        90367684       Sinche/Yvonne
+28219     NITAZOXANIDA 200 MG T6                                      24        90367684       Sinche/Yvonne
+72939     VITIS VINIFERA (UVA) 60C                                    9         77440060       Escalante/Emigdio
+42053     TRETINOINA 30G CREMA 0.05%                                  2         77440060       Escalante/Emigdio
+96031     CETIRIZINA 10 MG TABS C/10                                  9         51465986       Sam/Ines
+28409     RIFAMPICINA 300 MG C/16 CAP                                 25        31284904       Sakaguchi/Carlos
+76247     FLUOCINOLONA CREMA 30G                                      28        71422479       Lozada/Felicita
+91653     SAL DE UVAS PICOT                                           30        71422479       Lozada/Felicita
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  13        71422479       Lozada/Felicita
+22553     FLUCINOLONA+NEOMICINA CRA 30G                               28        71422479       Lozada/Felicita
+39779     OMEPRAZOL 20 MG C/14                                        32        71422479       Lozada/Felicita
+83801     CEFACLOR 125 MG SUSP                                        10        71422479       Lozada/Felicita
+91653     SAL DE UVAS PICOT                                           5         71422479       Lozada/Felicita
+28219     NITAZOXANIDA 200 MG T6                                      18        43704548       Vizcardo/Maribel
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP                             29        59596317       Justino/Virginia
+40997     ELECTROLIT PED FRESA 625ML                                  19        59596317       Justino/Virginia
+61295     QUINFAMIDA 100 MG 3TAB                                      15        59596317       Justino/Virginia
+40997     ELECTROLIT PED FRESA 625ML                                  25        59596317       Justino/Virginia
+61295     QUINFAMIDA 100 MG 3TAB                                      31        59596317       Justino/Virginia
+85641     TAMOXIFENO 10MG 30T                                         33        54149342       Leyva/Diana
+31189     CEFADROXILO 500MG C/16CAP                                   8         54149342       Leyva/Diana
+88681     NIFEDIPINO 30 MG 30 CPS                                     27        54149342       Leyva/Diana
+83801     CEFACLOR 125 MG SUSP                                        10        71422479       Lozada/Felicita
+82469     GUAYACOL AMPOLLETA 1ML                                      25        71422479       Lozada/Felicita
+47697     CLINDAMICINA 300 MG C/16                                    25        71422479       Lozada/Felicita
+82469     GUAYACOL AMPOLLETA 1ML                                      9         71422479       Lozada/Felicita
+47697     CLINDAMICINA 300 MG C/16                                    7         71422479       Lozada/Felicita
+28219     NITAZOXANIDA 200 MG T6                                      13        15290194       Hernandez/Guillermo
+49157     RANITIDINA 300 MG C/10                                      34        15290194       Hernandez/Guillermo
+72969     ISOSORBIDE 10MG T/20                                        24        15290194       Hernandez/Guillermo
+31883     ACIDO NALIDIXICO SUSP                                       28        58643376       Arroyo/Natalia
+55813     SALBUTAMOL 4MG T30                                          11        58643376       Arroyo/Natalia
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP                             19        58643376       Arroyo/Natalia
+60685     NITROFURANTOINA C40 100MG                                   16        93282118       Zambrano/Ofelia
+16359     NAPROXENO 250 MG TAB C/30                                   31        93282118       Zambrano/Ofelia
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 10        51873364       Calixto/Erick
+72495     ACIDO GLUTAMICO 600 MG C/100                                12        51873364       Calixto/Erick
+70113     TETRACICLINA 250MG 10T                                      12        51873364       Calixto/Erick
+55021     AMOXICILINA 500MG/5ML SUSP                                  17        51873364       Calixto/Erick
+85641     TAMOXIFENO 10MG 30T                                         15        53420926       Prado/Juan
+16055     AMBROXOL C/20 TAB                                           1         53420926       Prado/Juan
+55813     SALBUTAMOL 4MG T30                                          23        53420926       Prado/Juan
+84771     BETAMETASONA CREMA 30GR                                     29        37282858       Soma/Lourdes
+47697     CLINDAMICINA 300 MG C/16                                    14        37282858       Soma/Lourdes
+28219     NITAZOXANIDA 200 MG T6                                      24        37282858       Soma/Lourdes
+28219     NITAZOXANIDA 200 MG T6                                      25        37282858       Soma/Lourdes
+55813     SALBUTAMOL 4MG T30                                          34        90367684       Sinche/Yvonne
+41379     FLUNARICINA 10 MG T20                                       26        90367684       Sinche/Yvonne
+65985     LAMOTRIGINA 100MG TAB 28                                    25        90367684       Sinche/Yvonne
+67415     FINASTERIDA 5MG 30T                                         8         22598563       Sueldo/Adria
+89325     DIMENHIDRINATO 24 T 50MG                                    29        22598563       Sueldo/Adria
+70225     CEFTRIAXONA 1.0GR IM G I                                    21        65912822       Camacho/Ydali
+70225     CEFTRIAXONA 1.0GR IM G I                                    24        65912822       Camacho/Ydali
+19397     ORLISTAT / 21 CAP 120 MG                                    20        51642949       Miranda/Alfonso
+41379     FLUNARICINA 10 MG T20                                       15        51642949       Miranda/Alfonso
+68539     METENAMINA 30T 500MG                                        33        49357767       Solis/Rolando
+49157     RANITIDINA 300 MG C/10                                      23        49357767       Solis/Rolando
+68539     METENAMINA 30T 500MG                                        23        49357767       Solis/Rolando
+16359     NAPROXENO 250 MG TAB C/30                                   26        49357767       Solis/Rolando
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 11        31284904       Sakaguchi/Carlos
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 15        31284904       Sakaguchi/Carlos
+91653     SAL DE UVAS PICOT                                           35        31284904       Sakaguchi/Carlos
+16055     AMBROXOL C/20 TAB                                           23        85395219       Fuentes/Patricia
+79851     CEFOTAXIMA 1GR IM                                           10        85395219       Fuentes/Patricia
+61211     OFLOXACINO 400 MG C/8                                       3         85395219       Fuentes/Patricia
+84771     BETAMETASONA CREMA 30GR                                     14        61061535       Solis/Maria
+16813     VANCOMICINA 500MG SOL INY                                   5         45201670       Guevara/Milena
+70807     LINCOMICINA 600 MG INY C/3                                  30        45201670       Guevara/Milena
+88681     NIFEDIPINO 30 MG 30 CPS                                     29        45201670       Guevara/Milena
+88681     NIFEDIPINO 30 MG 30 CPS                                     33        45201670       Guevara/Milena
+70225     CEFTRIAXONA 1.0GR IM G I                                    1         45201670       Guevara/Milena
+55439     FUMARATO FERROSO SUSP 120ML                                 26        45201670       Guevara/Milena
+16813     VANCOMICINA 500MG SOL INY                                   33        45201670       Guevara/Milena
+60509     AMPICILINA 125MG SUSP 90ML                                  23        99891737       Contreras/Johana
+60509     AMPICILINA 125MG SUSP 90ML                                  15        99891737       Contreras/Johana
+16681     SIBUTRAMINA 10 MG C15                                       7         12484697       Diaz/Enrique
+36711     TIBOLONA 2.5MG 30T                                          14        12484697       Diaz/Enrique
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 5         12484697       Diaz/Enrique
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  23        93961840       Pairazaman/Tatiana
+60685     NITROFURANTOINA C40 100MG                                   18        93961840       Pairazaman/Tatiana
+77203     ONDANSETRON 8MG C10T                                        7         72330000       Vega/Carmela
+33311     ALBENDAZOL 200MG C/6 TAB                                    29        72330000       Vega/Carmela
+72969     ISOSORBIDE 10MG T/20                                        33        15290194       Hernandez/Guillermo
+82469     GUAYACOL AMPOLLETA 1ML                                      20        15290194       Hernandez/Guillermo
+82469     GUAYACOL AMPOLLETA 1ML                                      16        15290194       Hernandez/Guillermo
+58259     SULFADIAZINA DE PLATA CRA 28GR                              12        15290194       Hernandez/Guillermo
+36649     CITALOPRAM 20MG 14T                                         11        34697743       Ayala/Ericka
+72495     ACIDO GLUTAMICO 600 MG C/100                                31        34697743       Ayala/Ericka
+34027     DANAZOL 100MG 50T                                           2         34697743       Ayala/Ericka
+36649     CITALOPRAM 20MG 14T                                         19        34697743       Ayala/Ericka
+70303     AZITROMICINA SUSP                                           10        35606314       Mercado/Elia
+37007     DIFENHIDRAMINA 250MG JBE 120ML                              22        71422479       Lozada/Felicita
+76247     FLUOCINOLONA CREMA 30G                                      5         71422479       Lozada/Felicita
+40645     VERAPAMILO 80 MG/20 TAB                                     19        71422479       Lozada/Felicita
+83801     CEFACLOR 125 MG SUSP                                        14        71422479       Lozada/Felicita
+84771     BETAMETASONA CREMA 30GR                                     26        22598563       Sueldo/Adria
+84771     BETAMETASONA CREMA 30GR                                     33        62287143       Wong/Beatriz
+94415     PRAVASTATINA 10 MG C/15                                     22        62287143       Wong/Beatriz
+36711     TIBOLONA 2.5MG 30T                                          22        54815159       Patino/Delicia
+92517     ISOCONAZOL CR 20GR GI                                       9         54815159       Patino/Delicia
+61295     QUINFAMIDA 100 MG 3TAB                                      13        54815159       Patino/Delicia
+46919     VITAMINA C C20 TAB 100MG                                    12        54815159       Patino/Delicia
+42053     TRETINOINA 30G CREMA 0.05%                                  10        54815159       Patino/Delicia
+79189     CLORFENAMINA 4MG T20                                        3         54815159       Patino/Delicia
+46919     VITAMINA C C20 TAB 100MG                                    6         54815159       Patino/Delicia
+61295     QUINFAMIDA 100 MG 3TAB                                      26        54815159       Patino/Delicia
+16681     SIBUTRAMINA 10 MG C15                                       32        12484697       Diaz/Enrique
+58259     SULFADIAZINA DE PLATA CRA 28GR                              29        12484697       Diaz/Enrique
+61211     OFLOXACINO 400 MG C/8                                       18        12484697       Diaz/Enrique
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 34        54815159       Patino/Delicia
+75565     MICONAZOL 20 GR CRA                                         19        54815159       Patino/Delicia
+61295     QUINFAMIDA 100 MG 3TAB                                      4         54815159       Patino/Delicia
+36711     TIBOLONA 2.5MG 30T                                          4         54815159       Patino/Delicia
+16299     AZITROMICINA 500MG C/3T                                     18        72330000       Vega/Carmela
+57505     ESPIRONOLACTONA 25MG 20T                                    19        72330000       Vega/Carmela
+84771     BETAMETASONA CREMA 30GR                                     32        43704548       Vizcardo/Maribel
+22553     FLUCINOLONA+NEOMICINA CRA 30G                               28        86988155       Cerna/Cinthia
+61295     QUINFAMIDA 100 MG 3TAB                                      7         86988155       Cerna/Cinthia
+65667     SUBSALICILATO/BISMUTO SUSP 120ML                            4         86988155       Cerna/Cinthia
+44215     DICICLOVERINA 10MG 30T                                      27        85395219       Fuentes/Patricia
+58259     SULFADIAZINA DE PLATA CRA 28GR                              24        85395219       Fuentes/Patricia
+55813     SALBUTAMOL 4MG T30                                          31        85395219       Fuentes/Patricia
+79851     CEFOTAXIMA 1GR IM                                           35        85395219       Fuentes/Patricia
+27447     OXIDO DE ZINC TUBO PASTA 30GR                               18        85395219       Fuentes/Patricia
+76247     FLUOCINOLONA CREMA 30G                                      9         59596317       Justino/Virginia
+57269     SIMVASTATINA 10 MG C14                                      30        59596317       Justino/Virginia
+61211     OFLOXACINO 400 MG C/8                                       17        85395219       Fuentes/Patricia
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 24        12484697       Diaz/Enrique
+64347     DIFENHIDRAMINA 25MG C30                                     30        12484697       Diaz/Enrique
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 21        12484697       Diaz/Enrique
+85865     PLANTAGO PSYLLIUM 400GR. GI                                 2         12484697       Diaz/Enrique
+61211     OFLOXACINO 400 MG C/8                                       10        12484697       Diaz/Enrique
+70807     LINCOMICINA 600 MG INY C/3                                  24        93282118       Zambrano/Ofelia
+75565     MICONAZOL 20 GR CRA                                         5         94683380       Farfan/Margot
+84771     BETAMETASONA CREMA 30GR                                     15        94683380       Farfan/Margot
+63555     FAMOTIDINA 20MG 30C                                         13        51465986       Sam/Ines
+63555     FAMOTIDINA 20MG 30C                                         2         51465986       Sam/Ines
+85325     AMOXICILINA 250MG C12                                       1         80694546       Ramirez/Karina
+70303     AZITROMICINA SUSP                                           2         80694546       Ramirez/Karina
+28219     NITAZOXANIDA 200 MG T6                                      31        99891737       Contreras/Johana
+81695     LECHE DE MAGNESIA 180ML                                     5         92275859       Egusquiza/Doris
+41995     DIMETICONA SUSP 100MG 30ML                                  34        92275859       Egusquiza/Doris
+80839     CARBAMAZEPINA 120ML SUSP                                    14        92275859       Egusquiza/Doris
+98679     DOXICICLINA 100MG 10 CAPS                                   7         92275859       Egusquiza/Doris
+60509     AMPICILINA 125MG SUSP 90ML                                  9         92275859       Egusquiza/Doris
+17645     KETOKONAZOL CRA 30GR                                        14        92275859       Egusquiza/Doris
+94415     PRAVASTATINA 10 MG C/15                                     15        92275859       Egusquiza/Doris
+30007     DICLOFENACO SODICO 1MG GTS 5 ML                             16        41964357       Arca/Magali
+75565     MICONAZOL 20 GR CRA                                         29        41964357       Arca/Magali
+55439     FUMARATO FERROSO SUSP 120ML                                 4         41964357       Arca/Magali
+72061     DEFLAZACORT 30MG 10T                                        15        41964357       Arca/Magali
+19397     ORLISTAT / 21 CAP 120 MG                                    30        95656771       Raffo/Rolando
+48557     NAPROXENO SODICO 100/2.5 SUSP                               30        95656771       Raffo/Rolando
+22553     FLUCINOLONA+NEOMICINA CRA 30G                               8         95656771       Raffo/Rolando
+19397     ORLISTAT / 21 CAP 120 MG                                    11        95656771       Raffo/Rolando
+61295     QUINFAMIDA 100 MG 3TAB                                      9         95656771       Raffo/Rolando
+88681     NIFEDIPINO 30 MG 30 CPS                                     10        20371464       Lozada/Heli
+72061     DEFLAZACORT 30MG 10T                                        10        20371464       Lozada/Heli
+67415     FINASTERIDA 5MG 30T                                         29        22679759       Bravo/Janet
+89325     DIMENHIDRINATO 24 T 50MG                                    15        22679759       Bravo/Janet
+41379     FLUNARICINA 10 MG T20                                       19        22679759       Bravo/Janet
+47697     CLINDAMICINA 300 MG C/16                                    21        36471787       Pena/Glenda
+55021     AMOXICILINA 500MG/5ML SUSP                                  28        36471787       Pena/Glenda
+44215     DICICLOVERINA 10MG 30T                                      13        36471787       Pena/Glenda
+86681     HIDROCLOROTIAZIDA 25 MG 20TAB                               20        31284904       Sakaguchi/Carlos
+27447     OXIDO DE ZINC TUBO PASTA 30GR                               19        31284904       Sakaguchi/Carlos
+80839     CARBAMAZEPINA 120ML SUSP                                    31        31284904       Sakaguchi/Carlos
+77203     ONDANSETRON 8MG C10T                                        1         72330000       Vega/Carmela
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP                             1         72330000       Vega/Carmela
+61211     OFLOXACINO 400 MG C/8                                       34        49357767       Solis/Rolando
+27447     OXIDO DE ZINC TUBO PASTA 30GR                               25        49357767       Solis/Rolando
+70225     CEFTRIAXONA 1.0GR IM G I                                    28        49357767       Solis/Rolando
+70225     CEFTRIAXONA 1.0GR IM G I                                    24        49357767       Solis/Rolando
+16359     NAPROXENO 250 MG TAB C/30                                   16        49357767       Solis/Rolando
+61211     OFLOXACINO 400 MG C/8                                       29        49357767       Solis/Rolando
+48039     TRAMADOL 100MG 5AMP                                         27        34697743       Ayala/Ericka
+60685     NITROFURANTOINA C40 100MG                                   12        34697743       Ayala/Ericka
+72495     ACIDO GLUTAMICO 600 MG C/100                                16        34697743       Ayala/Ericka
+36711     TIBOLONA 2.5MG 30T                                          2         12484697       Diaz/Enrique
+58259     SULFADIAZINA DE PLATA CRA 28GR                              19        12484697       Diaz/Enrique
+76247     FLUOCINOLONA CREMA 30G                                      31        86988155       Cerna/Cinthia
+61295     QUINFAMIDA 100 MG 3TAB                                      6         86988155       Cerna/Cinthia
+41403     VITAMINAS Y MINERALES 30-30T                                7         72973662       Vargas/Daniel
+40997     ELECTROLIT PED FRESA 625ML                                  34        34571095       Infantes/Luis
+40997     ELECTROLIT PED FRESA 625ML                                  27        34571095       Infantes/Luis
+84771     BETAMETASONA CREMA 30GR                                     4         34571095       Infantes/Luis
+40997     ELECTROLIT PED FRESA 625ML                                  1         34571095       Infantes/Luis
+60509     AMPICILINA 125MG SUSP 90ML                                  22        32538825       Hijar/Martin
+16055     AMBROXOL C/20 TAB                                           26        32538825       Hijar/Martin
+60509     AMPICILINA 125MG SUSP 90ML                                  7         32538825       Hijar/Martin
+41379     FLUNARICINA 10 MG T20                                       23        51642949       Miranda/Alfonso
+86451     TRIMEBUTINA 100MG/5ML SUSP                                  35        51642949       Miranda/Alfonso
+31189     CEFADROXILO 500MG C/16CAP                                   30        54149342       Leyva/Diana
+47697     CLINDAMICINA 300 MG C/16                                    9         54149342       Leyva/Diana
+47697     CLINDAMICINA 300 MG C/16                                    32        54149342       Leyva/Diana
+85641     TAMOXIFENO 10MG 30T                                         33        54149342       Leyva/Diana
+61039     NISTATINA GI C/12 TAB                                       10        54149342       Leyva/Diana
+85641     TAMOXIFENO 10MG 30T                                         24        54149342       Leyva/Diana
+16055     AMBROXOL C/20 TAB                                           26        54149342       Leyva/Diana
+85641     TAMOXIFENO 10MG 30T                                         22        54149342       Leyva/Diana
+89839     ACIDO MEFENAMICO 500MG C10 TAB                              23        81647285       Vega/Henrry
+75565     MICONAZOL 20 GR CRA                                         27        81647285       Vega/Henrry
+75565     MICONAZOL 20 GR CRA                                         35        81647285       Vega/Henrry
+16299     AZITROMICINA 500MG C/3T                                     30        81647285       Vega/Henrry
+85641     TAMOXIFENO 10MG 30T                                         4         81647285       Vega/Henrry
+64347     DIFENHIDRAMINA 25MG C30                                     26        28992638       Trigueros/Luz
+68539     METENAMINA 30T 500MG                                        7         28992638       Trigueros/Luz
+16359     NAPROXENO 250 MG TAB C/30                                   8         28992638       Trigueros/Luz
+41995     DIMETICONA SUSP 100MG 30ML                                  25        77324146       Moscoso/Janet
+44215     DICICLOVERINA 10MG 30T                                      14        77324146       Moscoso/Janet
+59121     DESLORATADINA 5MG 10T                                       10        77324146       Moscoso/Janet
+37549     TOPIRAMATO 100MG 20T                                        2         77324146       Moscoso/Janet
+49685     PINAVERIO BROMURO DE 100 MG 14T                             18        77324146       Moscoso/Janet
+81695     LECHE DE MAGNESIA 180ML                                     17        93282118       Zambrano/Ofelia
+60685     NITROFURANTOINA C40 100MG                                   7         93282118       Zambrano/Ofelia
+60685     NITROFURANTOINA C40 100MG                                   32        93282118       Zambrano/Ofelia
+
+CODIGO    Descripcion del Med.                                        Cant.     Cod. Medico         Especialidad        
+========================================================================================================================
+30796     PROPANOLOL 40 MG C/20 TAB                                   5         50611          Urologia
+86158     SENOSIDOS A y B C20                                         23        50611          Urologia
+53846     CLENBUTEROL .02MG 50T                                       17        50611          Urologia
+22232     LEVETIRACETAM                                               21        15092          Dermatologia
+57036     OXOLAMINA JBE 100ML                                         5         15092          Dermatologia
+17804     PIROXICAM 30 GM CRA                                         5         60184          Traumatologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             33        60184          Traumatologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               17        60184          Traumatologia
+17790     DICLOFENACO 100MG 20T                                       23        90798          Traumatologia
+39088     NORFLOXACINO T20 400MG                                      35        90798          Traumatologia
+17790     DICLOFENACO 100MG 20T                                       21        90798          Traumatologia
+17790     DICLOFENACO 100MG 20T                                       25        90798          Traumatologia
+25684     DEXAMETASONA 0.5MG T/30                                     30        90798          Traumatologia
+79996     LANSOPRAZOL 15 MG C/14                                      10        80786          Ginecologia
+38648     PENICILINA V POT 400000U 20T                                28        80786          Ginecologia
+18672     TINIDAZOL 500MG 8T                                          12        80786          Ginecologia
+95540     NAPROXENO 500 MG C/10 TAB                                   23        80786          Ginecologia
+34066     SULINDACO 200MG/20 TAB                                      6         70233          Ginecologia
+14962     HIERRO DEXTRANO AMP4                                        19        70233          Ginecologia
+24522     LEVOFLOXACINO 500MG C/7 TAB                                 17        70233          Ginecologia
+48244     CLORANFENICOL SOL OFT 10ML                                  4         70233          Ginecologia
+67784     LOSARTAN 50MG C/10T                                         33        70233          Ginecologia
+15098     LISINA CLOHRIDRATO 125MG T10                                17        89213          Gastroenterologia
+14962     HIERRO DEXTRANO AMP4                                        6         89213          Gastroenterologia
+67784     LOSARTAN 50MG C/10T                                         20        90907          Dermatologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 5         90907          Dermatologia
+70116     LACTULOSA 125ML                                             21        90907          Dermatologia
+11592     TERBINAFINA 1% CRA 20 GR                                    23        90907          Dermatologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               7         90907          Dermatologia
+82528     LORATADINA T/10 10MG                                        35        60934          Neumologia
+77466     RAMIPRIL 16 TAB/5 MG                                        6         14787          Traumatologia
+96554     PIROXICAM 20MG T20                                          17        14787          Traumatologia
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  31        14787          Traumatologia
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  25        14787          Traumatologia
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  21        14787          Traumatologia
+77466     RAMIPRIL 16 TAB/5 MG                                        14        14787          Traumatologia
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              1         60049          Gastroenterologia
+34070     FEXOFENADINA C/10 180MG                                     10        70269          Dermatologia
+67784     LOSARTAN 50MG C/10T                                         30        70269          Dermatologia
+34070     FEXOFENADINA C/10 180MG                                     7         70269          Dermatologia
+74680     FENITOINA T50 100MG                                         3         70269          Dermatologia
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  34        70269          Dermatologia
+22232     LEVETIRACETAM                                               35        53556          Pediatria
+18672     TINIDAZOL 500MG 8T                                          29        70612          Traumatologia
+53846     CLENBUTEROL .02MG 50T                                       16        64405          Oftalmologia
+13364     MULTIVITAMINAS Y MINERALES C60                              32        64405          Oftalmologia
+67784     LOSARTAN 50MG C/10T                                         26        64405          Oftalmologia
+18672     TINIDAZOL 500MG 8T                                          5         90929          Oftalmologia
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  18        90929          Oftalmologia
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML                              25        90929          Oftalmologia
+40862     YODOPOVIDONA 120ML                                          3         90929          Oftalmologia
+14962     HIERRO DEXTRANO AMP4                                        19        70367          Urologia
+79996     LANSOPRAZOL 15 MG C/14                                      16        70367          Urologia
+58036     PENTOXIFILINA 400MG T30                                     5         70367          Urologia
+25684     DEXAMETASONA 0.5MG T/30                                     14        70367          Urologia
+58036     PENTOXIFILINA 400MG T30                                     22        70367          Urologia
+76238     BEZOCAINA 10GR GEL                                          13        70367          Urologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   22        18708          Ginecologia
+81062     PAROXETINA T/10 20MG                                        17        18708          Ginecologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               6         18708          Ginecologia
+50450     SERTRALINA 50MG C/14 T                                      12        80138          Geriatria
+50450     SERTRALINA 50MG C/14 T                                      32        80138          Geriatria
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  32        80138          Geriatria
+42856     FELODIPINO 5 MG 20T                                         8         80138          Geriatria
+53166     ASTEMIZOL SUSP 200MG                                        3         80138          Geriatria
+53166     ASTEMIZOL SUSP 200MG                                        27        80138          Geriatria
+33200     GLUCOSAMINA 30C 500MG                                       33        80138          Geriatria
+33390     CORTILONA CRA 30GR                                          12        35451          Pediatria
+68860     METFORMINA 850MG T30                                        25        35451          Pediatria
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML                              19        70992          Gastroenterologia
+76238     BEZOCAINA 10GR GEL                                          33        70992          Gastroenterologia
+27016     ACECLOFENACO 100MG 10T                                      14        49768          Cardiologia
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              33        49768          Cardiologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             34        49768          Cardiologia
+28892     GLIMEPIRIDA 2MG C30                                         19        49768          Cardiologia
+70116     LACTULOSA 125ML                                             35        33687          Oftalmologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               21        33687          Oftalmologia
+11592     TERBINAFINA 1% CRA 20 GR                                    30        33687          Oftalmologia
+53846     CLENBUTEROL .02MG 50T                                       1         33687          Oftalmologia
+30430     PRUEBA DE EMBARAZO                                          15        33687          Oftalmologia
+11592     TERBINAFINA 1% CRA 20 GR                                    17        33687          Oftalmologia
+14962     HIERRO DEXTRANO AMP4                                        27        70789          Pediatria
+54692     NAFAZOLINA SOL OFT 15 ml                                    13        18262          Urologia
+54692     NAFAZOLINA SOL OFT 15 ml                                    33        14655          Oncologia
+76238     BEZOCAINA 10GR GEL                                          26        14655          Oncologia
+76238     BEZOCAINA 10GR GEL                                          22        14655          Oncologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               18        80227          Pediatria
+80830     COMPLEJO B T30                                              13        80227          Pediatria
+83510     FUROSEMIDA 40 MG C/20                                       5         80227          Pediatria
+80830     COMPLEJO B T30                                              29        80227          Pediatria
+28892     GLIMEPIRIDA 2MG C30                                         32        34115          Cardiologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             31        34115          Cardiologia
+81960     CEFALEXINA 500MG C/20 CAP                                   18        34115          Cardiologia
+28892     GLIMEPIRIDA 2MG C30                                         11        34115          Cardiologia
+28892     GLIMEPIRIDA 2MG C30                                         14        34115          Cardiologia
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              1         34115          Cardiologia
+70226     CALCIO+VITAMINA D SUSP                                      19        34115          Cardiologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   5         80040          Endocrinologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             14        80040          Endocrinologia
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  35        25448          Endocrinologia
+58200     FLUCONAZOL 150MG. 1C                                        5         25448          Endocrinologia
+22232     LEVETIRACETAM                                               18        40414          Ginecologia
+89528     CLORMADINONA 2MG 20T                                        6         40414          Ginecologia
+73972     VITAMINA E 400 MG C90 CAPS                                  8         90562          Dermatologia
+79996     LANSOPRAZOL 15 MG C/14                                      19        90562          Dermatologia
+18672     TINIDAZOL 500MG 8T                                          15        90562          Dermatologia
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML                              6         91509          Cardiologia
+53166     ASTEMIZOL SUSP 200MG                                        20        30557          Neumologia
+73174     VITAMINA P/DIABETICOS 30T                                   9         30557          Neumologia
+39088     NORFLOXACINO T20 400MG                                      21        30557          Neumologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   31        30557          Neumologia
+39088     NORFLOXACINO T20 400MG                                      30        30557          Neumologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            24        30557          Neumologia
+58200     FLUCONAZOL 150MG. 1C                                        31        20189          Endocrinologia
+92628     KETOPROFENO 100MG C15                                       19        20189          Endocrinologia
+70226     CALCIO+VITAMINA D SUSP                                      25        30082          Cardiologia
+90198     NITROFURAL 6MG 6/OV                                         20        50718          Pediatria
+60888     CAPTOPRIL 25MG 30T                                          19        50718          Pediatria
+79996     LANSOPRAZOL 15 MG C/14                                      12        50718          Pediatria
+76360     DICLOXACILINA 250 MG C20                                    27        50718          Pediatria
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  12        50718          Pediatria
+70116     LACTULOSA 125ML                                             8         50718          Pediatria
+68346     TOLBUTAMIDA 50T 500MG                                       18        52063          Traumatologia
+34080     ELECTROLIT FRESA 500ML                                      17        52063          Traumatologia
+77466     RAMIPRIL 16 TAB/5 MG                                        7         52063          Traumatologia
+62008     LISINOPRIL T/30 10 MG                                       7         80063          Gastroenterologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 12        80063          Gastroenterologia
+42856     FELODIPINO 5 MG 20T                                         11        80063          Gastroenterologia
+62008     LISINOPRIL T/30 10 MG                                       11        80063          Gastroenterologia
+11370     KETOROLACO 4T 30MG SUBLINGUAL                               5         19777          Oftalmologia
+43222     AMBROXOL GOTAS 30ML                                         21        19777          Oftalmologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               11        50611          Urologia
+57036     OXOLAMINA JBE 100ML                                         14        15092          Dermatologia
+90300     FLUOXETINA 20 MG C/14                                       1         60184          Traumatologia
+93578     SUCRALFATO 40 TAB/1G                                        13        90798          Traumatologia
+93578     SUCRALFATO 40 TAB/1G                                        1         90798          Traumatologia
+34080     ELECTROLIT FRESA 500ML                                      6         90798          Traumatologia
+89528     CLORMADINONA 2MG 20T                                        22        80786          Ginecologia
+70024     METILDOPA 250 MG 30 TAB                                     35        80786          Ginecologia
+39172     IBUPROFENO 400MG T10                                        14        80786          Ginecologia
+28892     GLIMEPIRIDA 2MG C30                                         14        70233          Ginecologia
+79996     LANSOPRAZOL 15 MG C/14                                      23        70233          Ginecologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 33        70233          Ginecologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               17        70233          Ginecologia
+67784     LOSARTAN 50MG C/10T                                         34        70233          Ginecologia
+13364     MULTIVITAMINAS Y MINERALES C60                              18        70233          Ginecologia
+70116     LACTULOSA 125ML                                             30        70233          Ginecologia
+53846     CLENBUTEROL .02MG 50T                                       17        70233          Ginecologia
+30430     PRUEBA DE EMBARAZO                                          22        70233          Ginecologia
+22232     LEVETIRACETAM                                               27        89213          Gastroenterologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               25        89213          Gastroenterologia
+76238     BEZOCAINA 10GR GEL                                          23        90907          Dermatologia
+82528     LORATADINA T/10 10MG                                        16        90907          Dermatologia
+17804     PIROXICAM 30 GM CRA                                         32        90907          Dermatologia
+68860     METFORMINA 850MG T30                                        35        90907          Dermatologia
+53200     VITAMINA+OMEGA 3 30T                                        9         90907          Dermatologia
+13364     MULTIVITAMINAS Y MINERALES C60                              18        90907          Dermatologia
+62302     BEZAFIBRATO 200MG C/30TAB                                   30        60934          Neumologia
+82528     LORATADINA T/10 10MG                                        27        60934          Neumologia
+26920     HIDRALAZINA 20T 10MG                                        21        14787          Traumatologia
+88266     PREDNISONA 20MG C30 TAB GI                                  16        60049          Gastroenterologia
+60086     METAMISOL 500 MG T10                                        15        60049          Gastroenterologia
+86158     SENOSIDOS A y B C20                                         31        60049          Gastroenterologia
+70024     METILDOPA 250 MG 30 TAB                                     29        70269          Dermatologia
+22842     AMIKACINA 500MG C/1 AMP                                     24        70269          Dermatologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 2         70269          Dermatologia
+25684     DEXAMETASONA 0.5MG T/30                                     14        53556          Pediatria
+26506     ITRACONAZOL 100 MG C/15                                     15        53556          Pediatria
+14962     HIERRO DEXTRANO AMP4                                        8         53556          Pediatria
+68610     CALCITRIOL 0.25MCG 50 CAP                                   7         53556          Pediatria
+89528     CLORMADINONA 2MG 20T                                        17        53556          Pediatria
+13364     MULTIVITAMINAS Y MINERALES C60                              7         70612          Traumatologia
+48244     CLORANFENICOL SOL OFT 10ML                                  27        70612          Traumatologia
+89528     CLORMADINONA 2MG 20T                                        16        70612          Traumatologia
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  1         70612          Traumatologia
+22306     NIMESULIDA 25MG 20ML                                        26        64405          Oftalmologia
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML                              14        64405          Oftalmologia
+92628     KETOPROFENO 100MG C15                                       25        64405          Oftalmologia
+86158     SENOSIDOS A y B C20                                         32        64405          Oftalmologia
+82528     LORATADINA T/10 10MG                                        17        64405          Oftalmologia
+92628     KETOPROFENO 100MG C15                                       31        64405          Oftalmologia
+58252     KETOTIFENO SOL 120ML                                        15        64405          Oftalmologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            6         90929          Oftalmologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            30        90929          Oftalmologia
+22232     LEVETIRACETAM                                               29        90929          Oftalmologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   26        70367          Urologia
+60086     METAMISOL 500 MG T10                                        22        70367          Urologia
+34080     ELECTROLIT FRESA 500ML                                      14        70367          Urologia
+26360     VITAMINAS A C Y D 3AMP/3ML ING                              21        70367          Urologia
+50450     SERTRALINA 50MG C/14 T                                      11        70367          Urologia
+36822     CLARITROMICINA 125MG SUSP                                   8         18708          Ginecologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               18        18708          Ginecologia
+22842     AMIKACINA 500MG C/1 AMP                                     12        80138          Geriatria
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            16        80138          Geriatria
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            8         80138          Geriatria
+22842     AMIKACINA 500MG C/1 AMP                                     14        80138          Geriatria
+70024     METILDOPA 250 MG 30 TAB                                     12        70992          Gastroenterologia
+42856     FELODIPINO 5 MG 20T                                         28        49768          Cardiologia
+36822     CLARITROMICINA 125MG SUSP                                   15        49768          Cardiologia
+33276     INDOMETACINA C30                                            16        49768          Cardiologia
+86158     SENOSIDOS A y B C20                                         31        49768          Cardiologia
+30220     AMOXICILINA+BROMEXINA C12                                   13        49768          Cardiologia
+76238     BEZOCAINA 10GR GEL                                          13        49768          Cardiologia
+33390     CORTILONA CRA 30GR                                          8         33687          Oftalmologia
+33390     CORTILONA CRA 30GR                                          16        33687          Oftalmologia
+51148     PANTOPRAZOL 40MG C/14                                       20        33687          Oftalmologia
+62302     BEZAFIBRATO 200MG C/30TAB                                   26        33687          Oftalmologia
+92560     EXALVER FENILEFRINA PED. 30 ML                              13        33687          Oftalmologia
+53200     VITAMINA+OMEGA 3 30T                                        24        33687          Oftalmologia
+77534     METRONIDAZOL 500 MG T30                                     23        33687          Oftalmologia
+60086     METAMISOL 500 MG T10                                        35        70789          Pediatria
+30796     PROPANOLOL 40 MG C/20 TAB                                   7         70789          Pediatria
+81960     CEFALEXINA 500MG C/20 CAP                                   17        14655          Oncologia
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  10        14655          Oncologia
+81960     CEFALEXINA 500MG C/20 CAP                                   5         14655          Oncologia
+17804     PIROXICAM 30 GM CRA                                         33        80227          Pediatria
+80830     COMPLEJO B T30                                              18        80227          Pediatria
+22306     NIMESULIDA 25MG 20ML                                        21        80227          Pediatria
+62302     BEZAFIBRATO 200MG C/30TAB                                   6         34115          Cardiologia
+76238     BEZOCAINA 10GR GEL                                          26        34115          Cardiologia
+17804     PIROXICAM 30 GM CRA                                         14        34115          Cardiologia
+13364     MULTIVITAMINAS Y MINERALES C60                              29        34115          Cardiologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   31        80040          Endocrinologia
+26920     HIDRALAZINA 20T 10MG                                        34        80040          Endocrinologia
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  11        80040          Endocrinologia
+17790     DICLOFENACO 100MG 20T                                       21        80040          Endocrinologia
+70226     CALCIO+VITAMINA D SUSP                                      24        25448          Endocrinologia
+67784     LOSARTAN 50MG C/10T                                         19        25448          Endocrinologia
+13364     MULTIVITAMINAS Y MINERALES C60                              20        25448          Endocrinologia
+13364     MULTIVITAMINAS Y MINERALES C60                              17        25448          Endocrinologia
+30430     PRUEBA DE EMBARAZO                                          24        25448          Endocrinologia
+11592     TERBINAFINA 1% CRA 20 GR                                    1         25448          Endocrinologia
+28892     GLIMEPIRIDA 2MG C30                                         15        25448          Endocrinologia
+86158     SENOSIDOS A y B C20                                         27        40414          Ginecologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   1         40414          Ginecologia
+73174     VITAMINA P/DIABETICOS 30T                                   11        40414          Ginecologia
+39172     IBUPROFENO 400MG T10                                        27        90562          Dermatologia
+33200     GLUCOSAMINA 30C 500MG                                       14        90562          Dermatologia
+90300     FLUOXETINA 20 MG C/14                                       19        90562          Dermatologia
+36822     CLARITROMICINA 125MG SUSP                                   11        30557          Neumologia
+22306     NIMESULIDA 25MG 20ML                                        17        30557          Neumologia
+58200     FLUCONAZOL 150MG. 1C                                        35        20189          Endocrinologia
+68730     MELOXICAM 7.5 MG C/14                                       21        20189          Endocrinologia
+82528     LORATADINA T/10 10MG                                        7         20189          Endocrinologia
+70116     LACTULOSA 125ML                                             9         30082          Cardiologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 17        30082          Cardiologia
+53846     CLENBUTEROL .02MG 50T                                       34        30082          Cardiologia
+53166     ASTEMIZOL SUSP 200MG                                        32        50718          Pediatria
+36622     TEOFILINA 20 TAB/100 MG                                     35        50718          Pediatria
+53166     ASTEMIZOL SUSP 200MG                                        14        50718          Pediatria
+27016     ACECLOFENACO 100MG 10T                                      34        52063          Traumatologia
+30428     PROPAFENONA 150 MG/20 TAB                                   26        52063          Traumatologia
+70226     CALCIO+VITAMINA D SUSP                                      9         52063          Traumatologia
+27016     ACECLOFENACO 100MG 10T                                      5         52063          Traumatologia
+57036     OXOLAMINA JBE 100ML                                         34        80063          Gastroenterologia
+22232     LEVETIRACETAM                                               32        80063          Gastroenterologia
+89528     CLORMADINONA 2MG 20T                                        15        80063          Gastroenterologia
+76360     DICLOXACILINA 250 MG C20                                    13        19777          Oftalmologia
+58252     KETOTIFENO SOL 120ML                                        23        19777          Oftalmologia
+70116     LACTULOSA 125ML                                             19        19777          Oftalmologia
+76360     DICLOXACILINA 250 MG C20                                    5         19777          Oftalmologia
+90300     FLUOXETINA 20 MG C/14                                       31        50611          Urologia
+36208     ENALAPRIL T/30 10MG                                         32        50611          Urologia
+22306     NIMESULIDA 25MG 20ML                                        11        50611          Urologia
+60888     CAPTOPRIL 25MG 30T                                          16        15092          Dermatologia
+93578     SUCRALFATO 40 TAB/1G                                        13        60184          Traumatologia
+68346     TOLBUTAMIDA 50T 500MG                                       28        60184          Traumatologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             15        90798          Traumatologia
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              14        90798          Traumatologia
+70226     CALCIO+VITAMINA D SUSP                                      29        90798          Traumatologia
+76360     DICLOXACILINA 250 MG C20                                    23        80786          Ginecologia
+68860     METFORMINA 850MG T30                                        14        80786          Ginecologia
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              23        80786          Ginecologia
+86158     SENOSIDOS A y B C20                                         11        80786          Ginecologia
+82528     LORATADINA T/10 10MG                                        3         80786          Ginecologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 21        70233          Ginecologia
+22842     AMIKACINA 500MG C/1 AMP                                     24        70233          Ginecologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            7         90907          Dermatologia
+26754     SILDENAFIL 50MG C/1-TAB                                     16        60934          Neumologia
+89528     CLORMADINONA 2MG 20T                                        8         60934          Neumologia
+89528     CLORMADINONA 2MG 20T                                        6         60934          Neumologia
+27016     ACECLOFENACO 100MG 10T                                      31        60934          Neumologia
+13364     MULTIVITAMINAS Y MINERALES C60                              10        14787          Traumatologia
+79996     LANSOPRAZOL 15 MG C/14                                      13        14787          Traumatologia
+86158     SENOSIDOS A y B C20                                         25        60049          Gastroenterologia
+60888     CAPTOPRIL 25MG 30T                                          20        70269          Dermatologia
+24522     LEVOFLOXACINO 500MG C/7 TAB                                 11        70269          Dermatologia
+22842     AMIKACINA 500MG C/1 AMP                                     1         70269          Dermatologia
+83510     FUROSEMIDA 40 MG C/20                                       17        70269          Dermatologia
+68730     MELOXICAM 7.5 MG C/14                                       35        53556          Pediatria
+30428     PROPAFENONA 150 MG/20 TAB                                   22        70612          Traumatologia
+70226     CALCIO+VITAMINA D SUSP                                      29        70612          Traumatologia
+89528     CLORMADINONA 2MG 20T                                        34        70612          Traumatologia
+27016     ACECLOFENACO 100MG 10T                                      31        70612          Traumatologia
+17804     PIROXICAM 30 GM CRA                                         17        64405          Oftalmologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   15        64405          Oftalmologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             25        64405          Oftalmologia
+17804     PIROXICAM 30 GM CRA                                         23        64405          Oftalmologia
+92560     EXALVER FENILEFRINA PED. 30 ML                              34        90929          Oftalmologia
+33390     CORTILONA CRA 30GR                                          15        90929          Oftalmologia
+77466     RAMIPRIL 16 TAB/5 MG                                        31        90929          Oftalmologia
+53200     VITAMINA+OMEGA 3 30T                                        25        90929          Oftalmologia
+83510     FUROSEMIDA 40 MG C/20                                       2         90929          Oftalmologia
+52072     BROMOCRIPTINA 2.5MG C/14TAB                                 23        90929          Oftalmologia
+33390     CORTILONA CRA 30GR                                          31        90929          Oftalmologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             27        70367          Urologia
+68860     METFORMINA 850MG T30                                        29        18708          Ginecologia
+82528     LORATADINA T/10 10MG                                        24        18708          Ginecologia
+76360     DICLOXACILINA 250 MG C20                                    20        18708          Ginecologia
+82528     LORATADINA T/10 10MG                                        30        18708          Ginecologia
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              15        80138          Geriatria
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              26        80138          Geriatria
+45814     ERITROMICINA 250MG SUSP                                     26        80138          Geriatria
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             12        80138          Geriatria
+68860     METFORMINA 850MG T30                                        18        80138          Geriatria
+45814     ERITROMICINA 250MG SUSP                                     33        80138          Geriatria
+76360     DICLOXACILINA 250 MG C20                                    3         80138          Geriatria
+92560     EXALVER FENILEFRINA PED. 30 ML                              24        80138          Geriatria
+53846     CLENBUTEROL .02MG 50T                                       27        35451          Pediatria
+34080     ELECTROLIT FRESA 500ML                                      22        35451          Pediatria
+34080     ELECTROLIT FRESA 500ML                                      17        35451          Pediatria
+58252     KETOTIFENO SOL 120ML                                        16        35451          Pediatria
+58252     KETOTIFENO SOL 120ML                                        16        35451          Pediatria
+67784     LOSARTAN 50MG C/10T                                         34        70992          Gastroenterologia
+53846     CLENBUTEROL .02MG 50T                                       7         70992          Gastroenterologia
+68860     METFORMINA 850MG T30                                        29        49768          Cardiologia
+39088     NORFLOXACINO T20 400MG                                      10        33687          Oftalmologia
+68610     CALCITRIOL 0.25MCG 50 CAP                                   19        33687          Oftalmologia
+39088     NORFLOXACINO T20 400MG                                      33        33687          Oftalmologia
+68860     METFORMINA 850MG T30                                        7         33687          Oftalmologia
+68610     CALCITRIOL 0.25MCG 50 CAP                                   17        33687          Oftalmologia
+68610     CALCITRIOL 0.25MCG 50 CAP                                   16        33687          Oftalmologia
+67784     LOSARTAN 50MG C/10T                                         5         70789          Pediatria
+58036     PENTOXIFILINA 400MG T30                                     5         70789          Pediatria
+22306     NIMESULIDA 25MG 20ML                                        22        18262          Urologia
+95540     NAPROXENO 500 MG C/10 TAB                                   25        18262          Urologia
+33276     INDOMETACINA C30                                            24        18262          Urologia
+86158     SENOSIDOS A y B C20                                         2         18262          Urologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               25        14655          Oncologia
+62302     BEZAFIBRATO 200MG C/30TAB                                   24        80227          Pediatria
+60888     CAPTOPRIL 25MG 30T                                          19        80227          Pediatria
+62302     BEZAFIBRATO 200MG C/30TAB                                   6         80227          Pediatria
+90300     FLUOXETINA 20 MG C/14                                       6         80227          Pediatria
+83510     FUROSEMIDA 40 MG C/20                                       28        80227          Pediatria
+60888     CAPTOPRIL 25MG 30T                                          33        80227          Pediatria
+12388     PROTEINAS+CREATINA 500 GR 30T                               27        34115          Cardiologia
+82528     LORATADINA T/10 10MG                                        17        34115          Cardiologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             33        80040          Endocrinologia
+86158     SENOSIDOS A y B C20                                         11        80040          Endocrinologia
+77466     RAMIPRIL 16 TAB/5 MG                                        32        80040          Endocrinologia
+34080     ELECTROLIT FRESA 500ML                                      26        25448          Endocrinologia
+73972     VITAMINA E 400 MG C90 CAPS                                  29        40414          Ginecologia
+79996     LANSOPRAZOL 15 MG C/14                                      23        40414          Ginecologia
+58200     FLUCONAZOL 150MG. 1C                                        9         40414          Ginecologia
+57036     OXOLAMINA JBE 100ML                                         10        90562          Dermatologia
+26754     SILDENAFIL 50MG C/1-TAB                                     29        90562          Dermatologia
+89528     CLORMADINONA 2MG 20T                                        6         90562          Dermatologia
+34070     FEXOFENADINA C/10 180MG                                     18        91509          Cardiologia
+83510     FUROSEMIDA 40 MG C/20                                       11        91509          Cardiologia
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  33        30557          Neumologia
+34080     ELECTROLIT FRESA 500ML                                      24        30557          Neumologia
+95540     NAPROXENO 500 MG C/10 TAB                                   8         20189          Endocrinologia
+95540     NAPROXENO 500 MG C/10 TAB                                   30        20189          Endocrinologia
+76238     BEZOCAINA 10GR GEL                                          11        20189          Endocrinologia
+95540     NAPROXENO 500 MG C/10 TAB                                   16        20189          Endocrinologia
+24522     LEVOFLOXACINO 500MG C/7 TAB                                 13        30082          Cardiologia
+77466     RAMIPRIL 16 TAB/5 MG                                        4         30082          Cardiologia
+36208     ENALAPRIL T/30 10MG                                         21        30082          Cardiologia
+58252     KETOTIFENO SOL 120ML                                        30        50718          Pediatria
+88266     PREDNISONA 20MG C30 TAB GI                                  10        50718          Pediatria
+26360     VITAMINAS A C Y D 3AMP/3ML ING                              31        50718          Pediatria
+89528     CLORMADINONA 2MG 20T                                        30        52063          Traumatologia
+27016     ACECLOFENACO 100MG 10T                                      34        52063          Traumatologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               23        52063          Traumatologia
+27016     ACECLOFENACO 100MG 10T                                      24        80063          Gastroenterologia
+36208     ENALAPRIL T/30 10MG                                         26        80063          Gastroenterologia
+96554     PIROXICAM 20MG T20                                          24        80063          Gastroenterologia
+89528     CLORMADINONA 2MG 20T                                        20        80063          Gastroenterologia
+11592     TERBINAFINA 1% CRA 20 GR                                    6         19777          Oftalmologia
+79996     LANSOPRAZOL 15 MG C/14                                      35        19777          Oftalmologia
+11592     TERBINAFINA 1% CRA 20 GR                                    24        50611          Urologia
+60086     METAMISOL 500 MG T10                                        26        50611          Urologia
+79996     LANSOPRAZOL 15 MG C/14                                      12        50611          Urologia
+49644     HIDROCORTISONA CRA 30GR                                     27        50611          Urologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   18        15092          Dermatologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   30        15092          Dermatologia
+68860     METFORMINA 850MG T30                                        18        15092          Dermatologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   27        15092          Dermatologia
+82528     LORATADINA T/10 10MG                                        8         60184          Traumatologia
+17804     PIROXICAM 30 GM CRA                                         13        60184          Traumatologia
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  14        90798          Traumatologia
+22232     LEVETIRACETAM                                               28        90798          Traumatologia
+92628     KETOPROFENO 100MG C15                                       24        90798          Traumatologia
+49644     HIDROCORTISONA CRA 30GR                                     26        70233          Ginecologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   29        89213          Gastroenterologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            9         89213          Gastroenterologia
+67784     LOSARTAN 50MG C/10T                                         9         90907          Dermatologia
+67784     LOSARTAN 50MG C/10T                                         11        90907          Dermatologia
+53846     CLENBUTEROL .02MG 50T                                       19        90907          Dermatologia
+70226     CALCIO+VITAMINA D SUSP                                      17        90907          Dermatologia
+70116     LACTULOSA 125ML                                             28        90907          Dermatologia
+39088     NORFLOXACINO T20 400MG                                      9         60934          Neumologia
+70950     LIDOCAINA 10% 115ML SPRAY                                   16        60934          Neumologia
+77466     RAMIPRIL 16 TAB/5 MG                                        19        60934          Neumologia
+40862     YODOPOVIDONA 120ML                                          14        60934          Neumologia
+81960     CEFALEXINA 500MG C/20 CAP                                   5         14787          Traumatologia
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              33        14787          Traumatologia
+89528     CLORMADINONA 2MG 20T                                        17        14787          Traumatologia
+26920     HIDRALAZINA 20T 10MG                                        20        60049          Gastroenterologia
+53084     MINOCICLINA 100MG 10T                                       13        60049          Gastroenterologia
+26754     SILDENAFIL 50MG C/1-TAB                                     18        70269          Dermatologia
+40862     YODOPOVIDONA 120ML                                          27        70269          Dermatologia
+36208     ENALAPRIL T/30 10MG                                         19        70269          Dermatologia
+26754     SILDENAFIL 50MG C/1-TAB                                     13        70269          Dermatologia
+53166     ASTEMIZOL SUSP 200MG                                        15        70269          Dermatologia
+26754     SILDENAFIL 50MG C/1-TAB                                     22        70269          Dermatologia
+53166     ASTEMIZOL SUSP 200MG                                        29        70269          Dermatologia
+53166     ASTEMIZOL SUSP 200MG                                        7         70269          Dermatologia
+39088     NORFLOXACINO T20 400MG                                      9         53556          Pediatria
+25684     DEXAMETASONA 0.5MG T/30                                     12        53556          Pediatria
+62008     LISINOPRIL T/30 10 MG                                       13        70612          Traumatologia
+42856     FELODIPINO 5 MG 20T                                         17        70612          Traumatologia
+89528     CLORMADINONA 2MG 20T                                        29        70612          Traumatologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 29        70612          Traumatologia
+68860     METFORMINA 850MG T30                                        11        90929          Oftalmologia
+89528     CLORMADINONA 2MG 20T                                        18        70367          Urologia
+89528     CLORMADINONA 2MG 20T                                        8         70367          Urologia
+26754     SILDENAFIL 50MG C/1-TAB                                     14        70367          Urologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            14        70367          Urologia
+27016     ACECLOFENACO 100MG 10T                                      13        70367          Urologia
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  31        18708          Ginecologia
+95540     NAPROXENO 500 MG C/10 TAB                                   15        18708          Ginecologia
+58200     FLUCONAZOL 150MG. 1C                                        11        18708          Ginecologia
+60086     METAMISOL 500 MG T10                                        20        80138          Geriatria
+11592     TERBINAFINA 1% CRA 20 GR                                    34        80138          Geriatria
+88266     PREDNISONA 20MG C30 TAB GI                                  7         80138          Geriatria
+34080     ELECTROLIT FRESA 500ML                                      32        80138          Geriatria
+60086     METAMISOL 500 MG T10                                        25        80138          Geriatria
+60086     METAMISOL 500 MG T10                                        5         80138          Geriatria
+86158     SENOSIDOS A y B C20                                         9         70992          Gastroenterologia
+70950     LIDOCAINA 10% 115ML SPRAY                                   1         70992          Gastroenterologia
+14962     HIERRO DEXTRANO AMP4                                        35        49768          Cardiologia
+90300     FLUOXETINA 20 MG C/14                                       32        49768          Cardiologia
+67784     LOSARTAN 50MG C/10T                                         26        49768          Cardiologia
+36208     ENALAPRIL T/30 10MG                                         34        49768          Cardiologia
+30220     AMOXICILINA+BROMEXINA C12                                   9         33687          Oftalmologia
+30220     AMOXICILINA+BROMEXINA C12                                   21        33687          Oftalmologia
+26920     HIDRALAZINA 20T 10MG                                        17        33687          Oftalmologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            9         70789          Pediatria
+80830     COMPLEJO B T30                                              34        18262          Urologia
+39172     IBUPROFENO 400MG T10                                        8         18262          Urologia
+26360     VITAMINAS A C Y D 3AMP/3ML ING                              20        14655          Oncologia
+50450     SERTRALINA 50MG C/14 T                                      29        14655          Oncologia
+11592     TERBINAFINA 1% CRA 20 GR                                    26        14655          Oncologia
+27016     ACECLOFENACO 100MG 10T                                      29        80227          Pediatria
+89528     CLORMADINONA 2MG 20T                                        23        80227          Pediatria
+12388     PROTEINAS+CREATINA 500 GR 30T                               11        80227          Pediatria
+81062     PAROXETINA T/10 20MG                                        33        34115          Cardiologia
+58252     KETOTIFENO SOL 120ML                                        20        34115          Cardiologia
+77358     LOPERAMIDA T/12 2MG                                         30        34115          Cardiologia
+57036     OXOLAMINA JBE 100ML                                         6         80040          Endocrinologia
+26754     SILDENAFIL 50MG C/1-TAB                                     8         80040          Endocrinologia
+73972     VITAMINA E 400 MG C90 CAPS                                  11        25448          Endocrinologia
+30430     PRUEBA DE EMBARAZO                                          5         25448          Endocrinologia
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  3         25448          Endocrinologia
+30220     AMOXICILINA+BROMEXINA C12                                   5         25448          Endocrinologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               30        40414          Ginecologia
+42856     FELODIPINO 5 MG 20T                                         26        90562          Dermatologia
+22306     NIMESULIDA 25MG 20ML                                        11        90562          Dermatologia
+90300     FLUOXETINA 20 MG C/14                                       26        91509          Cardiologia
+90300     FLUOXETINA 20 MG C/14                                       6         91509          Cardiologia
+14962     HIERRO DEXTRANO AMP4                                        11        91509          Cardiologia
+90300     FLUOXETINA 20 MG C/14                                       24        91509          Cardiologia
+26484     DILTIAZEM 30 TAB/30 MG                                      17        30557          Neumologia
+26484     DILTIAZEM 30 TAB/30 MG                                      30        30557          Neumologia
+95540     NAPROXENO 500 MG C/10 TAB                                   7         30557          Neumologia
+40862     YODOPOVIDONA 120ML                                          21        20189          Endocrinologia
+40862     YODOPOVIDONA 120ML                                          26        20189          Endocrinologia
+96554     PIROXICAM 20MG T20                                          34        20189          Endocrinologia
+93578     SUCRALFATO 40 TAB/1G                                        30        30082          Cardiologia
+93578     SUCRALFATO 40 TAB/1G                                        21        30082          Cardiologia
+36822     CLARITROMICINA 125MG SUSP                                   7         30082          Cardiologia
+34070     FEXOFENADINA C/10 180MG                                     22        30082          Cardiologia
+60888     CAPTOPRIL 25MG 30T                                          7         50718          Pediatria
+79996     LANSOPRAZOL 15 MG C/14                                      23        50718          Pediatria
+50450     SERTRALINA 50MG C/14 T                                      16        52063          Traumatologia
+90300     FLUOXETINA 20 MG C/14                                       30        80063          Gastroenterologia
+90300     FLUOXETINA 20 MG C/14                                       28        80063          Gastroenterologia
+67784     LOSARTAN 50MG C/10T                                         10        80063          Gastroenterologia
+58252     KETOTIFENO SOL 120ML                                        12        19777          Oftalmologia
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  23        19777          Oftalmologia
+60888     CAPTOPRIL 25MG 30T                                          24        19777          Oftalmologia
+88266     PREDNISONA 20MG C30 TAB GI                                  11        50611          Urologia
+26360     VITAMINAS A C Y D 3AMP/3ML ING                              18        50611          Urologia
+26360     VITAMINAS A C Y D 3AMP/3ML ING                              6         50611          Urologia
+34080     ELECTROLIT FRESA 500ML                                      25        50611          Urologia
+68860     METFORMINA 850MG T30                                        34        15092          Dermatologia
+81062     PAROXETINA T/10 20MG                                        16        15092          Dermatologia
+30228     METOPROLOL 20T/100                                          15        15092          Dermatologia
+53846     CLENBUTEROL .02MG 50T                                       8         15092          Dermatologia
+57036     OXOLAMINA JBE 100ML                                         33        60184          Traumatologia
+68860     METFORMINA 850MG T30                                        29        60184          Traumatologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            27        60184          Traumatologia
+57036     OXOLAMINA JBE 100ML                                         22        60184          Traumatologia
+57036     OXOLAMINA JBE 100ML                                         31        60184          Traumatologia
+68860     METFORMINA 850MG T30                                        21        60184          Traumatologia
+77358     LOPERAMIDA T/12 2MG                                         1         60184          Traumatologia
+39088     NORFLOXACINO T20 400MG                                      23        60184          Traumatologia
+60888     CAPTOPRIL 25MG 30T                                          32        60184          Traumatologia
+83510     FUROSEMIDA 40 MG C/20                                       19        90798          Traumatologia
+30220     AMOXICILINA+BROMEXINA C12                                   29        90798          Traumatologia
+83510     FUROSEMIDA 40 MG C/20                                       12        90798          Traumatologia
+13364     MULTIVITAMINAS Y MINERALES C60                              11        80786          Ginecologia
+11592     TERBINAFINA 1% CRA 20 GR                                    7         80786          Ginecologia
+67784     LOSARTAN 50MG C/10T                                         4         80786          Ginecologia
+11592     TERBINAFINA 1% CRA 20 GR                                    33        80786          Ginecologia
+30428     PROPAFENONA 150 MG/20 TAB                                   8         70233          Ginecologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   27        70233          Ginecologia
+25684     DEXAMETASONA 0.5MG T/30                                     29        89213          Gastroenterologia
+25684     DEXAMETASONA 0.5MG T/30                                     10        89213          Gastroenterologia
+18672     TINIDAZOL 500MG 8T                                          12        89213          Gastroenterologia
+17790     DICLOFENACO 100MG 20T                                       33        89213          Gastroenterologia
+24522     LEVOFLOXACINO 500MG C/7 TAB                                 23        90907          Dermatologia
+81960     CEFALEXINA 500MG C/20 CAP                                   21        60934          Neumologia
+79996     LANSOPRAZOL 15 MG C/14                                      4         60934          Neumologia
+36208     ENALAPRIL T/30 10MG                                         5         60049          Gastroenterologia
+90300     FLUOXETINA 20 MG C/14                                       5         60049          Gastroenterologia
+90300     FLUOXETINA 20 MG C/14                                       30        60049          Gastroenterologia
+96554     PIROXICAM 20MG T20                                          19        70269          Dermatologia
+96554     PIROXICAM 20MG T20                                          23        70269          Dermatologia
+18672     TINIDAZOL 500MG 8T                                          29        70269          Dermatologia
+57036     OXOLAMINA JBE 100ML                                         25        53556          Pediatria
+57036     OXOLAMINA JBE 100ML                                         24        53556          Pediatria
+25684     DEXAMETASONA 0.5MG T/30                                     16        53556          Pediatria
+70226     CALCIO+VITAMINA D SUSP                                      12        70612          Traumatologia
+30428     PROPAFENONA 150 MG/20 TAB                                   31        70612          Traumatologia
+96554     PIROXICAM 20MG T20                                          35        70612          Traumatologia
+70226     CALCIO+VITAMINA D SUSP                                      22        70612          Traumatologia
+70226     CALCIO+VITAMINA D SUSP                                      16        70612          Traumatologia
+48244     CLORANFENICOL SOL OFT 10ML                                  13        64405          Oftalmologia
+47734     MICRODACYN 60 SOL 240ML                                     28        90929          Oftalmologia
+42856     FELODIPINO 5 MG 20T                                         22        90929          Oftalmologia
+76596     CEFADROXILO 250MG SUSP                                      32        90929          Oftalmologia
+76596     CEFADROXILO 250MG SUSP                                      3         90929          Oftalmologia
+83510     FUROSEMIDA 40 MG C/20                                       32        70367          Urologia
+83510     FUROSEMIDA 40 MG C/20                                       33        70367          Urologia
+76596     CEFADROXILO 250MG SUSP                                      31        70367          Urologia
+34070     FEXOFENADINA C/10 180MG                                     23        70367          Urologia
+34066     SULINDACO 200MG/20 TAB                                      11        18708          Ginecologia
+54692     NAFAZOLINA SOL OFT 15 ml                                    30        18708          Ginecologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 12        18708          Ginecologia
+26484     DILTIAZEM 30 TAB/30 MG                                      18        80138          Geriatria
+96554     PIROXICAM 20MG T20                                          15        80138          Geriatria
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  16        80138          Geriatria
+67784     LOSARTAN 50MG C/10T                                         8         35451          Pediatria
+30430     PRUEBA DE EMBARAZO                                          24        35451          Pediatria
+70226     CALCIO+VITAMINA D SUSP                                      28        35451          Pediatria
+11592     TERBINAFINA 1% CRA 20 GR                                    3         35451          Pediatria
+70226     CALCIO+VITAMINA D SUSP                                      5         35451          Pediatria
+12388     PROTEINAS+CREATINA 500 GR 30T                               23        70992          Gastroenterologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 17        70992          Gastroenterologia
+67784     LOSARTAN 50MG C/10T                                         12        70992          Gastroenterologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               35        70992          Gastroenterologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 9         70992          Gastroenterologia
+89528     CLORMADINONA 2MG 20T                                        21        49768          Cardiologia
+89528     CLORMADINONA 2MG 20T                                        21        49768          Cardiologia
+70024     METILDOPA 250 MG 30 TAB                                     34        49768          Cardiologia
+54692     NAFAZOLINA SOL OFT 15 ml                                    18        49768          Cardiologia
+26484     DILTIAZEM 30 TAB/30 MG                                      7         70789          Pediatria
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  20        70789          Pediatria
+26484     DILTIAZEM 30 TAB/30 MG                                      19        70789          Pediatria
+83510     FUROSEMIDA 40 MG C/20                                       31        18262          Urologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               28        18262          Urologia
+95540     NAPROXENO 500 MG C/10 TAB                                   12        18262          Urologia
+68610     CALCITRIOL 0.25MCG 50 CAP                                   12        14655          Oncologia
+39172     IBUPROFENO 400MG T10                                        26        14655          Oncologia
+33200     GLUCOSAMINA 30C 500MG                                       19        14655          Oncologia
+60086     METAMISOL 500 MG T10                                        5         14655          Oncologia
+68610     CALCITRIOL 0.25MCG 50 CAP                                   29        14655          Oncologia
+77466     RAMIPRIL 16 TAB/5 MG                                        7         80227          Pediatria
+90300     FLUOXETINA 20 MG C/14                                       6         80227          Pediatria
+22306     NIMESULIDA 25MG 20ML                                        12        80227          Pediatria
+58252     KETOTIFENO SOL 120ML                                        11        34115          Cardiologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               30        34115          Cardiologia
+82528     LORATADINA T/10 10MG                                        31        34115          Cardiologia
+58200     FLUCONAZOL 150MG. 1C                                        10        34115          Cardiologia
+92628     KETOPROFENO 100MG C15                                       18        34115          Cardiologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               3         34115          Cardiologia
+58200     FLUCONAZOL 150MG. 1C                                        19        34115          Cardiologia
+86158     SENOSIDOS A y B C20                                         20        34115          Cardiologia
+26920     HIDRALAZINA 20T 10MG                                        6         80040          Endocrinologia
+17804     PIROXICAM 30 GM CRA                                         29        25448          Endocrinologia
+24522     LEVOFLOXACINO 500MG C/7 TAB                                 7         25448          Endocrinologia
+95540     NAPROXENO 500 MG C/10 TAB                                   5         25448          Endocrinologia
+34080     ELECTROLIT FRESA 500ML                                      27        40414          Ginecologia
+54692     NAFAZOLINA SOL OFT 15 ml                                    20        90562          Dermatologia
+26920     HIDRALAZINA 20T 10MG                                        33        90562          Dermatologia
+73174     VITAMINA P/DIABETICOS 30T                                   24        91509          Cardiologia
+73174     VITAMINA P/DIABETICOS 30T                                   11        91509          Cardiologia
+34080     ELECTROLIT FRESA 500ML                                      14        91509          Cardiologia
+36822     CLARITROMICINA 125MG SUSP                                   31        91509          Cardiologia
+34070     FEXOFENADINA C/10 180MG                                     26        91509          Cardiologia
+60086     METAMISOL 500 MG T10                                        33        30557          Neumologia
+68860     METFORMINA 850MG T30                                        9         20189          Endocrinologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             34        20189          Endocrinologia
+82528     LORATADINA T/10 10MG                                        24        20189          Endocrinologia
+90198     NITROFURAL 6MG 6/OV                                         28        30082          Cardiologia
+90198     NITROFURAL 6MG 6/OV                                         26        30082          Cardiologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               25        50718          Pediatria
+70116     LACTULOSA 125ML                                             15        50718          Pediatria
+70226     CALCIO+VITAMINA D SUSP                                      3         50718          Pediatria
+53846     CLENBUTEROL .02MG 50T                                       28        50718          Pediatria
+13364     MULTIVITAMINAS Y MINERALES C60                              14        50718          Pediatria
+53846     CLENBUTEROL .02MG 50T                                       27        50718          Pediatria
+34080     ELECTROLIT FRESA 500ML                                      22        52063          Traumatologia
+34070     FEXOFENADINA C/10 180MG                                     23        52063          Traumatologia
+34070     FEXOFENADINA C/10 180MG                                     29        52063          Traumatologia
+22306     NIMESULIDA 25MG 20ML                                        29        80063          Gastroenterologia
+42856     FELODIPINO 5 MG 20T                                         13        80063          Gastroenterologia
+47734     MICRODACYN 60 SOL 240ML                                     20        80063          Gastroenterologia
+28892     GLIMEPIRIDA 2MG C30                                         5         80063          Gastroenterologia
+90198     NITROFURAL 6MG 6/OV                                         7         19777          Oftalmologia
+81960     CEFALEXINA 500MG C/20 CAP                                   18        19777          Oftalmologia
+81960     CEFALEXINA 500MG C/20 CAP                                   20        19777          Oftalmologia
+74924     TAMSULOSINA 0.4 MG CAPS 20                                  4         19777          Oftalmologia
+76238     BEZOCAINA 10GR GEL                                          25        19777          Oftalmologia
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              23        50611          Urologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   34        50611          Urologia
+14962     HIERRO DEXTRANO AMP4                                        6         15092          Dermatologia
+67784     LOSARTAN 50MG C/10T                                         27        15092          Dermatologia
+48244     CLORANFENICOL SOL OFT 10ML                                  2         15092          Dermatologia
+22842     AMIKACINA 500MG C/1 AMP                                     17        60184          Traumatologia
+26754     SILDENAFIL 50MG C/1-TAB                                     12        60184          Traumatologia
+27016     ACECLOFENACO 100MG 10T                                      7         60184          Traumatologia
+89528     CLORMADINONA 2MG 20T                                        32        60184          Traumatologia
+22232     LEVETIRACETAM                                               11        60184          Traumatologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               5         90798          Traumatologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               25        90798          Traumatologia
+90300     FLUOXETINA 20 MG C/14                                       33        80786          Ginecologia
+60086     METAMISOL 500 MG T10                                        35        80786          Ginecologia
+39172     IBUPROFENO 400MG T10                                        31        80786          Ginecologia
+92628     KETOPROFENO 100MG C15                                       30        80786          Ginecologia
+22232     LEVETIRACETAM                                               9         70233          Ginecologia
+47734     MICRODACYN 60 SOL 240ML                                     28        70233          Ginecologia
+89528     CLORMADINONA 2MG 20T                                        30        70233          Ginecologia
+60888     CAPTOPRIL 25MG 30T                                          18        89213          Gastroenterologia
+79996     LANSOPRAZOL 15 MG C/14                                      7         89213          Gastroenterologia
+70116     LACTULOSA 125ML                                             16        89213          Gastroenterologia
+76360     DICLOXACILINA 250 MG C20                                    27        89213          Gastroenterologia
+90198     NITROFURAL 6MG 6/OV                                         33        89213          Gastroenterologia
+70116     LACTULOSA 125ML                                             17        89213          Gastroenterologia
+60888     CAPTOPRIL 25MG 30T                                          11        89213          Gastroenterologia
+96554     PIROXICAM 20MG T20                                          18        90907          Dermatologia
+26484     DILTIAZEM 30 TAB/30 MG                                      24        90907          Dermatologia
+67784     LOSARTAN 50MG C/10T                                         33        90907          Dermatologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               33        60934          Neumologia
+47734     MICRODACYN 60 SOL 240ML                                     12        60934          Neumologia
+60086     METAMISOL 500 MG T10                                        28        14787          Traumatologia
+49644     HIDROCORTISONA CRA 30GR                                     21        14787          Traumatologia
+60086     METAMISOL 500 MG T10                                        16        14787          Traumatologia
+49644     HIDROCORTISONA CRA 30GR                                     10        14787          Traumatologia
+76238     BEZOCAINA 10GR GEL                                          29        60049          Gastroenterologia
+33276     INDOMETACINA C30                                            26        60049          Gastroenterologia
+22306     NIMESULIDA 25MG 20ML                                        27        60049          Gastroenterologia
+81062     PAROXETINA T/10 20MG                                        30        60049          Gastroenterologia
+81062     PAROXETINA T/10 20MG                                        10        60049          Gastroenterologia
+53846     CLENBUTEROL .02MG 50T                                       28        70269          Dermatologia
+58252     KETOTIFENO SOL 120ML                                        21        70269          Dermatologia
+76360     DICLOXACILINA 250 MG C20                                    25        53556          Pediatria
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               17        53556          Pediatria
+49644     HIDROCORTISONA CRA 30GR                                     25        53556          Pediatria
+80830     COMPLEJO B T30                                              32        53556          Pediatria
+58252     KETOTIFENO SOL 120ML                                        2         53556          Pediatria
+30220     AMOXICILINA+BROMEXINA C12                                   34        70612          Traumatologia
+34070     FEXOFENADINA C/10 180MG                                     23        70612          Traumatologia
+36822     CLARITROMICINA 125MG SUSP                                   22        70612          Traumatologia
+67784     LOSARTAN 50MG C/10T                                         11        64405          Oftalmologia
+53846     CLENBUTEROL .02MG 50T                                       29        64405          Oftalmologia
+77358     LOPERAMIDA T/12 2MG                                         17        64405          Oftalmologia
+67784     LOSARTAN 50MG C/10T                                         30        64405          Oftalmologia
+53846     CLENBUTEROL .02MG 50T                                       11        64405          Oftalmologia
+28892     GLIMEPIRIDA 2MG C30                                         6         64405          Oftalmologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 31        64405          Oftalmologia
+70116     LACTULOSA 125ML                                             4         64405          Oftalmologia
+30220     AMOXICILINA+BROMEXINA C12                                   13        90929          Oftalmologia
+54692     NAFAZOLINA SOL OFT 15 ml                                    5         90929          Oftalmologia
+90300     FLUOXETINA 20 MG C/14                                       8         70367          Urologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            20        80138          Geriatria
+57036     OXOLAMINA JBE 100ML                                         27        80138          Geriatria
+77358     LOPERAMIDA T/12 2MG                                         12        80138          Geriatria
+68860     METFORMINA 850MG T30                                        16        80138          Geriatria
+54692     NAFAZOLINA SOL OFT 15 ml                                    14        35451          Pediatria
+38648     PENICILINA V POT 400000U 20T                                7         35451          Pediatria
+70024     METILDOPA 250 MG 30 TAB                                     24        35451          Pediatria
+15098     LISINA CLOHRIDRATO 125MG T10                                22        70992          Gastroenterologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               7         70992          Gastroenterologia
+95540     NAPROXENO 500 MG C/10 TAB                                   15        70992          Gastroenterologia
+67784     LOSARTAN 50MG C/10T                                         14        70992          Gastroenterologia
+89528     CLORMADINONA 2MG 20T                                        34        70992          Gastroenterologia
+54692     NAFAZOLINA SOL OFT 15 ml                                    11        49768          Cardiologia
+76596     CEFADROXILO 250MG SUSP                                      16        49768          Cardiologia
+68610     CALCITRIOL 0.25MCG 50 CAP                                   17        49768          Cardiologia
+70950     LIDOCAINA 10% 115ML SPRAY                                   22        49768          Cardiologia
+36208     ENALAPRIL T/30 10MG                                         24        33687          Oftalmologia
+28892     GLIMEPIRIDA 2MG C30                                         18        70789          Pediatria
+53846     CLENBUTEROL .02MG 50T                                       31        70789          Pediatria
+13364     MULTIVITAMINAS Y MINERALES C60                              16        70789          Pediatria
+11592     TERBINAFINA 1% CRA 20 GR                                    9         70789          Pediatria
+67784     LOSARTAN 50MG C/10T                                         34        70789          Pediatria
+12388     PROTEINAS+CREATINA 500 GR 30T                               29        70789          Pediatria
+53846     CLENBUTEROL .02MG 50T                                       6         18262          Urologia
+60086     METAMISOL 500 MG T10                                        13        18262          Urologia
+81960     CEFALEXINA 500MG C/20 CAP                                   31        18262          Urologia
+79996     LANSOPRAZOL 15 MG C/14                                      14        18262          Urologia
+11592     TERBINAFINA 1% CRA 20 GR                                    12        14655          Oncologia
+53846     CLENBUTEROL .02MG 50T                                       29        14655          Oncologia
+73972     VITAMINA E 400 MG C90 CAPS                                  27        80227          Pediatria
+53166     ASTEMIZOL SUSP 200MG                                        9         80227          Pediatria
+36822     CLARITROMICINA 125MG SUSP                                   33        34115          Cardiologia
+60086     METAMISOL 500 MG T10                                        8         80040          Endocrinologia
+68610     CALCITRIOL 0.25MCG 50 CAP                                   33        25448          Endocrinologia
+86158     SENOSIDOS A y B C20                                         26        25448          Endocrinologia
+68610     CALCITRIOL 0.25MCG 50 CAP                                   2         25448          Endocrinologia
+82528     LORATADINA T/10 10MG                                        24        40414          Ginecologia
+86828     FENAZOPIRIDINA 100 MG C/20 TAB                              25        40414          Ginecologia
+68730     MELOXICAM 7.5 MG C/14                                       31        91509          Cardiologia
+76360     DICLOXACILINA 250 MG C20                                    15        91509          Cardiologia
+34080     ELECTROLIT FRESA 500ML                                      15        91509          Cardiologia
+82528     LORATADINA T/10 10MG                                        30        91509          Cardiologia
+22306     NIMESULIDA 25MG 20ML                                        24        91509          Cardiologia
+22232     LEVETIRACETAM                                               18        30557          Neumologia
+42856     FELODIPINO 5 MG 20T                                         5         20189          Endocrinologia
+42856     FELODIPINO 5 MG 20T                                         8         20189          Endocrinologia
+53846     CLENBUTEROL .02MG 50T                                       11        30082          Cardiologia
+70226     CALCIO+VITAMINA D SUSP                                      28        30082          Cardiologia
+28892     GLIMEPIRIDA 2MG C30                                         9         30082          Cardiologia
+30430     PRUEBA DE EMBARAZO                                          35        30082          Cardiologia
+52072     BROMOCRIPTINA 2.5MG C/14TAB                                 25        50718          Pediatria
+80830     COMPLEJO B T30                                              28        50718          Pediatria
+92560     EXALVER FENILEFRINA PED. 30 ML                              8         50718          Pediatria
+86158     SENOSIDOS A y B C20                                         5         52063          Traumatologia
+68860     METFORMINA 850MG T30                                        32        52063          Traumatologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            23        52063          Traumatologia
+28892     GLIMEPIRIDA 2MG C30                                         30        80063          Gastroenterologia
+26920     HIDRALAZINA 20T 10MG                                        23        80063          Gastroenterologia
+53084     MINOCICLINA 100MG 10T                                       12        80063          Gastroenterologia
+36622     TEOFILINA 20 TAB/100 MG                                     6         80063          Gastroenterologia
+38648     PENICILINA V POT 400000U 20T                                11        80063          Gastroenterologia
+17790     DICLOFENACO 100MG 20T                                       18        19777          Oftalmologia
+18672     TINIDAZOL 500MG 8T                                          11        19777          Oftalmologia
+17790     DICLOFENACO 100MG 20T                                       8         19777          Oftalmologia
+61508     DEXTROMETORFANO 300MG JBE 120 ML                            33        19777          Oftalmologia
+60888     CAPTOPRIL 25MG 30T                                          9         19777          Oftalmologia
+39088     NORFLOXACINO T20 400MG                                      14        19777          Oftalmologia
+58252     KETOTIFENO SOL 120ML                                        9         50611          Urologia
+26506     ITRACONAZOL 100 MG C/15                                     6         50611          Urologia
+22232     LEVETIRACETAM                                               2         50611          Urologia
+68730     MELOXICAM 7.5 MG C/14                                       16        15092          Dermatologia
+81960     CEFALEXINA 500MG C/20 CAP                                   6         15092          Dermatologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               29        60184          Traumatologia
+62302     BEZAFIBRATO 200MG C/30TAB                                   16        90798          Traumatologia
+95540     NAPROXENO 500 MG C/10 TAB                                   20        70233          Ginecologia
+86158     SENOSIDOS A y B C20                                         35        89213          Gastroenterologia
+86158     SENOSIDOS A y B C20                                         7         89213          Gastroenterologia
+92628     KETOPROFENO 100MG C15                                       16        89213          Gastroenterologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               18        89213          Gastroenterologia
+58200     FLUCONAZOL 150MG. 1C                                        20        89213          Gastroenterologia
+70950     LIDOCAINA 10% 115ML SPRAY                                   22        89213          Gastroenterologia
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML                              32        89213          Gastroenterologia
+26920     HIDRALAZINA 20T 10MG                                        7         90907          Dermatologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             13        60934          Neumologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   33        60934          Neumologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   26        60934          Neumologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 21        60049          Gastroenterologia
+28892     GLIMEPIRIDA 2MG C30                                         13        60049          Gastroenterologia
+22232     LEVETIRACETAM                                               31        60049          Gastroenterologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               22        60049          Gastroenterologia
+53846     CLENBUTEROL .02MG 50T                                       16        60049          Gastroenterologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   17        70269          Dermatologia
+30796     PROPANOLOL 40 MG C/20 TAB                                   28        70269          Dermatologia
+58200     FLUCONAZOL 150MG. 1C                                        30        53556          Pediatria
+82528     LORATADINA T/10 10MG                                        8         53556          Pediatria
+93578     SUCRALFATO 40 TAB/1G                                        29        53556          Pediatria
+68730     MELOXICAM 7.5 MG C/14                                       22        53556          Pediatria
+70024     METILDOPA 250 MG 30 TAB                                     7         70612          Traumatologia
+22842     AMIKACINA 500MG C/1 AMP                                     18        70612          Traumatologia
+70024     METILDOPA 250 MG 30 TAB                                     20        70612          Traumatologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 17        70612          Traumatologia
+58200     FLUCONAZOL 150MG. 1C                                        8         64405          Oftalmologia
+36208     ENALAPRIL T/30 10MG                                         19        64405          Oftalmologia
+58200     FLUCONAZOL 150MG. 1C                                        18        64405          Oftalmologia
+82528     LORATADINA T/10 10MG                                        31        64405          Oftalmologia
+58200     FLUCONAZOL 150MG. 1C                                        29        64405          Oftalmologia
+36822     CLARITROMICINA 125MG SUSP                                   5         90929          Oftalmologia
+39172     IBUPROFENO 400MG T10                                        21        90929          Oftalmologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               33        70367          Urologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 26        70367          Urologia
+89528     CLORMADINONA 2MG 20T                                        32        70367          Urologia
+14962     HIERRO DEXTRANO AMP4                                        7         70367          Urologia
+70116     LACTULOSA 125ML                                             33        18708          Ginecologia
+11592     TERBINAFINA 1% CRA 20 GR                                    33        18708          Ginecologia
+88266     PREDNISONA 20MG C30 TAB GI                                  21        80138          Geriatria
+30796     PROPANOLOL 40 MG C/20 TAB                                   27        80138          Geriatria
+53846     CLENBUTEROL .02MG 50T                                       31        80138          Geriatria
+26360     VITAMINAS A C Y D 3AMP/3ML ING                              14        80138          Geriatria
+34080     ELECTROLIT FRESA 500ML                                      24        80138          Geriatria
+22842     AMIKACINA 500MG C/1 AMP                                     26        35451          Pediatria
+33390     CORTILONA CRA 30GR                                          10        35451          Pediatria
+70116     LACTULOSA 125ML                                             18        70992          Gastroenterologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               12        70992          Gastroenterologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               16        70992          Gastroenterologia
+67784     LOSARTAN 50MG C/10T                                         26        70992          Gastroenterologia
+53846     CLENBUTEROL .02MG 50T                                       31        70992          Gastroenterologia
+67784     LOSARTAN 50MG C/10T                                         9         70992          Gastroenterologia
+90300     FLUOXETINA 20 MG C/14                                       9         33687          Oftalmologia
+22306     NIMESULIDA 25MG 20ML                                        27        33687          Oftalmologia
+77466     RAMIPRIL 16 TAB/5 MG                                        34        70789          Pediatria
+76238     BEZOCAINA 10GR GEL                                          15        70789          Pediatria
+79996     LANSOPRAZOL 15 MG C/14                                      34        70789          Pediatria
+82528     LORATADINA T/10 10MG                                        11        18262          Urologia
+58252     KETOTIFENO SOL 120ML                                        15        18262          Urologia
+70950     LIDOCAINA 10% 115ML SPRAY                                   7         18262          Urologia
+12388     PROTEINAS+CREATINA 500 GR 30T                               35        18262          Urologia
+86158     SENOSIDOS A y B C20                                         2         18262          Urologia
+73972     VITAMINA E 400 MG C90 CAPS                                  13        14655          Oncologia
+36208     ENALAPRIL T/30 10MG                                         34        14655          Oncologia
+79996     LANSOPRAZOL 15 MG C/14                                      26        14655          Oncologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             16        80227          Pediatria
+36208     ENALAPRIL T/30 10MG                                         26        80227          Pediatria
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             10        80227          Pediatria
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             15        80227          Pediatria
+28892     GLIMEPIRIDA 2MG C30                                         33        80227          Pediatria
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             4         80227          Pediatria
+80830     COMPLEJO B T30                                              33        34115          Cardiologia
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS                               20        34115          Cardiologia
+26360     VITAMINAS A C Y D 3AMP/3ML ING                              20        80040          Endocrinologia
+53084     MINOCICLINA 100MG 10T                                       34        80040          Endocrinologia
+39172     IBUPROFENO 400MG T10                                        10        25448          Endocrinologia
+22232     LEVETIRACETAM                                               26        40414          Ginecologia
+84766     CIPROFLOXACINO SOL.OFT 5MG                                  14        40414          Ginecologia
+22232     LEVETIRACETAM                                               11        40414          Ginecologia
+22232     LEVETIRACETAM                                               27        40414          Ginecologia
+86476     KETOTIFENO C/30                                             27        40414          Ginecologia
+52072     BROMOCRIPTINA 2.5MG C/14TAB                                 27        90562          Dermatologia
+89528     CLORMADINONA 2MG 20T                                        22        90562          Dermatologia
+80830     COMPLEJO B T30                                              9         90562          Dermatologia
+90300     FLUOXETINA 20 MG C/14                                       17        90562          Dermatologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 33        91509          Cardiologia
+77466     RAMIPRIL 16 TAB/5 MG                                        27        30557          Neumologia
+90300     FLUOXETINA 20 MG C/14                                       10        30557          Neumologia
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML                             33        30557          Neumologia
+90300     FLUOXETINA 20 MG C/14                                       22        30557          Neumologia
+49644     HIDROCORTISONA CRA 30GR                                     5         20189          Endocrinologia
+51148     PANTOPRAZOL 40MG C/14                                       11        20189          Endocrinologia
+76596     CEFADROXILO 250MG SUSP                                      14        20189          Endocrinologia
+77466     RAMIPRIL 16 TAB/5 MG                                        18        20189          Endocrinologia
+60888     CAPTOPRIL 25MG 30T                                          23        30082          Cardiologia
+86158     SENOSIDOS A y B C20                                         20        50718          Pediatria
+54692     NAFAZOLINA SOL OFT 15 ml                                    24        80063          Gastroenterologia
+76238     BEZOCAINA 10GR GEL                                          26        80063          Gastroenterologia
+54692     NAFAZOLINA SOL OFT 15 ml                                    34        80063          Gastroenterologia
+30228     METOPROLOL 20T/100                                          29        80063          Gastroenterologia
+18672     TINIDAZOL 500MG 8T                                          30        19777          Oftalmologia
+15098     LISINA CLOHRIDRATO 125MG T10                                24        19777          Oftalmologia
+86158     SENOSIDOS A y B C20                                         35        19777          Oftalmologia
+18672     TINIDAZOL 500MG 8T                                          27        19777          Oftalmologia
+82528     LORATADINA T/10 10MG                                        17        19777          Oftalmologia
+15098     LISINA CLOHRIDRATO 125MG T10                                20        19777          Oftalmologia
+42856     FELODIPINO 5 MG 20T                                         11        40414          Ginecologia
+76238     BEZOCAINA 10GR GEL                                          31        40414          Ginecologia
+81062     PAROXETINA T/10 20MG                                        15        40414          Ginecologia
+36822     CLARITROMICINA 125MG SUSP                                   2         40414          Ginecologia
+91282     LEVONORGESTREL 1.5MG /1 TAB                                 22        90562          Dermatologia
+14962     HIERRO DEXTRANO AMP4                                        21        90562          Dermatologia
+15098     LISINA CLOHRIDRATO 125MG T10                                19        90562          Dermatologia
+14962     HIERRO DEXTRANO AMP4                                        8         90562          Dermatologia
+15098     LISINA CLOHRIDRATO 125MG T10                                34        90562          Dermatologia
