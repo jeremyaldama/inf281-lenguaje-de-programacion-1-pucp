@@ -1,3 +1,0 @@
-practicar mayusculas, slash, guiones
-
-# 
