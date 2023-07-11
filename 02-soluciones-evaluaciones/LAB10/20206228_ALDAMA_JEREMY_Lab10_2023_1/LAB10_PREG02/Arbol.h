@@ -25,7 +25,7 @@ public:
     Arbol(const Arbol& orig);
     virtual ~Arbol();
     void llenarArbol(ifstream&arch);
-    void insertar(class Boleta&);
+    void insertar(const Boleta&);
     void mostrarArbol(ofstream&arch);
     void imprimirLinea(ofstream&arch, char c, int n);
     void cargarEscalas(ifstream&arch);
@@ -34,7 +34,8 @@ public:
 private:
     class Nodo *raiz;
     class Escala lescala[50];
-    void insertarR(class Nodo*&raiz, class Boleta&bol);
+    
+    void insertarR(class Nodo*&raiz, const Boleta&bol);
     void mostrarArbolR(ofstream&arch, class Nodo*raiz);
     void actualizaTotalR(class Nodo*raiz);
 };

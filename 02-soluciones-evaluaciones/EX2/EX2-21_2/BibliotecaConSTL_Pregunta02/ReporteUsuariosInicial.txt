@@ -1,0 +1,28 @@
+17750908  Hernandez Barrios Emilio                     Estudiante     
+26916299  Diaz Antezano Magali Silvana                 Estudiante     
+14268463  Raffo Chung Adria Gloria                     Estudiante     
+37500242  Vasquez Paz Alex Martin                      Estudiante     
+61212473  Castro Suarez Rolando                        Administrativo 
+65071478  Mejia Diaz Blanca Milagros                   Estudiante     
+96056368  Pasquel Quio Surami Janet                    Administrativo 
+99215341  Raffo Arias Surami Annie                     Estudiante     
+33958767  Aquino Toro Valentina Rocio                  Administrativo 
+72832218  Corrales Tsukazan Irma Lourdes               Administrativo 
+63602514  Auris Zimic Javier Daniel                    Administrativo 
+49516360  Delgado Gonzales Guillermo Alfonso           Docente        
+15129661  Wong Martel Madeleine                        Estudiante     
+87804471  Cerna Durand Martin                          Administrativo 
+37751890  Shirakawa Miranda Madeleine                  Docente        
+66152145  Salas Aguero Daniel                          Estudiante     
+33115577  Chumpitaz Iberos Ronal                       Estudiante     
+55917355  Valverde Flores Irma Ydali                   Administrativo 
+77001234  Diaz Correa Irma Virginia                    Docente        
+61039260  Mejia De La Haza Francisco Edgar             Docente        
+54393647  Norabuena Preciado Cinthia                   Administrativo 
+45834351  Velasquez Huayanay Edgard Henry              Administrativo 
+11750801  Shirakawa Ortega Angel                       Estudiante     
+83265244  Pairazaman Alamo Moises Miguel               Docente        
+35030611  Inga Flores Cesar Adolfo                     Estudiante     
+50860318  Prado Vergel Carlos Julian                   Estudiante     
+81082011  Arroyo Gordillo Maria Heli                   Docente        
+92240876  Vega Garcia Janet Rebeca                     Estudiante     

@@ -23,7 +23,7 @@ Boleta::Boleta(const Boleta& orig) {
 Boleta::~Boleta() {
 }
 
-void Boleta::operator=(Boleta&bol) {
+void Boleta::operator=(const Boleta&bol) {
     pboleta = bol.pboleta;
 }
 
@@ -39,7 +39,7 @@ void Boleta::leerAlumno(ifstream&arch) {
     pboleta->lee(arch);
 }
 
-int Boleta::obtenerCodigo() {
+int Boleta::obtenerCodigo() const {
     return pboleta->GetCodigo();
 }
 
@@ -47,7 +47,7 @@ void Boleta::imprime(ofstream& arch) {
     pboleta->imprime(arch);
 }
 
-int Boleta::obtenerEscala() {
+int Boleta::obtenerEscala() const {
     pboleta->GetEscala();
 }
 

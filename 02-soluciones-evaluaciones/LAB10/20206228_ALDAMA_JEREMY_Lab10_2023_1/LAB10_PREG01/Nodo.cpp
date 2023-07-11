@@ -23,6 +23,6 @@ Nodo::Nodo(const Nodo& orig) {
 Nodo::~Nodo() {
 }
 
-int Nodo::compara(class Boleta& bol) {
+bool Nodo::compara(class Boleta& bol) {
     return dboleta.obtenerCodigo() > bol.obtenerCodigo();
 }

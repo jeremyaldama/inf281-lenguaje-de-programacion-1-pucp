@@ -32,11 +32,11 @@ void Arbol::llenarArbol(ifstream& arch) {
     }
 }
 
-void Arbol::insertar(Boleta&bol) {
+void Arbol::insertar(const Boleta&bol) {
     insertarR(raiz, bol);
 }
 
-void Arbol::insertarR(Nodo*& raiz, Boleta& bol) {
+void Arbol::insertarR(Nodo*& raiz, const Boleta& bol) {
     if (raiz == nullptr) {
         raiz = new class Nodo;
         raiz->dboleta = bol;

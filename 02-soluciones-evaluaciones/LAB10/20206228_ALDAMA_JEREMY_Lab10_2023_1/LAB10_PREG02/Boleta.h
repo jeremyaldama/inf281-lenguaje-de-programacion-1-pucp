@@ -23,10 +23,10 @@ public:
     Boleta();
     Boleta(const Boleta& orig);
     virtual ~Boleta();
-    void operator=(class Boleta&);
+    void operator=(const class Boleta&);
     void leerAlumno(ifstream&);
-    int obtenerEscala();
-    int obtenerCodigo();
+    int obtenerEscala() const;
+    int obtenerCodigo() const;
     void actualiza(double precio);
     void imprime(ofstream&arch);
 private:

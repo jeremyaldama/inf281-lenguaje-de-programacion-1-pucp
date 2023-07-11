@@ -1,0 +1,312 @@
+412041      TORTILLAS DE MAIZ 1KG                             15        
+Stock Minimo: 10
+Prioridad: 0
+
+690039      CORAZONES DE OREJONA PZA                          11        
+Stock Minimo: 10
+Prioridad: 0
+
+151641      YOGHURT P BEBER LACTIGURT COCO 250G               10        
+Stock Minimo: 20
+Prioridad: 0
+
+632129      VINAGRE BLANCO CLEMENTE JACQUES 3.8LT             15        
+Stock Minimo: 10
+Prioridad: 0
+
+178943      YOGHURT P BEBER DURAZNO LIGHT YOP 250GR           13        
+Stock Minimo: 10
+Prioridad: 0
+
+330512      YOGHURT LALA LIGHT 240GR                          6         
+Stock Minimo: 20
+Prioridad: 0
+
+365379      YOGHURT FRESA CON GRANOLA CHELSY 240GR            0         
+Stock Minimo: 20
+Prioridad: 0
+
+118050      PAPAYA                                            23        
+Stock Minimo: 10
+Prioridad: 0
+
+365906      AGUACATE REGIONAL KG.1.000 GR                     22        
+Stock Minimo: 15
+Prioridad: 0
+
+285807      YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G          5         
+Stock Minimo: 15
+Prioridad: 0
+
+397718      LECHE LALA SEMI DESLACTOSADA 1LT                  3         
+Stock Minimo: 10
+Prioridad: 0
+
+941699      MAIZ POZOLERO EXTRA 1KGR                          21        
+Stock Minimo: 20
+Prioridad: 0
+
+935218      FRIJOL AMARILLO KG                                0         
+Stock Minimo: 10
+Prioridad: 0
+
+311343      YOGHURT FRESA NESTLE 1KG                          16        
+Stock Minimo: 20
+Prioridad: 0
+
+651034      MANGO EN REBANADAS LA MORENA 800GR                14        
+Stock Minimo: 15
+Prioridad: 0
+
+434681      ELOTE DORADO DEL MONTE 225GR                      11        
+Stock Minimo: 15
+Prioridad: 0
+
+182942      ZAPOTE                                            6         
+Stock Minimo: 10
+Prioridad: 0
+
+992564      LECHUGA ROMANA                                    8         
+Stock Minimo: 10
+Prioridad: 0
+
+674767      CHICHARRON BOTANA CON CHAMOY BOLSA                3         
+Stock Minimo: 20
+Prioridad: 0
+
+485302      YOGHURT LALA FRESA 240GR                          23        
+Stock Minimo: 20
+Prioridad: 0
+
+856894      HARINA MAZATL 5KG                                 30        
+Stock Minimo: 15
+Prioridad: 0
+
+714788      PAPA EN CUBOS DEL FUERTE 12 380GR.                10        
+Stock Minimo: 15
+Prioridad: 0
+
+997564      MANGO ECUATORIANO                                 11        
+Stock Minimo: 10
+Prioridad: 0
+
+785062      CORAZON DE ALCACHOFA SAN MIGUEL                   7         
+Stock Minimo: 20
+Prioridad: 0
+
+283781      FRIJOLES REFRITOS ISADORA 430GR                   9         
+Stock Minimo: 15
+Prioridad: 0
+
+308982      YOGHURT P BEBER FRUGGIS FRESA 150GR               42        
+Stock Minimo: 15
+Prioridad: 0
+
+204890      LECHE YAQUI DESLACTOSADA 1LT                      10        
+Stock Minimo: 10
+Prioridad: 0
+
+580927      TORTILLAS DE HARINA DEL HOGAR 22P. 840GR          6         
+Descuento: 25
+Prioridad: 0
+
+923804      SAL BAJA PACIFIC BOLSA 1KGR                       18        
+Descuento: 25
+Prioridad: 0
+
+423073      POLVO PARA HORNEAR REXAL 15KILOS                  10        
+Descuento: 25
+Prioridad: 0
+
+947176      SALSA DE CHILE HABANERO ROJO 260GR                15        
+Descuento: 25
+Prioridad: 0
+
+455703      PALOMITAS POFETS FLAMIN HOT 28GR                  12        
+Descuento: 30
+Prioridad: 0
+
+900698      VAINILLA MOLINA 500ML                             11        
+Descuento: 25
+Prioridad: 0
+
+696000      MEDIA CREMA NESTLE 1LT                            18        
+Descuento: 30
+Prioridad: 0
+
+790585      SALSA CASERA ENEDELIA 250GR                       5         
+Descuento: 30
+Prioridad: 0
+
+374588      BEBIDA DE SOYA ADES GUANABANA 946ML               18        
+Descuento: 30
+Prioridad: 0
+
+901816      JUGO VALLE FRUT CITRUS 12 250ML                   11        
+Descuento: 30
+Prioridad: 0
+
+261009      CUITLACOCHE MONTEBLANCO 215GR                     12        
+Descuento: 30
+Prioridad: 0
+
+748008      SANDWICH COMBINADA 3 FLORES 150GR                 13        
+Descuento: 30
+Prioridad: 0
+
+536472      SABRITAS CASERAS JALAPENO 42GR                    20        
+Descuento: 30
+Prioridad: 0
+
+979865      GALLETAS MARIAS CUETARA 160GR                     22        
+Descuento: 30
+Prioridad: 0
+
+874884      BEBIDA NARANJA BEBERE 470ML                       17        
+Descuento: 30
+Prioridad: 0
+
+863714      LECHE DE COCO CALAHUA 500ML                       5         
+Descuento: 30
+Prioridad: 0
+
+179485      MOLE SURTIDO CON ESPECIAS 250GR                   11        
+Descuento: 30
+Prioridad: 0
+
+582920      PINGUINOS MARINELA 40GR                           6         
+Descuento: 30
+Prioridad: 0
+
+565169      PASTILLA PEPTO BISMOL                             27        
+Descuento: 25
+Prioridad: 0
+
+620036      SABRITAS ORIGINAL SAL 490GR                       13        
+Descuento: 25
+Prioridad: 0
+
+748899      NARANJA SIN SEMILLA                               23        
+Descuento: 25
+Prioridad: 0
+
+374253      TE DE MANZANILLA NEBO 24 1GR                      18        
+Descuento: 25
+Prioridad: 0
+
+874503      GALLETAS LORS SNACKS MARINELA 75GR                4         
+Descuento: 25
+Prioridad: 0
+
+430669      AJO GRANULADO DE CALIFORNIA KIRKLAND 51.          0         
+Descuento: 25
+Prioridad: 0
+
+778066      CHILES CHIPOTLES LA COSTENA 380GR                 10        
+Descuento: 25
+Prioridad: 0
+
+882099      NESQUIK CHOCOLATE 200GR                           15        
+Descuento: 25
+Prioridad: 0
+
+375507      TE DE MANZANILLA McCORMICK 100 1.2GR              15        
+Descuento: 25
+Prioridad: 0
+
+459032      GELATINA DANY LIMON 125GR                         24        
+Descuento: 40
+Prioridad: 1
+
+422763      GALLETAS SUAVICREMAS FRESA 158GR                  14        
+Descuento: 50
+Prioridad: 1
+
+178097      CROQUETAS PEDIGREE BENEFUL 10.1KG                 12        
+Descuento: 50
+Prioridad: 1
+
+170844      EMPANIZADOR CONTADINA TRADICIONAL 283GR           12        
+Descuento: 50
+Prioridad: 1
+
+511824      FLAN LALA SABOR VAINILLA 100GR                    14        
+Descuento: 50
+Prioridad: 1
+
+415932      SOPA MARUCHAN CAMARON 71GR                        22        
+Descuento: 50
+Prioridad: 1
+
+662083      TAKIS SALSA BRAVA 62GR                            6         
+Descuento: 50
+Prioridad: 1
+
+349098      SALSA HABANERA ROJA GUACAMAYA 150GR               23        
+Descuento: 50
+Prioridad: 1
+
+967922      NESCAFE VAINILLA FRESCA 25GR                      11        
+Descuento: 50
+Prioridad: 1
+
+744237      ALUBIAS ANTIQUA 540GR                             3         
+Descuento: 50
+Prioridad: 1
+
+891590      MIEL DE ABEJA VIRGEN 1KG                          9         
+Descuento: 50
+Prioridad: 1
+
+317404      LICUADO LALA CIRUELA PASA Y NUEZ 240GR            24        
+Descuento: 50
+Prioridad: 1
+
+387889      CONDIMENTO PARA BIRRIA CUCU.                      7         
+Descuento: 50
+Prioridad: 1
+
+390920      AGUA NIAGARA 500ML                                15        
+Descuento: 50
+Prioridad: 1
+
+406688      CHURROMAIS CON LIMON 38GR                         20        
+Descuento: 50
+Prioridad: 1
+
+793026      YOGHURT NATURAL LIGHT LALA 1KG                    30        
+Descuento: 50
+Prioridad: 1
+
+826317      CHAMYTO BIG 114ML                                 0         
+Descuento: 40
+Prioridad: 1
+
+126218      TANJERINA                                         18        
+Descuento: 40
+Prioridad: 1
+
+940876      SAL DE AJO McCORMICK 1.16KG                       8         
+Descuento: 40
+Prioridad: 1
+
+872819      GELATINA DE LECHE VAINILLA DANETTE 100GR          8         
+Descuento: 40
+Prioridad: 1
+
+675770      JARABE DE MAMEY 1.25KG                            10        
+Descuento: 40
+Prioridad: 1
+
+961802      ACHIOTE LA EXTRA 1KG                              13        
+Descuento: 40
+Prioridad: 1
+
+588754      LIMONADA H2O 250ML                                9         
+Descuento: 40
+Prioridad: 1
+
+613623      CHILE PASILLA MULATO LARGO 100GR                  17        
+Descuento: 40
+Prioridad: 1
+

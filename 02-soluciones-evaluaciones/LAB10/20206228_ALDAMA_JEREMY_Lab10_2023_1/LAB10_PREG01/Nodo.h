@@ -21,7 +21,7 @@ public:
     Nodo();
     Nodo(const Nodo& orig);
     virtual ~Nodo();
-    int compara(class Boleta &bol);
+    bool compara(class Boleta &bol);
     friend class Arbol;
 private:
     class Boleta dboleta;
