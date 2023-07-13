@@ -46,8 +46,11 @@ void Lista::insertar(const Alumno_Curso& alu) {
     nuevo = new Nodo;
     nuevo->alumno = alu;
     // Insertamos ordenado por nombre de alumno
+    char nom1[100], nom2[100];
     while (p) {
-        if (p->comparar(*nuevo)) break;
+        p->alumno.obtenerNombre(nom1);
+        nuevo->alumno.obtenerNombre(nom2);
+        if (strcmp(nom1, nom2) > 0) break;
         ant = p;
         p = p->sig;
     }
