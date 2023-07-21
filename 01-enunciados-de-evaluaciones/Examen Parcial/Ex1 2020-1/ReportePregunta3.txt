@@ -1,0 +1,913 @@
+                                 CARGA HORARIA DE PROFESORES
+Codigo: 20065927       Nombre: Acuna Ayllon Blanca Luz
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Concentracion de Minerales              MIN269         Ingenieria Minas
+      Horario: H0990
+     1) Jueves    19:44     22:39
+     2) Martes    16:04     19:00
+     Horas dictadas: 05:51
+     Matriculados: 16
+
+ 2)  Motores de Combustion                   MEC299         Ingenieria Mecanica
+      Horario: H0188
+     1) Sabado    18:41     20:05
+     Horas dictadas: 01:24
+     Matriculados: 40
+
+ 3)  Microelectronica                        IEE313         Ingenieria Electronica
+      Horario: H0987
+     1) Miercoles 17:28     19:36
+     2) Domingo   19:32     21:02
+     Horas dictadas: 03:38
+     Matriculados: 38
+
+ 4)  Ap. de Cs. de la Comp.                  INF265         Ingenieria Informatica
+      Horario: H0363
+     1) Martes    18:48     21:01
+     2) Sabado    18:53     20:33
+     3) Miercoles 09:04     10:06
+     Horas dictadas: 04:55
+     Matriculados: 24
+
+ 5)  Estructuras de Acero                    CIV308         Ingenieria Civil
+      Horario: H0636
+     1) Viernes   11:25     12:38
+     Horas dictadas: 01:13
+     Matriculados: 51
+
+ 6)  Plan de Negocios                        IND350         Ingenieria Industrial
+      Horario: H0982
+     1) Viernes   15:58     17:30
+     2) Jueves    12:43     14:27
+     3) Martes    08:17     10:13
+     4) Martes    08:32     10:27
+     Horas dictadas: 07:07
+     Matriculados: 25
+
+ 7)  Ap. de Cs. de la Comp.                  INF265         Ingenieria Informatica
+      Horario: H0778
+     1) Domingo   15:00     17:52
+     2) Viernes   17:53     19:39
+     Horas dictadas: 04:38
+     Matriculados: 16
+
+
+Codigo: 20156713       Nombre: Urbina Antezano Valentina Paula
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Proceso de  Software 1                  INF639         Ingenieria Informatica
+      Horario: H0332
+     1) Jueves    16:22     17:38
+     2) Sabado    09:44     12:10
+     3) Sabado    15:09     15:48
+     Horas dictadas: 04:21
+     Matriculados: 20
+
+ 2)  Perforacion y Voladura                  MIN260         Ingenieria Minas
+      Horario: H0865
+     1) Viernes   18:22     19:30
+     2) Domingo   08:28     10:15
+     3) Domingo   08:27     11:16
+     Horas dictadas: 05:44
+     Matriculados: 56
+
+ 3)  Electroacustica                         FIS366         Fisica
+      Horario: H0796
+     1) Sabado    14:56     16:23
+     Horas dictadas: 01:27
+     Matriculados: 25
+
+
+Codigo: 20143595       Nombre: Gonzales Aguirre Emilio Emigdio
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Proceso de  Software 1                  INF639         Ingenieria Informatica
+      Horario: H0665
+     1) Domingo   19:11     20:21
+     2) Miercoles 11:46     12:22
+     Horas dictadas: 01:46
+     Matriculados: 44
+
+ 2)  Estructuras de Acero                    CIV308         Ingenieria Civil
+      Horario: H0753
+     1) Jueves    08:19     10:54
+     2) Sabado    15:14     16:50
+     3) Martes    18:54     19:41
+     Horas dictadas: 04:58
+     Matriculados: 53
+
+ 3)  Termodinamica 1                         MEC206         Ingenieria Mecanica
+      Horario: H0419
+     1) Jueves    08:14     09:35
+     2) Domingo   10:44     13:14
+     3) Viernes   11:28     13:17
+     4) Viernes   14:09     15:19
+     Horas dictadas: 06:50
+     Matriculados: 40
+
+ 4)  Topografia Minera                       MIN227         Ingenieria Minas
+      Horario: H0543
+     1) Sabado    16:50     18:58
+     Horas dictadas: 02:08
+     Matriculados: 43
+
+ 5)  Ap. de Cs. de la Comp.                  INF265         Ingenieria Informatica
+      Horario: H0167
+     1) Sabado    13:51     15:45
+     2) Sabado    19:57     22:27
+     3) Jueves    13:34     14:06
+     4) Sabado    14:16     16:42
+     Horas dictadas: 07:22
+     Matriculados: 31
+
+ 6)  Albanileria Estructural                 CIV364         Ingenieria Civil
+      Horario: H0453
+     1) Jueves    19:13     20:45
+     2) Domingo   16:47     19:37
+     3) Jueves    19:42     22:20
+     4) Sabado    09:42     11:41
+     Horas dictadas: 08:59
+     Matriculados: 15
+
+ 7)  Dibujo Electrotecnico                   IEE213         Ingenieria Electronica
+      Horario: H0964
+     1) Martes    13:42     15:43
+     2) Martes    16:28     17:55
+     Horas dictadas: 03:28
+     Matriculados: 56
+
+ 8)  Electroacustica                         FIS366         Fisica
+      Horario: H0717
+     1) Martes    09:44     11:49
+     2) Jueves    11:48     12:27
+     Horas dictadas: 02:44
+     Matriculados: 16
+
+
+Codigo: 20085379       Nombre: Mori Suarez Edilberto Jesus
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Instalaciones de Edif.                  CIV283         Ingenieria Civil
+      Horario: H0636
+     1) Martes    10:17     11:47
+     2) Domingo   11:05     11:58
+     3) Martes    10:45     13:42
+     Horas dictadas: 05:20
+     Matriculados: 36
+
+ 2)  Electroacustica                         FIS366         Fisica
+      Horario: H0267
+     1) Jueves    18:19     21:16
+     2) Domingo   12:00     12:58
+     3) Domingo   10:48     13:29
+     4) Martes    15:16     17:21
+     Horas dictadas: 08:41
+     Matriculados: 19
+
+ 3)  Quimica Inorganica 2                    QUI205         Ingenieria Quimica
+      Horario: H0306
+     1) Domingo   14:13     15:47
+     2) Sabado    11:40     12:39
+     3) Martes    15:57     16:41
+     Horas dictadas: 03:17
+     Matriculados: 41
+
+ 4)  Ingenieria de Software                  INF245         Ingenieria Informatica
+      Horario: H0494
+     1) Viernes   09:28     12:12
+     Horas dictadas: 02:44
+     Matriculados: 38
+
+ 5)  Mecanica de Rocas                       MIN266         Ingenieria Minas
+      Horario: H0750
+     1) Miercoles 12:14     14:49
+     2) Martes    13:31     14:50
+     3) Sabado    18:54     21:48
+     Horas dictadas: 06:48
+     Matriculados: 41
+
+
+Codigo: 20079075       Nombre: Vargas Guevara Humberto Alberto
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Ecuaciones Diferenciales                MAT218         Matematicas
+      Horario: H0803
+     1) Martes    17:04     19:20
+     2) Viernes   10:39     11:21
+     3) Domingo   12:19     12:53
+     Horas dictadas: 03:32
+     Matriculados: 15
+
+ 2)  Sistemas Operativos                     INF239         Ingenieria Informatica
+      Horario: H0964
+     1) Domingo   18:18     20:59
+     2) Martes    15:57     18:48
+     3) Jueves    14:12     15:24
+     4) Viernes   14:58     15:55
+     Horas dictadas: 07:41
+     Matriculados: 34
+
+ 3)  Ap. de Cs. de la Comp.                  INF265         Ingenieria Informatica
+      Horario: H0296
+     1) Martes    15:51     16:49
+     2) Viernes   09:18     10:47
+     Horas dictadas: 02:27
+     Matriculados: 21
+
+ 4)  Automatizacion Industrial               IND221         Ingenieria Industrial
+      Horario: H0116
+     1) Sabado    12:28     13:49
+     2) Martes    14:50     16:13
+     Horas dictadas: 02:44
+     Matriculados: 21
+
+ 5)  Electroacustica                         FIS366         Fisica
+      Horario: H0194
+     1) Jueves    19:37     22:06
+     2) Jueves    18:00     19:26
+     3) Jueves    14:01     16:09
+     4) Domingo   18:31     21:23
+     Horas dictadas: 08:55
+     Matriculados: 40
+
+ 6)  Base de Datos 2                         INF630         Ingenieria Informatica
+      Horario: H0182
+     1) Viernes   16:21     17:12
+     2) Martes    14:06     16:04
+     Horas dictadas: 02:49
+     Matriculados: 57
+
+ 7)  Base de Datos 2                         INF630         Ingenieria Informatica
+      Horario: H0818
+     1) Viernes   13:56     16:18
+     2) Sabado    17:45     20:07
+     Horas dictadas: 04:44
+     Matriculados: 29
+
+ 8)  Microelectronica                        QUI207         Ingenieria Electronica
+      Horario: H0995
+     1) Domingo   19:07     21:18
+     2) Miercoles 09:03     09:45
+     Horas dictadas: 02:53
+     Matriculados: 29
+
+ 9)  Ingenieria de Software                  INF245         Ingenieria Informatica
+      Horario: H0523
+     1) Miercoles 10:20     12:29
+     2) Martes    19:05     20:38
+     3) Domingo   11:37     13:45
+     Horas dictadas: 05:50
+     Matriculados: 46
+
+
+Codigo: 20142807       Nombre: Aranda Minaya Janet Cinthia
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Analisis Estructural 1                  CIV224         Ingenieria Civil
+      Horario: H0559
+     1) Miercoles 12:26     15:03
+     2) Jueves    11:19     13:41
+     Horas dictadas: 04:59
+     Matriculados: 47
+
+ 2)  Dibujo Electrotecnico                   IEE213         Ingenieria Electronica
+      Horario: H0367
+     1) Domingo   15:25     17:33
+     2) Sabado    09:54     11:18
+     3) Martes    11:23     12:55
+     Horas dictadas: 05:04
+     Matriculados: 53
+
+ 3)  Corrosion                               MEC346         Ingenieria Mecanica
+      Horario: H0145
+     1) Sabado    12:01     13:54
+     2) Miercoles 14:40     16:39
+     Horas dictadas: 03:52
+     Matriculados: 21
+
+ 4)  Acustica                                FIS335         Fisica
+      Horario: H0542
+     1) Domingo   17:46     20:15
+     2) Sabado    16:07     18:46
+     Horas dictadas: 05:08
+     Matriculados: 43
+
+
+Codigo: 20135792       Nombre: Jauregui Bravo Luz Sofia
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Dibujo Electrotecnico                   IEE213         Ingenieria Electronica
+      Horario: H0567
+     1) Miercoles 16:03     16:39
+     Horas dictadas: 00:36
+     Matriculados: 23
+
+ 2)  Albanileria Estructural                 CIV364         Ingenieria Civil
+      Horario: H0194
+     1) Sabado    15:04     17:43
+     2) Viernes   18:44     20:52
+     3) Miercoles 17:53     19:40
+     4) Miercoles 11:14     11:44
+     Horas dictadas: 07:04
+     Matriculados: 50
+
+
+Codigo: 20042194       Nombre: Preciado Pinto Surami Heli
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Microelectronica                        IEE313         Ingenieria Electronica
+      Horario: H0761
+     1) Viernes   15:45     16:21
+     2) Martes    16:56     19:18
+     3) Domingo   13:04     15:05
+     Horas dictadas: 04:59
+     Matriculados: 43
+
+ 2)  Mantenimiento Industrial                IND362         Ingenieria Industrial
+      Horario: H0409
+     1) Domingo   19:32     21:37
+     2) Miercoles 18:16     20:38
+     Horas dictadas: 04:27
+     Matriculados: 47
+
+ 3)  Gestion de Rec. Humanos                 IND361         Ingenieria Industrial
+      Horario: H0561
+     1) Jueves    09:54     10:41
+     Horas dictadas: 00:47
+     Matriculados: 22
+
+ 4)  Circuitos Electricos 2                  IEE212         Ingenieria Electronica
+      Horario: H0422
+     1) Domingo   10:48     12:41
+     2) Sabado    13:52     16:38
+     Horas dictadas: 04:39
+     Matriculados: 45
+
+ 5)  Circuitos Analogicos                    IEE203         Ingenieria Electronica
+      Horario: H0837
+     1) Sabado    10:39     13:30
+     2) Miercoles 19:16     19:49
+     Horas dictadas: 03:24
+     Matriculados: 41
+
+
+Codigo: 20046083       Nombre: Cabello Lam Alfonso Waldemar
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Motores de Combustion                   MEC299         Ingenieria Mecanica
+      Horario: H0810
+     1) Domingo   15:39     18:08
+     2) Miercoles 14:48     16:54
+     Horas dictadas: 04:35
+     Matriculados: 27
+
+ 2)  Quimica Inorganica 1                    QUI204         Ingenieria Quimica
+      Horario: H0984
+     1) Jueves    19:10     20:18
+     2) Miercoles 12:55     14:58
+     Horas dictadas: 03:11
+     Matriculados: 35
+
+ 3)  Topografia Minera                       MIN227         Ingenieria Minas
+      Horario: H0565
+     1) Sabado    19:11     21:30
+     Horas dictadas: 02:19
+     Matriculados: 52
+
+ 4)  Circuitos Analogicos                    IEE203         Ingenieria Electronica
+      Horario: H0954
+     1) Viernes   13:18     16:01
+     2) Viernes   19:47     22:02
+     3) Miercoles 10:36     12:55
+     Horas dictadas: 07:17
+     Matriculados: 60
+
+ 5)  Termodinamica 1                         MEC206         Ingenieria Mecanica
+      Horario: H0527
+     1) Jueves    18:42     19:36
+     Horas dictadas: 00:54
+     Matriculados: 46
+
+
+Codigo: 20081057       Nombre: Garcia Astete Victor Edgar
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Concentracion de Minerales              MIN269         Ingenieria Minas
+      Horario: H0673
+     1) Martes    15:28     16:42
+     2) Viernes   10:23     11:02
+     3) Jueves    13:03     15:44
+     Horas dictadas: 04:34
+     Matriculados: 51
+
+
+Codigo: 20107278       Nombre: Mercado Caro Ofelia Carmen
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Sistemas Operativos                     INF239         Ingenieria Informatica
+      Horario: H0426
+     1) Viernes   08:14     10:34
+     2) Miercoles 09:51     10:53
+     Horas dictadas: 03:22
+     Matriculados: 40
+
+
+Codigo: 20158245       Nombre: Arca Aquino Delicia
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Mecanica de Rocas                       MIN266         Ingenieria Minas
+      Horario: H0591
+     1) Miercoles 12:13     14:03
+     2) Miercoles 09:10     11:15
+     3) Viernes   16:55     18:42
+     Horas dictadas: 05:42
+     Matriculados: 21
+
+
+Codigo: 20125340       Nombre: Mejia Zegarra Giovana
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Ingenieria de Combustibles              MEC348         Ingenieria Mecanica
+      Horario: H0467
+     1) Miercoles 19:28     21:05
+     2) Domingo   10:44     12:43
+     3) Jueves    09:15     12:06
+     Horas dictadas: 06:27
+     Matriculados: 17
+
+ 2)  Perforacion y Voladura                  MIN260         Ingenieria Minas
+      Horario: H0320
+     1) Viernes   11:56     13:36
+     2) Martes    14:38     16:25
+     3) Viernes   14:35     15:21
+     Horas dictadas: 04:13
+     Matriculados: 37
+
+ 3)  Topologia                               MAT253         Matematicas
+      Horario: H0476
+     1) Viernes   10:11     10:50
+     2) Sabado    16:11     17:09
+     Horas dictadas: 01:37
+     Matriculados: 52
+
+ 4)  Proceso de  Software 1                  INF639         Ingenieria Informatica
+      Horario: H0834
+     1) Domingo   15:47     17:25
+     Horas dictadas: 01:38
+     Matriculados: 39
+
+ 5)  Quimica Inorganica 1                    QUI204         Ingenieria Quimica
+      Horario: H0265
+     1) Viernes   10:06     10:48
+     Horas dictadas: 00:42
+     Matriculados: 53
+
+ 6)  Plan de Negocios                        IND350         Ingenieria Industrial
+      Horario: H0650
+     1) Sabado    14:50     17:41
+     Horas dictadas: 02:51
+     Matriculados: 51
+
+ 7)  Ingenieria de Plantas                   IND213         Ingenieria Industrial
+      Horario: H0243
+     1) Sabado    09:40     11:53
+     2) Viernes   08:32     10:13
+     Horas dictadas: 03:54
+     Matriculados: 44
+
+ 8)  Plan de Negocios                        IND350         Ingenieria Industrial
+      Horario: H0116
+     1) Miercoles 18:57     19:45
+     2) Viernes   16:51     18:27
+     Horas dictadas: 02:24
+     Matriculados: 47
+
+
+Codigo: 20080607       Nombre: Zarate Acuna Milena Cinthia
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Concreto Armado 2                       CIV307         Ingenieria Civil
+      Horario: H0692
+     1) Viernes   13:42     15:29
+     2) Martes    13:22     14:27
+     3) Viernes   10:16     11:29
+     Horas dictadas: 04:05
+     Matriculados: 36
+
+ 2)  Ecuaciones Diferenciales                MAT218         Matematicas
+      Horario: H0992
+     1) Miercoles 13:41     16:01
+     2) Jueves    18:13     19:19
+     3) Jueves    14:05     16:29
+     4) Domingo   10:43     13:41
+     Horas dictadas: 08:48
+     Matriculados: 55
+
+ 3)  Topografia Minera                       MIN227         Ingenieria Minas
+      Horario: H0786
+     1) Miercoles 15:23     16:40
+     2) Martes    18:23     20:02
+     3) Jueves    14:42     16:02
+     Horas dictadas: 04:16
+     Matriculados: 24
+
+
+Codigo: 20065382       Nombre: Zimic Salas Francisco
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Mantenimiento Industrial                IND362         Ingenieria Industrial
+      Horario: H0381
+     1) Miercoles 13:43     16:04
+     Horas dictadas: 02:21
+     Matriculados: 52
+
+ 2)  Circuitos Electricos 2                  IEE212         Ingenieria Electronica
+      Horario: H0883
+     1) Domingo   13:37     14:25
+     Horas dictadas: 00:48
+     Matriculados: 38
+
+ 3)  Mecanica Cuantica 1                     FIS308         Fisica
+      Horario: H0885
+     1) Miercoles 18:05     20:38
+     2) Jueves    11:53     13:55
+     3) Martes    17:53     19:26
+     Horas dictadas: 06:08
+     Matriculados: 60
+
+ 4)  Acustica                                FIS335         Fisica
+      Horario: H0951
+     1) Domingo   14:04     16:55
+     2) Miercoles 10:20     11:02
+     Horas dictadas: 03:33
+     Matriculados: 52
+
+
+Codigo: 20043619       Nombre: Landeo Estrada Miguel Alex
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Concreto Armado 2                       CIV307         Ingenieria Civil
+      Horario: H0181
+     1) Viernes   10:34     12:13
+     2) Martes    19:32     20:42
+     3) Jueves    12:59     13:46
+     Horas dictadas: 03:36
+     Matriculados: 17
+
+ 2)  Sistemas de Informacion 1               INF248         Ingenieria Informatica
+      Horario: H0965
+     1) Martes    13:01     15:12
+     2) Sabado    11:06     12:04
+     3) Miercoles 10:58     12:43
+     Horas dictadas: 04:54
+     Matriculados: 25
+
+ 3)  Microelectronica                        IEE313         Ingenieria Electronica
+      Horario: H0990
+     1) Miercoles 08:00     08:47
+     2) Domingo   16:13     17:10
+     Horas dictadas: 01:44
+     Matriculados: 30
+
+ 4)  Concentracion de Minerales              MIN269         Ingenieria Minas
+      Horario: H0311
+     1) Sabado    13:48     16:26
+     Horas dictadas: 02:38
+     Matriculados: 34
+
+
+Codigo: 20075062       Nombre: Arca Leiva Delicia Rosa
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Lenguaje de Programacion 1              INF281         Ingenieria Informatica
+      Horario: H0275
+     1) Miercoles 14:28     15:07
+     2) Martes    13:53     14:42
+     3) Jueves    17:26     18:31
+     4) Jueves    13:22     15:35
+     Horas dictadas: 04:46
+     Matriculados: 56
+
+ 2)  Ecuaciones Diferenciales                MAT218         Matematicas
+      Horario: H0195
+     1) Sabado    14:37     17:02
+     2) Domingo   13:55     15:19
+     3) Sabado    13:12     14:18
+     Horas dictadas: 04:55
+     Matriculados: 51
+
+
+Codigo: 20127835       Nombre: Ortiz Guevara Yliana Flor
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Analisis Estructural 1                  CIV224         Ingenieria Civil
+      Horario: H0539
+     1) Viernes   10:27     11:49
+     Horas dictadas: 01:22
+     Matriculados: 58
+
+ 2)  Sistemas de Informacion 1               INF248         Ingenieria Informatica
+      Horario: H0982
+     1) Jueves    14:07     15:42
+     2) Sabado    12:43     14:07
+     3) Martes    18:33     19:09
+     Horas dictadas: 03:35
+     Matriculados: 45
+
+ 3)  Automatizacion Industrial               IND221         Ingenieria Industrial
+      Horario: H0327
+     1) Martes    19:33     20:56
+     Horas dictadas: 01:23
+     Matriculados: 20
+
+ 4)  Microelectronica                        IEE313         Ingenieria Electronica
+      Horario: H0499
+     1) Martes    09:34     10:59
+     2) Sabado    16:55     18:58
+     3) Sabado    18:32     20:04
+     Horas dictadas: 05:00
+     Matriculados: 28
+
+ 5)  Topografia Minera                       MIN227         Ingenieria Minas
+      Horario: H0344
+     1) Martes    13:50     16:09
+     Horas dictadas: 02:19
+     Matriculados: 59
+
+
+Codigo: 20075260       Nombre: Ayala Zevallos Johan Enrique
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Circuitos Electricos 2                  IEE212         Ingenieria Electronica
+      Horario: H0143
+     1) Viernes   15:43     16:41
+     Horas dictadas: 00:58
+     Matriculados: 16
+
+
+Codigo: 20072765       Nombre: Castillo Chung Felicita Erika
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Topologia                               MAT253         Matematicas
+      Horario: H0148
+     1) Sabado    09:26     12:01
+     2) Domingo   11:25     13:41
+     3) Sabado    11:22     12:55
+     4) Domingo   13:36     15:12
+     Horas dictadas: 08:00
+     Matriculados: 29
+
+ 2)  Automatizacion Industrial               IND221         Ingenieria Industrial
+      Horario: H0734
+     1) Jueves    16:19     19:15
+     Horas dictadas: 02:56
+     Matriculados: 47
+
+
+Codigo: 20069086       Nombre: Shirakawa Saona Victoria Milagros
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Corrosion                               MEC346         Ingenieria Mecanica
+      Horario: H0582
+     1) Martes    08:04     09:02
+     2) Jueves    09:02     09:41
+     Horas dictadas: 01:37
+     Matriculados: 40
+
+ 2)  Topologia                               MAT253         Matematicas
+      Horario: H0737
+     1) Jueves    14:26     15:04
+     2) Domingo   12:10     13:42
+     3) Domingo   17:33     19:31
+     Horas dictadas: 04:08
+     Matriculados: 27
+
+ 3)  Ingenieria de Combustibles              MEC348         Ingenieria Mecanica
+      Horario: H0444
+     1) Martes    11:38     14:25
+     Horas dictadas: 02:47
+     Matriculados: 54
+
+
+Codigo: 20054935       Nombre: Martel Mercado Teresa Teresa
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Estructuras de Acero                    CIV308         Ingenieria Civil
+      Horario: H0660
+     1) Viernes   13:13     15:35
+     Horas dictadas: 02:22
+     Matriculados: 58
+
+ 2)  Puentes                                 CIV313         Ingenieria Civil
+      Horario: H0612
+     1) Domingo   19:19     21:13
+     2) Martes    09:52     11:30
+     3) Martes    13:12     15:35
+     Horas dictadas: 05:55
+     Matriculados: 35
+
+ 3)  Corrosion                               MEC346         Ingenieria Mecanica
+      Horario: H0728
+     1) Domingo   15:05     18:03
+     Horas dictadas: 02:58
+     Matriculados: 52
+
+ 4)  Base de Datos 2                         INF630         Ingenieria Informatica
+      Horario: H0255
+     1) Jueves    12:03     13:55
+     2) Miercoles 19:51     22:24
+     Horas dictadas: 04:25
+     Matriculados: 15
+
+ 5)  Circuitos Analogicos                    IEE203         Ingenieria Electronica
+      Horario: H0639
+     1) Martes    15:51     16:50
+     2) Viernes   12:00     14:32
+     3) Domingo   19:31     22:17
+     Horas dictadas: 06:17
+     Matriculados: 46
+
+ 6)  Lenguaje de Programacion 1              INF281         Ingenieria Informatica
+      Horario: H0996
+     1) Miercoles 11:23     12:57
+     2) Miercoles 19:00     19:30
+     3) Viernes   10:30     12:05
+     Horas dictadas: 03:39
+     Matriculados: 19
+
+ 7)  Quimica Inorganica 1                    QUI204         Ingenieria Quimica
+      Horario: H0332
+     1) Martes    19:45     21:31
+     2) Jueves    12:46     13:40
+     3) Sabado    11:01     12:44
+     Horas dictadas: 04:23
+     Matriculados: 41
+
+
+Codigo: 20043496       Nombre: Garcia Inga Marina Natalia
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Quimica Inorganica 1                    QUI204         Ingenieria Quimica
+      Horario: H0783
+     1) Viernes   13:42     16:36
+     2) Domingo   08:37     10:51
+     Horas dictadas: 05:08
+     Matriculados: 41
+
+ 2)  Instalaciones de Edif.                  CIV283         Ingenieria Civil
+      Horario: H0405
+     1) Jueves    12:14     13:49
+     2) Jueves    09:14     11:57
+     3) Sabado    11:00     12:23
+     Horas dictadas: 05:41
+     Matriculados: 43
+
+ 3)  Acustica                                FIS335         Fisica
+      Horario: H0469
+     1) Sabado    12:04     13:45
+     2) Martes    19:58     22:42
+     Horas dictadas: 04:25
+     Matriculados: 19
+
+ 4)  Puentes                                 CIV313         Ingenieria Civil
+      Horario: H0315
+     1) Sabado    16:37     17:56
+     2) Martes    10:02     12:44
+     3) Miercoles 15:52     17:53
+     Horas dictadas: 06:02
+     Matriculados: 32
+
+ 5)  Geometria                               MAT251         Matematicas
+      Horario: H0291
+     1) Miercoles 16:34     17:45
+     2) Miercoles 19:45     20:29
+     3) Domingo   18:18     19:17
+     Horas dictadas: 02:54
+     Matriculados: 42
+
+ 6)  Sistemas Operativos                     INF239         Ingenieria Informatica
+      Horario: H0601
+     1) Domingo   13:09     16:04
+     2) Sabado    08:28     10:08
+     3) Miercoles 15:00     15:58
+     Horas dictadas: 05:33
+     Matriculados: 30
+
+ 7)  Geometria                               MAT251         Matematicas
+      Horario: H0165
+     1) Domingo   08:01     10:27
+     2) Domingo   12:16     13:19
+     3) Jueves    17:50     20:29
+     4) Sabado    15:49     16:35
+     Horas dictadas: 06:54
+     Matriculados: 55
+
+ 8)  Motores de Combustion                   MEC299         Ingenieria Mecanica
+      Horario: H0568
+     1) Domingo   15:25     17:40
+     Horas dictadas: 02:15
+     Matriculados: 41
+
+ 9)  Puentes                                 CIV313         Ingenieria Civil
+      Horario: H0343
+     1) Jueves    10:04     11:59
+     Horas dictadas: 01:55
+     Matriculados: 18
+
+10)  Perforacion y Voladura                  MIN260         Ingenieria Minas
+      Horario: H0479
+     1) Domingo   11:48     13:17
+     2) Miercoles 10:46     13:28
+     3) Martes    14:33     16:12
+     Horas dictadas: 05:50
+     Matriculados: 53
+
+11)  Proceso de  Software 1                  INF639         Ingenieria Informatica
+      Horario: H0236
+     1) Domingo   17:11     17:50
+     2) Miercoles 16:52     18:52
+     3) Martes    10:33     11:58
+     Horas dictadas: 04:04
+     Matriculados: 49
+
+
+Codigo: 20155258       Nombre: Yep Zavaleta Rosario Maribel
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Automatizacion Industrial               IND221         Ingenieria Industrial
+      Horario: H0737
+     1) Domingo   08:44     09:37
+     2) Jueves    09:34     11:16
+     3) Miercoles 10:12     11:04
+     4) Martes    13:24     14:20
+     Horas dictadas: 04:23
+     Matriculados: 15
+
+ 2)  Topologia                               MAT253         Matematicas
+      Horario: H0278
+     1) Martes    11:52     14:17
+     2) Domingo   09:06     12:03
+     3) Jueves    19:27     20:59
+     4) Jueves    11:39     13:51
+     Horas dictadas: 09:06
+     Matriculados: 51
+
+ 3)  Mecanica de Rocas                       MIN266         Ingenieria Minas
+      Horario: H0691
+     1) Martes    18:02     20:07
+     2) Martes    15:31     18:29
+     3) Miercoles 12:57     15:38
+     4) Martes    13:53     14:49
+     Horas dictadas: 08:40
+     Matriculados: 15
+
+ 4)  Ecuaciones Diferenciales                MAT218         Matematicas
+      Horario: H0908
+     1) Viernes   14:14     15:53
+     Horas dictadas: 01:39
+     Matriculados: 21
+
+ 5)  Termodinamica 1                         MEC206         Ingenieria Mecanica
+      Horario: H0492
+     1) Jueves    15:50     16:42
+     2) Domingo   16:58     19:34
+     3) Martes    08:35     11:12
+     Horas dictadas: 06:05
+     Matriculados: 37
+
+ 6)  Geometria                               MAT251         Matematicas
+      Horario: H0916
+     1) Viernes   17:30     18:26
+     2) Miercoles 17:27     18:35
+     Horas dictadas: 02:04
+     Matriculados: 15
+
+
+Codigo: 20120085       Nombre: Munoz Vergel Edgar
+Horarios asignados:
+No.     Curso                                Codigo          Especialidad
+ 1)  Sistemas de Informacion 1               INF248         Ingenieria Informatica
+      Horario: H0228
+     1) Martes    15:16     17:35
+     2) Martes    18:44     20:19
+     3) Miercoles 09:47     10:33
+     Horas dictadas: 04:40
+     Matriculados: 37
+
+ 2)  Motores de Combustion                   MEC299         Ingenieria Mecanica
+      Horario: H0223
+     1) Domingo   17:52     20:24
+     2) Martes    16:53     19:41
+     3) Viernes   18:34     19:42
+     4) Miercoles 11:12     13:43
+     Horas dictadas: 08:59
+     Matriculados: 36
+
+ 3)  Plan de Negocios                        IND350         Ingenieria Industrial
+      Horario: H0624
+     1) Jueves    19:20     20:53
+     Horas dictadas: 01:33
+     Matriculados: 32
+
+

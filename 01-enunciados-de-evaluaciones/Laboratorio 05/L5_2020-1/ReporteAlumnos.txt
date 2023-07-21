@@ -1,0 +1,29 @@
+    CODIGO              NOMBRE                         CANT. CRED      CANT. CRED. AP    NUM. CURSOS   SUMA POND. DE NOTAS
+========================================================================================================================
+  20160658     Arca/Amezquita/Edric-Ronald                0.00             0.00                0             0.00
+  20119778     Morales/Valverde/Ines-Martha               0.00             0.00                0             0.00
+      5258     Gavidia/Mendoza/Ronald-Johnny              0.00             0.00                0             0.00
+  20150564     Auris/Zimic/Javier-Daniel                  0.00             0.00                0             0.00
+  20080667     Lozada/Yino/Martha                         0.00             0.00                0             0.00
+  20127352     Justino/Cruz/Williams                      0.00             0.00                0             0.00
+      5395     Alamo/Pairazaman/Miguel-Roberto            0.00             0.00                0             0.00
+  20120476     Henriquez/Espino/Beatriz                   0.00             0.00                0             0.00
+  20160119     Paredes/Patino/Christian                   0.00             0.00                0             0.00
+  20109738     Caro/Polo/Sandro                           0.00             0.00                0             0.00
+  20003541     Cabrera/Canales/Guillermo-Edric            0.00             0.00                0             0.00
+      4450     Vega/Munoz/Gonzalo                         0.00             0.00                0             0.00
+      7613     Cortez/Segura/Carmela-Ines                 0.00             0.00                0             0.00
+  20170596     Portugal/Benavente/Johana-Gloria           0.00             0.00                0             0.00
+      9442     Florian/Morales/Ydali                      0.00             0.00                0             0.00
+      2075     Moya/Aranda/Johnny                         0.00             0.00                0             0.00
+  20083333     Laura/Wong/Melvin-Henrry                   0.00             0.00                0             0.00
+      6702     Calixto/Tomasiche/Monica-Doris             0.00             0.00                0             0.00
+      1994     Ruiz/Gordillo/Carola-Erika                 0.00             0.00                0             0.00
+  20097877     Coronel/Chumpitaz/Heli                     0.00             0.00                0             0.00
+      8528     Zarate/Del_Pozo/Humberto-Antonio           0.00             0.00                0             0.00
+  20164217     Palomares/Vera/Henrry-Humberto             0.00             0.00                0             0.00
+      6553     Coronado/Figueroa/Johan                    0.00             0.00                0             0.00
+      1346     Hijar/Pairazaman/Jenny-Delicia             0.00             0.00                0             0.00
+  20110165     Landeo/Sueldo/Adolfo                       0.00             0.00                0             0.00
+      6965     Antezano/Segura/Teresa-Delia               0.00             0.00                0             0.00
+  20167828     Pasquel/Quio/Surami-Janet                  0.00             0.00                0             0.00

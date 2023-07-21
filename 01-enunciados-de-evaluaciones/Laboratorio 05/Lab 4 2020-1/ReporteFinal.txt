@@ -1,0 +1,108 @@
+Codigo:          20160658    Nombre:  Arca/Amezquita/Edric-Ronald
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MEC209 MEC206 MAT218 MEC269 MAT111 
+
+Codigo:          20119778    Nombre:  Morales/Valverde/Ines-Martha
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MAT218 MAT218 INF220 INF282 FIS204 MAT219 MAT111 FIS203 MAT111 FIS111 FIS111 INF263 FIS203 
+
+Codigo:          00005258    Nombre:  Gavidia/Mendoza/Ronald-Johnny
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MAT241 MAT219 MAT218 MAT241 INF248 
+
+Codigo:          20150564    Nombre:  Auris/Zimic/Javier-Daniel
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS203 FIS208 MAT218 FIS111 MAT219 MAT111 
+
+Codigo:          20080667    Nombre:  Lozada/Yino/Martha
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MAT218 MAT218 MAT111 FIS203 FIS111 MAT219 FIS208 
+
+Codigo:          20127352    Nombre:  Justino/Cruz/Williams
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MAT218 MAT218 FIS203 FIS218 MEC209 MEC206 MEC206 FIS111 MAT218 MAT111 FIS208 
+
+Codigo:          00005395    Nombre:  Alamo/Pairazaman/Miguel-Roberto
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS218 MAT111 FIS208 INF263 FIS111 INF281 MAT241 FIS203 MAT111 INF238 
+
+Codigo:          20120476    Nombre:  Henriquez/Espino/Beatriz
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS203 MAT219 FIS111 FIS208 INF220 INF248 FIS111 INF282 FIS203 FIS203 
+
+Codigo:          20160119    Nombre:  Paredes/Patino/Christian
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: INF263 INF220 INF239 MAT111 INF245 INF281 MAT241 INF246 INF238 INF246 MAT219 INF263 MAT218 INF282 
+
+Codigo:          20109738    Nombre:  Caro/Polo/Sandro
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MEC206 MEC209 FIS203 FIS218 FIS208 INF263 FIS111 
+
+Codigo:          20003541    Nombre:  Cabrera/Canales/Guillermo-Edric
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS203 INF220 INF263 FIS111 FIS208 FIS218 MAT218 
+
+Codigo:          00004450    Nombre:  Vega/Munoz/Gonzalo
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS203 FIS111 FIS111 MEC269 
+
+Codigo:          00007613    Nombre:  Cortez/Segura/Carmela-Ines
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MAT219 FIS111 FIS203 FIS218 MAT219 FIS208 
+
+Codigo:          20170596    Nombre:  Portugal/Benavente/Johana-Gloria
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MAT218 MEC209 MAT219 MAT241 MAT111 MAT241 MAT781 MAT219 MEC206 MEC209 
+
+Codigo:          00009442    Nombre:  Florian/Morales/Ydali
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MEC209 MAT781 MAT111 MEC206 MAT218 MEC286 MAT219 
+
+Codigo:          00002075    Nombre:  Moya/Aranda/Johnny
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: INF282 MAT111 FIS203 MAT241 INF281 INF238 FIS111 INF248 INF238 INF220 
+
+Codigo:          20083333    Nombre:  Laura/Wong/Melvin-Henrry
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MEC206 
+
+Codigo:          00006702    Nombre:  Calixto/Tomasiche/Monica-Doris
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS219 FIS220 FIS227 MAT218 MAT219 FIS208 FIS229 MAT111 FIS229 MAT241 MAT111 MAT781 MAT781 MAT241 
+
+Codigo:          00001994    Nombre:  Ruiz/Gordillo/Carola-Erika
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS208 FIS111 MAT219 FIS229 MAT218 FIS220 FIS219 FIS229 MAT218 MAT111 FIS208 MAT241 
+
+Codigo:          20097877    Nombre:  Coronel/Chumpitaz/Heli
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS208 FIS219 FIS227 FIS111 FIS229 FIS218 MAT111 FIS220 
+
+Codigo:          00008528    Nombre:  Zarate/Del_Pozo/Humberto-Antonio
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MEC206 FIS208 FIS218 FIS111 FIS203 FIS219 FIS203 FIS208 
+
+Codigo:          20164217    Nombre:  Palomares/Vera/Henrry-Humberto
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: 
+
+Codigo:          00006553    Nombre:  Coronado/Figueroa/Johan
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: INF263 MAT219 INF220 FIS111 MAT218 MAT111 
+
+Codigo:          00001346    Nombre:  Hijar/Pairazaman/Jenny-Delicia
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MAT218 FIS220 FIS227 FIS229 FIS219 FIS227 FIS208 FIS111 FIS219 
+
+Codigo:          20110165    Nombre:  Landeo/Sueldo/Adolfo
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS111 MAT219 FIS203 MAT218 FIS208 MAT111 FIS218 FIS203 FIS219 FIS208 
+
+Codigo:          00006965    Nombre:  Antezano/Segura/Teresa-Delia
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: MAT111 MAT218 MAT218 MAT111 MAT219 MAT218 MAT111 
+
+Codigo:          20167828    Nombre:  Pasquel/Quio/Surami-Janet
+-----------------------------------------------------------------------------------------------------------------------------
+Cursos aprobados: FIS219 MAT111 FIS208 FIS220 MAT218 FIS111 FIS229 FIS219 FIS229 FIS218 FIS208 MAT111 
+

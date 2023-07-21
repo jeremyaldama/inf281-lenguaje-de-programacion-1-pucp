@@ -1,0 +1,742 @@
+==========================================================================================
+Especialidad: Endocrinologia
+------------------------------------------------------------------------------------------
+Codigo: EN4313       Nombre: Zamora Cabrera Carmen                          Tarifa: 445.12
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    798429          Rocio Ramirez                         67.26      377.86
+    806874          Tatiana Torres                        53.10      392.02
+    861214          Irma Diaz                             63.92      381.20
+    631752          Sandro Piscoya                       319.42      125.70
+    687006          Guillermo Cabrera                    161.31      283.81
+    757210          Milena Medina                         77.18      367.94
+    704724          Jesus Narvaez                        262.49      182.63
+    742910          Guillermo Delgado                    111.15      333.97
+    702634          Carlos Prado                         339.18      105.94
+    821425          Gloria Romero                        133.18      311.94
+    777752          Patricia Fuentes                     281.32      163.80
+    919520          Karina Ramirez                       130.60      314.52
+    889622          Adria Raffo                          309.09      136.03
+    760807          Guida Shirakawa                      191.00      254.12
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          2500.19
+Monto a solicitar al seguro:                 3731.49
+Total de citas atendidas:                    14
+------------------------------------------------------------------------------------------
+Codigo: EN8770       Nombre: Zimic Salas Francisco                          Tarifa: 989.84
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    846513          Ydali Camacho                        684.18      305.66
+    932021          Henrry Palomares                     989.84        0.00
+    909160          Henry Gonzales                       557.18      432.66
+    906219          Madeleine Suarez                      75.03      914.81
+    861214          Irma Diaz                            142.14      847.70
+    882570          Williams Zuniga                      989.84        0.00
+    626592          Evert Figueroa                        67.21      922.63
+    687006          Guillermo Cabrera                    358.72      631.12
+    911906          Luis Durand                          848.49      141.35
+    687072          Maribel Vizcardo                     408.80      581.04
+    748204          Shirley Pinto                        764.85      224.99
+    980951          Yvonne Gordillo                      537.88      451.96
+    742910          Guillermo Delgado                    247.16      742.68
+    961300          Erick Alfaro                         105.62      884.22
+    715373          Ines Sam                             720.70      269.14
+    649953          Felicita Villegas                    103.14      886.70
+    982479          Christian Landa                      323.88      665.96
+    759860          Johana Portugal                      550.35      439.49
+    743155          Silvana Chavez                       494.23      495.61
+    900803          Christian Wong                       890.86       98.98
+    676294          Rolando Castro                       621.82      368.02
+    893601          Martin Cerna                         721.00      268.84
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          11202.91
+Monto a solicitar al seguro:                 10573.57
+Total de citas atendidas:                    22
+------------------------------------------------------------------------------------------
+Codigo: EN2265       Nombre: Perez Antezano David Carlos                    Tarifa: 644.36
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    690097          Ines Escalante                       199.49      444.87
+    846513          Ydali Camacho                        445.38      198.98
+    798429          Rocio Ramirez                         97.36      547.00
+    906869          Rony Segura                           55.80      588.56
+    710182          Irma Corrales                        278.36      366.00
+    943118          Ronald Gavidia                       281.07      363.29
+    645450          Elia Sedano                          326.75      317.61
+    700236          Alonso Forzani                       310.97      333.39
+    922774          Janet Moscoso                        324.95      319.41
+    911906          Luis Durand                          552.35       92.01
+    873914          Johana Contreras                     311.93      332.43
+    771803          Adolfo Landeo                        576.32       68.04
+    684369          Angel Shirakawa                      254.01      390.35
+    753123          Waldemar Luna                        149.94      494.42
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          4164.69
+Monto a solicitar al seguro:                 4856.35
+Total de citas atendidas:                    14
+------------------------------------------------------------------------------------------
+Codigo: EN4431       Nombre: Mori Suarez Edilberto Jesus Teobaldo           Tarifa: 562.08
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    757577          Doris Egusquiza                      119.89      442.19
+    626390          Gonzalo Vega                         386.26      175.82
+    677779          Antonio Sueldo                       562.08        0.00
+    943118          Ronald Gavidia                       245.18      316.90
+    982884          Antonio Lozada                        66.10      495.98
+    739559          Shirley Cabrera                      445.79      116.29
+    996128          Alex Salamanca                       106.63      455.45
+    752050          Adria Asmad                          320.39      241.69
+    858416          Lucero De                            562.08        0.00
+    885067          Humberto Zarate                      249.17      312.91
+    657938          Eloy Ortega                          186.84      937.32
+    980951          Yvonne Gordillo                      305.43      256.65
+    661197          Alberto La                           253.05      309.03
+    722136          Jair Mendoza                         467.88       94.20
+    715373          Ines Sam                             409.25      152.83
+    825008          Edgar Prado                          236.19      325.89
+    756685          Henry Ortiz                          275.25      286.83
+    956086          Gonzalo Henriquez                    562.08        0.00
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          5759.52
+Monto a solicitar al seguro:                 4920.00
+Total de citas atendidas:                    18
+==========================================================================================
+Especialidad: Dermatologia
+------------------------------------------------------------------------------------------
+Codigo: DE9939       Nombre: Amezquita Contreras Humberto Alfonso           Tarifa: 397.58
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    850963          Rafael Urbina                         42.54      355.04
+    840239          Melvin Martel                        346.73       50.85
+    906869          Rony Segura                           34.43      363.15
+    890817          Cesar Piscoya                        303.47       94.11
+    920617          Janet Vega                           115.62      281.96
+    767293          Miguel Alamo                          88.58      309.00
+    981302          Beatriz Wong                         128.34      269.24
+    728489          Surami Pasquel                       306.02       91.56
+    752050          Adria Asmad                          226.62      170.96
+    858416          Lucero De                            397.58        0.00
+    710337          Felicita Lozada                      335.12       62.46
+    891472          Virginia Chumpitaz                    37.09      360.49
+    885067          Humberto Zarate                      176.25      221.33
+    932155          Alvaro Villegas                      122.53      275.05
+    851510          Blanca Rodriguez                     182.73      214.85
+    683914          Carmela Vega                         137.88      259.70
+    975825          Elizabeth Fernandez                  153.43      244.15
+    892455          Francisco Mejia                      184.44      213.14
+    827067          Ricardo Wong                         238.91      158.67
+    956086          Gonzalo Henriquez                    397.58        0.00
+    701419          Alex Henriquez                       103.65      293.93
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          4059.53
+Monto a solicitar al seguro:                 4289.65
+Total de citas atendidas:                    21
+------------------------------------------------------------------------------------------
+Codigo: DE1580       Nombre: Florencio Polo Fiorella Erika                  Tarifa: 843.53
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    953250          Milena Guevara                       443.95      399.58
+    806874          Tatiana Torres                       100.63      742.90
+    852075          Cinthia Cerna                        464.11      379.42
+    728489          Surami Pasquel                       649.27      194.26
+    672261          Beatriz Henriquez                    502.49      341.04
+    642239          Martin Villa                         512.95      330.58
+    687072          Maribel Vizcardo                     348.38      495.15
+    742910          Guillermo Delgado                    210.63      632.90
+    857268          Ofelia Zambrano                      152.51      691.02
+    792005          Alfonso Miranda                      692.62      150.91
+    810294          Angel Chang                          365.67      477.86
+    704137          Waldemar Durand                      843.53        0.00
+    847332          Lorena Salazar                       723.58      119.95
+    948643          Carmela Cortez                       189.04      654.49
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          6199.36
+Monto a solicitar al seguro:                 5610.06
+Total de citas atendidas:                    14
+==========================================================================================
+Especialidad: Oncologia
+------------------------------------------------------------------------------------------
+Codigo: ON7737       Nombre: Cabrera Mori Glenda                            Tarifa: 930.66
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    852450          Victor Vilcara                       360.07      570.59
+    701464          David Cerna                          424.57      506.09
+    679492          Ronal Cortez                         787.43      143.23
+    677779          Antonio Sueldo                       930.66        0.00
+    849253          Yvonne Benavente                     620.38      310.28
+    909160          Henry Gonzales                       523.87      406.79
+    629757          Maria Solis                          833.59       97.07
+    710796          Virginia Salamanca                   346.39      584.27
+    728489          Surami Pasquel                       716.33      214.33
+    836165          Heli Lozada                          670.26      260.40
+    631752          Sandro Piscoya                       667.84      262.82
+    704724          Jesus Narvaez                        548.81      381.85
+    649817          Madeleine Shirakawa                  561.00     1300.32
+    715373          Ines Sam                             677.61      253.05
+    648719          Jorge Alfaro                         482.27      448.39
+    756685          Henry Ortiz                          455.74      474.92
+    919520          Karina Ramirez                       273.06      657.60
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          9879.89
+Monto a solicitar al seguro:                 6871.99
+Total de citas atendidas:                    17
+==========================================================================================
+Especialidad: Neumologia
+------------------------------------------------------------------------------------------
+Codigo: NE4792       Nombre: Shirakawa Florian Jaime Julian Pedro Jose      Tarifa: 336.23
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    710796          Virginia Salamanca                   125.14      211.09
+    741156          Glenda Pena                          222.25      113.98
+    858416          Lucero De                            336.23        0.00
+    715514          Teresa Antezano                      300.66       35.57
+    889096          Alex Falcon                          285.73       50.50
+    649953          Felicita Villegas                     35.04      301.19
+    825008          Edgar Prado                          141.28      194.95
+    810294          Angel Chang                          145.76      190.47
+    798691          Flor Norabuena                        85.20      251.03
+    935124          Doris Villegas                       122.52      213.71
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          1799.81
+Monto a solicitar al seguro:                 1562.49
+Total de citas atendidas:                    10
+------------------------------------------------------------------------------------------
+Codigo: NE3026       Nombre: Mercado Caro Ofelia Carmen                     Tarifa: 340.19
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    732539          Christian Mejia                      159.75      180.44
+    811709          Edgar Suchero                        112.26      227.93
+    742910          Guillermo Delgado                     84.95      255.24
+    722136          Jair Mendoza                         283.17       57.02
+    798799          Martin Hijar                          35.01      305.18
+    689047          Alex Vasquez                         340.19        0.00
+    651348          Juan Prado                           264.06       76.13
+    825652          Beatriz Patino                      1020.57        0.00
+    622670          Rocio Acuna                          182.07      158.12
+    880906          Ronal Casanova                       161.01      179.18
+    955078          Silvana Henriquez                    199.18      141.01
+    907682          Arturo Serrano                        61.78      278.41
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          2904.00
+Monto a solicitar al seguro:                 1858.66
+Total de citas atendidas:                    12
+------------------------------------------------------------------------------------------
+Codigo: NE9599       Nombre: Aranda Minaya Janet Cinthia                    Tarifa: 187.03
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    852450          Victor Vilcara                        72.36      114.67
+    626390          Gonzalo Vega                         128.53       58.50
+    679492          Ronal Cortez                         158.25       28.78
+    798429          Rocio Ramirez                         28.26      158.77
+    969996          Ydali Florian                         77.97      109.06
+    757127          Angel Chumpitaz                      106.89       80.14
+    728489          Surami Pasquel                       143.96       43.07
+    960918          Irma Valverde                         42.44      144.59
+    875968          Maribel Quio                         137.80       49.23
+    728611          Erick Calixto                        187.03        0.00
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          1083.48
+Monto a solicitar al seguro:                 786.82
+Total de citas atendidas:                    10
+==========================================================================================
+Especialidad: Urologia
+------------------------------------------------------------------------------------------
+Codigo: UR3050       Nombre: Cabrera Moreno Delia Estefania Maria           Tarifa: 380.28
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    946743          Luz Trigueros                        130.82      249.46
+    973139          Giovana Morales                      109.48      270.80
+    930447          Surami Quiroga                       238.40      141.88
+    629757          Maria Solis                          340.62       39.66
+    777478          Jenny Hijar                           83.93      296.35
+    672261          Beatriz Henriquez                    226.53      153.75
+    631752          Sandro Piscoya                       272.89      107.39
+    875968          Maribel Quio                         280.19      100.09
+    657938          Eloy Ortega                           63.20      317.08
+    982479          Christian Landa                      124.43      255.85
+    719923          Rony Valverde                        131.88      248.40
+    817074          Janet Bravo                          380.28        0.00
+    639486          Javier Auris                          76.51      303.77
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          2459.16
+Monto a solicitar al seguro:                 2484.48
+Total de citas atendidas:                    13
+------------------------------------------------------------------------------------------
+Codigo: UR6990       Nombre: Munoz Vergel Edgar                             Tarifa: 476.20
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    953250          Milena Guevara                       250.62      225.58
+    679492          Ronal Cortez                         402.91       73.29
+    906869          Rony Segura                           41.24      434.96
+    861214          Irma Diaz                             68.38      407.82
+    841574          Melvin Laura                         251.39      224.81
+    647813          Heli Coronel                         312.91      163.29
+    631752          Sandro Piscoya                       341.72      134.48
+    626592          Evert Figueroa                        32.33      443.87
+    642239          Martin Villa                         289.58      186.62
+    757608          Daniel Vargas                        144.15      332.05
+    875968          Maribel Quio                         350.86      125.34
+    885067          Humberto Zarate                      211.10      265.10
+    631642          Milagros Baca                        199.77      276.43
+    630889          Lourdes Sueldo                       409.48       66.72
+    793694          Alexander Barrera                    207.10      269.10
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          3513.55
+Monto a solicitar al seguro:                 3629.45
+Total de citas atendidas:                    15
+------------------------------------------------------------------------------------------
+Codigo: UR6585       Nombre: Calixto Torres Miguel                          Tarifa: 463.81
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    630167          Magali Diaz                          197.35      266.46
+    745356          Evert Auris                          200.09      263.72
+    837419          Hector Pasquel                       373.92       89.89
+    930447          Surami Quiroga                       290.76      173.05
+    861214          Irma Diaz                             66.60      397.21
+    807001          Moises Pairazaman                    308.71      155.10
+    794101          Cesar Astete                         320.68      143.13
+    761321          Magali Arca                          172.12      291.69
+    831478          Julio Rosemberg                       35.71      428.10
+    975942          Amaru Suarez                         435.56       28.25
+    771803          Adolfo Landeo                        414.83       48.98
+    689047          Alex Vasquez                         463.81        0.00
+    758332          Rolando Raffo                        413.21       50.60
+    785189          Sandra Paz                            55.98      407.83
+    719923          Rony Valverde                        160.85      302.96
+    793502          Tatiana Villa                        326.20      137.61
+    955078          Silvana Henriquez                    271.56      192.25
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          4507.95
+Monto a solicitar al seguro:                 3376.82
+Total de citas atendidas:                    17
+==========================================================================================
+Especialidad: Traumatologia
+------------------------------------------------------------------------------------------
+Codigo: TR8561       Nombre: Del Castillo Chung Felicita Erika              Tarifa: 365.90
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    925701          Paul Yoshinari                       260.59      105.31
+    977773          Martha Castro                        135.46      230.44
+    744020          Raul Ortiz                            27.15      338.75
+    647813          Heli Coronel                         240.43      125.47
+    887167          Monica Calixto                        53.06      312.84
+    626592          Evert Figueroa                        24.84      341.06
+    807001          Moises Pairazaman                    243.54      122.36
+    893623          Enrique Diaz                          55.40      310.50
+    983440          Williams Hijar                       301.47       64.43
+    803981          Diana Leyva                          226.13      139.77
+    824877          Raul Henriquez                       308.86       57.04
+    790233          Henrry Vega                          119.94      245.96
+    818881          Guillermo Hernandez                  212.04      153.86
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          2208.90
+Monto a solicitar al seguro:                 2547.80
+Total de citas atendidas:                    13
+------------------------------------------------------------------------------------------
+Codigo: TR3914       Nombre: Chung Zuniga Zkenia Irma                       Tarifa: 189.91
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    866312          Elizabeth Farfan                     125.11       64.80
+    672261          Beatriz Henriquez                    113.13       76.78
+    661264          Madeleine Miyake                     160.38       29.53
+    932155          Alvaro Villegas                       58.53      131.38
+    894135          Johan Coronado                       143.55       46.36
+    751070          Victor Jauregui                       61.74      128.17
+    743155          Silvana Chavez                        94.82       95.09
+    649079          Francisco Arana                       81.05      108.86
+    704137          Waldemar Durand                      189.91        0.00
+    753123          Waldemar Luna                         44.19      145.72
+    759817          Bruno Martel                         120.88       69.03
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          1193.30
+Monto a solicitar al seguro:                 895.71
+Total de citas atendidas:                    11
+------------------------------------------------------------------------------------------
+Codigo: TR5914       Nombre: Jolay Chumpitaz Walter                         Tarifa: 615.50
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    690097          Ines Escalante                       190.56      424.94
+    925701          Paul Yoshinari                       438.36      177.14
+    965049          Karin Morales                        190.13      425.37
+    930447          Surami Quiroga                       385.86      229.64
+    861214          Irma Diaz                             88.39      527.11
+    645450          Elia Sedano                          312.12      303.38
+    887416          Rolando Jauregui                     495.72      119.78
+    885067          Humberto Zarate                      272.85      342.65
+    649817          Madeleine Shirakawa                  185.51      429.99
+    894135          Johan Coronado                       465.26      150.24
+    670596          Christian Paredes                    258.82      356.68
+    649953          Felicita Villegas                     64.14      551.36
+    851510          Blanca Rodriguez                     282.88      332.62
+    632927          Johan Chavez                         124.88      490.62
+    824877          Raul Henriquez                       519.54       95.96
+    817074          Janet Bravo                          615.50        0.00
+    759817          Bruno Martel                         391.77      223.73
+    854910          Monica Lau                           351.82      263.68
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          5634.10
+Monto a solicitar al seguro:                 5444.90
+Total de citas atendidas:                    18
+------------------------------------------------------------------------------------------
+Codigo: TR9491       Nombre: Ayala Zevallos Johan Enrique                   Tarifa: 720.64
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    637427          Enrique Durand                        46.41      674.23
+    938363          Melvin Valverde                      378.98      341.66
+    982884          Antonio Lozada                        84.75      635.89
+    986299          Margot Pasquel                       545.81      174.83
+    741156          Glenda Pena                          476.34      244.30
+    836165          Heli Lozada                          519.00      201.64
+    887167          Monica Calixto                       104.49      616.15
+    762744          Carlos Barrios                       720.64        0.00
+    807001          Moises Pairazaman                    479.66      240.98
+    651743          Roberto Infantes                     696.14      745.14
+    661264          Madeleine Miyake                     608.58      112.06
+    833287          Evert Amezquita                      228.15      492.49
+    832309          Humberto Aguero                       78.19      642.45
+    831478          Julio Rosemberg                       55.49      665.15
+    961300          Erick Alfaro                          76.89      643.75
+    743155          Silvana Chavez                       359.82      360.82
+    884464          Rosario Mendoza                      386.62      334.02
+    810294          Angel Chang                          312.40      408.24
+    773263          Carola Ruiz                          102.26      618.38
+    911742          Alvaro Chung                         314.99      405.65
+    675277          Annie Asmad                          215.98      504.66
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          6791.60
+Monto a solicitar al seguro:                 9062.48
+Total de citas atendidas:                    21
+==========================================================================================
+Especialidad: Ginecologia
+------------------------------------------------------------------------------------------
+Codigo: GI8983       Nombre: Saenz Aranda Wilmer                            Tarifa: 140.24
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    690097          Ines Escalante                        86.84      193.64
+    984970          Carlos Sakaguchi                      23.00      117.24
+    629757          Maria Solis                          125.61       14.63
+    841574          Melvin Laura                          74.03       66.21
+    982884          Antonio Lozada                        16.49      123.75
+    626592          Evert Figueroa                         9.52      130.72
+    887416          Rolando Jauregui                     112.95       27.29
+    875968          Maribel Quio                         103.33       36.91
+    821425          Gloria Romero                         41.96       98.28
+    825008          Edgar Prado                           58.93       81.31
+    851510          Blanca Rodriguez                      64.45       75.79
+    934577          Roberto Bravo                         89.92       50.32
+    825652          Beatriz Patino                       140.24        0.00
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          947.28
+Monto a solicitar al seguro:                 1016.08
+Total de citas atendidas:                    13
+------------------------------------------------------------------------------------------
+Codigo: GI4819       Nombre: Zegarra Cabello Cinthia Milena                 Tarifa: 769.00
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    881508          Lucero Arca                          423.80      345.20
+    906869          Rony Segura                           66.60      702.40
+    946743          Luz Trigueros                        264.54      504.46
+    732176          Miguel Correa                        145.26      623.74
+    973139          Giovana Morales                      221.40      547.60
+    890817          Cesar Piscoya                        586.98      182.02
+    728489          Surami Pasquel                       591.90      177.10
+    762744          Carlos Barrios                       769.00        0.00
+    752050          Adria Asmad                          438.33      330.67
+    792760          Rafael Iberos                        669.18       99.82
+    875968          Maribel Quio                         566.60      202.40
+    885067          Humberto Zarate                      340.90      428.10
+    718917          Cesar Inga                            38.45      730.55
+    884464          Rosario Mendoza                      412.57      356.43
+    907870          Walter Merel                         178.10      590.90
+    825652          Beatriz Patino                       769.00        0.00
+    683024          Richard Perez                         57.29      711.71
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          6539.88
+Monto a solicitar al seguro:                 6533.12
+Total de citas atendidas:                    17
+------------------------------------------------------------------------------------------
+Codigo: GI6498       Nombre: Ortiz Guevara Yliana Flor                      Tarifa: 819.90
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    690097          Ines Escalante                       253.84      566.06
+    798429          Rocio Ramirez                        123.89      696.01
+    920617          Janet Vega                           238.43      581.47
+    695302          Alonso Florencio                     164.96      654.94
+    794101          Cesar Astete                         566.88      253.02
+    733943          Alberto De                           286.80      533.10
+    973252          Guillermo Calderon                   133.97      685.93
+    792005          Alfonso Miranda                      673.22      146.68
+    684369          Angel Shirakawa                      323.20      496.70
+    889658          Tatiana Pairazaman                   737.91       81.99
+    667408          Edgard Velasquez                     819.90        0.00
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          4323.00
+Monto a solicitar al seguro:                 4695.90
+Total de citas atendidas:                    11
+==========================================================================================
+Especialidad: Geriatria
+------------------------------------------------------------------------------------------
+Codigo: GE5593       Nombre: Del Castillo Mejia Gustavo Alonso              Tarifa: 523.66
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    881508          Lucero Arca                          288.59      235.07
+    958322          Nancy Reyes                           81.22      442.44
+    841574          Melvin Laura                         276.44      247.22
+    981302          Beatriz Wong                         169.04      354.62
+    812663          Martha Lozada                         27.13      496.53
+    762744          Carlos Barrios                       523.66        0.00
+    875968          Maribel Quio                         385.83      137.83
+    980951          Yvonne Gordillo                      284.56      239.10
+    695747          Williams Justino                     233.34      290.32
+    798799          Martin Hijar                          53.88      469.78
+    689047          Alex Vasquez                         523.66        0.00
+    825652          Beatriz Patino                       523.66        0.00
+    840542          Edric Arca                           294.40      229.26
+    793694          Alexander Barrera                    227.74      295.92
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          3893.15
+Monto a solicitar al seguro:                 3438.09
+Total de citas atendidas:                    14
+==========================================================================================
+Especialidad: Oftalmologia
+------------------------------------------------------------------------------------------
+Codigo: OF1543       Nombre: Acuna Ayllon Blanca Luz                        Tarifa: 263.61
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    662589          Ericka Justino                        63.98      199.63
+    849253          Yvonne Benavente                     175.72       87.89
+    946743          Luz Trigueros                         90.68      172.93
+    930447          Surami Quiroga                       165.26       98.35
+    920617          Janet Vega                            76.66      186.95
+    645450          Elia Sedano                          133.68      129.93
+    626592          Evert Figueroa                        17.90      245.71
+    642239          Martin Villa                         160.30      103.31
+    722136          Jair Mendoza                         219.43       44.18
+    973252          Guillermo Calderon                    43.07      220.54
+    857268          Ofelia Zambrano                       47.66      215.95
+    900803          Christian Wong                       237.25       26.36
+    790233          Henrry Vega                           86.41      177.20
+    907682          Arturo Serrano                        47.87      215.74
+    878858          Johnny Moya                          220.17       43.44
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          1786.04
+Monto a solicitar al seguro:                 2168.11
+Total de citas atendidas:                    15
+------------------------------------------------------------------------------------------
+Codigo: OF9852       Nombre: Tabori Arias Rosario                           Tarifa: 955.15
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    745356          Evert Auris                          412.05      543.10
+    732539          Christian Mejia                      448.54      506.61
+    849253          Yvonne Benavente                     636.70      318.45
+    946743          Luz Trigueros                        328.57      626.58
+    958322          Nancy Reyes                          148.14      807.01
+    647813          Heli Coronel                         627.63      327.52
+    812663          Martha Lozada                         49.48      905.67
+    642239          Martin Villa                         580.83      374.32
+    757608          Daniel Vargas                        289.12      666.03
+    831478          Julio Rosemberg                       73.55      881.60
+    683914          Carmela Vega                         331.25      623.90
+    866458          Ericka Ayala                         146.42      808.73
+    704137          Waldemar Durand                      955.15        0.00
+    798691          Flor Norabuena                       242.04      713.11
+    819017          Surami Raffo                         773.48      181.67
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          6042.95
+Monto a solicitar al seguro:                 8284.30
+Total de citas atendidas:                    15
+==========================================================================================
+Especialidad: Cardiologia
+------------------------------------------------------------------------------------------
+Codigo: CA3822       Nombre: Collado Villa Raul                             Tarifa: 284.04
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    850963          Rafael Urbina                         30.39      253.65
+    881508          Lucero Arca                          156.53      127.51
+    757577          Doris Egusquiza                       60.59      223.45
+    821541          Magda Salas                          191.93       92.11
+    677779          Antonio Sueldo                       284.04        0.00
+    965049          Karin Morales                         87.74      196.30
+    984970          Carlos Sakaguchi                      93.17      474.91
+    938363          Melvin Valverde                      149.38      134.66
+    728489          Surami Pasquel                       218.63       65.41
+    887167          Monica Calixto                        41.19      242.85
+    960918          Irma Valverde                         64.45      219.59
+    651743          Roberto Infantes                     137.19      146.85
+    761321          Magali Arca                          105.41      178.63
+    891472          Virginia Chumpitaz                    26.50      257.54
+    983440          Williams Hijar                       234.02       50.02
+    630889          Lourdes Sueldo                       244.25       39.79
+    654600          Rolando Solis                         48.80      235.24
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          2174.18
+Monto a solicitar al seguro:                 2938.54
+Total de citas atendidas:                    17
+------------------------------------------------------------------------------------------
+Codigo: CA8575       Nombre: Landeo Estrada Miguel Alex Antonio Pedro       Tarifa: 748.64
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    757577          Doris Egusquiza                      159.68      588.96
+    686389          Annie Merel                          626.69      121.95
+    932021          Henrry Palomares                     748.64        0.00
+    840239          Melvin Martel                       1305.78      191.50
+    969996          Ydali Florian                        312.11      436.53
+    806874          Tatiana Torres                        89.31      659.33
+    732176          Miguel Correa                        141.42      607.22
+    739559          Shirley Cabrera                      593.75      154.89
+    643857          Carola Loyola                        393.56      355.08
+    700236          Alonso Forzani                       361.29      387.35
+    792760          Rafael Iberos                        651.47       97.17
+    748204          Shirley Pinto                        578.47      170.17
+    649817          Madeleine Shirakawa                  225.64      523.00
+    759860          Johana Portugal                      416.24      332.40
+    648719          Jorge Alfaro                         387.95      360.69
+    847332          Lorena Salazar                       642.18      106.46
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          7634.18
+Monto a solicitar al seguro:                 5092.70
+Total de citas atendidas:                    16
+==========================================================================================
+Especialidad: Pediatria
+------------------------------------------------------------------------------------------
+Codigo: PE5124       Nombre: Urbina Antezano Valentina Paula                Tarifa: 785.22
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    745356          Evert Auris                          338.74      446.48
+    846513          Ydali Camacho                        542.74      242.48
+    647813          Heli Coronel                         515.97      269.25
+    645450          Elia Sedano                          398.19      387.03
+    922774          Janet Moscoso                        395.99      389.23
+    894135          Johan Coronado                       593.55      191.67
+    651348          Juan Prado                           609.49      175.73
+    691257          Annie Montero                        308.67      476.55
+    678450          Virginia Benavente                   273.26      511.96
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          3976.59
+Monto a solicitar al seguro:                 3090.39
+Total de citas atendidas:                    9
+------------------------------------------------------------------------------------------
+Codigo: PE8326       Nombre: Shirakawa Saona Victoria Milagros Isabel       Tarifa: 728.32
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    757577          Doris Egusquiza                      155.35      572.97
+    722327          Valentina Aquino                     420.75      307.57
+    701464          David Cerna                          332.26      396.06
+    909160          Henry Gonzales                       409.97      318.35
+    882570          Williams Zuniga                      728.32        0.00
+    960918          Irma Valverde                        165.26      563.06
+    807001          Moises Pairazaman                    484.77      243.55
+    757210          Milena Medina                        126.29      602.03
+    687072          Maribel Vizcardo                     300.80      427.52
+    704724          Jesus Narvaez                        429.49      298.83
+    832309          Humberto Aguero                       79.02      649.30
+    715514          Teresa Antezano                      651.26       77.06
+    821425          Gloria Romero                        217.91      510.41
+    798799          Martin Hijar                          74.94      653.38
+    868719          Emilio Hernandez                     165.84      562.48
+    803981          Diana Leyva                          450.10      278.22
+    798691          Flor Norabuena                       184.56      543.76
+    935124          Doris Villegas                       265.40      462.92
+    838640          Margot Farfan                        449.52      278.80
+    676294          Rolando Castro                       457.53      270.79
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          6549.34
+Monto a solicitar al seguro:                 8017.06
+Total de citas atendidas:                    20
+==========================================================================================
+Especialidad: Gastroenterologia
+------------------------------------------------------------------------------------------
+Codigo: GA7574       Nombre: Portugal Raffo Alexander                       Tarifa: 173.48
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    881508          Lucero Arca                           95.60       77.88
+    906869          Rony Segura                           15.02      158.46
+    710796          Virginia Salamanca                    64.57      108.91
+    645450          Elia Sedano                           87.97       85.51
+    891472          Virginia Chumpitaz                    16.19      157.29
+    934577          Roberto Bravo                        111.24       62.24
+    902327          Silvana Maldonado                     26.30      147.18
+    649079          Francisco Arana                       74.04       99.44
+    857177          Fiorella Moscoso                     307.96       39.00
+    892455          Francisco Mejia                       80.48       93.00
+    803981          Diana Leyva                          107.21       66.27
+    753123          Waldemar Luna                         40.37      133.11
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          1026.95
+Monto a solicitar al seguro:                 1228.29
+Total de citas atendidas:                    12
+------------------------------------------------------------------------------------------
+Codigo: GA8616       Nombre: Zarate Urbina Delia                            Tarifa: 881.79
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    637427          Enrique Durand                        56.79      825.00
+    626390          Gonzalo Vega                         605.97      275.82
+    986299          Margot Pasquel                       667.87      213.92
+    695302          Alonso Florencio                     177.42      704.37
+    981965          Daniel Salas                         537.98      343.81
+    777478          Jenny Hijar                          389.22     1374.36
+    852075          Cinthia Cerna                        485.16      396.63
+    812663          Martha Lozada                         45.68      836.11
+    748204          Shirley Pinto                        681.36      200.43
+    961300          Erick Alfaro                          94.09      787.70
+    670596          Christian Paredes                    370.79      511.00
+    792005          Alfonso Miranda                      724.04      157.75
+    756685          Henry Ortiz                          431.81      449.98
+    879527          Ines Morales                         394.51      487.28
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          5662.68
+Monto a solicitar al seguro:                 7564.17
+Total de citas atendidas:                    14
+------------------------------------------------------------------------------------------
+Codigo: GA3001       Nombre: Cuba Pomajambo Victoria Fiorella               Tarifa: 284.94
+------------------------------------------------------------------------------------------
+Lista de Ingresos por paciente:
+    Codigo              Nombre                             Pago      Seguro
+    626390          Gonzalo Vega                         195.81       89.13
+    757127          Angel Chumpitaz                      162.84      122.10
+    986299          Margot Pasquel                       215.81       69.13
+    852075          Cinthia Cerna                        156.77      128.17
+    700236          Alonso Forzani                       137.51      147.43
+    733943          Alberto De                            99.67      185.27
+    893623          Enrique Diaz                          43.14      241.80
+    978453          Oscar Retamoso                       126.77      158.17
+    758332          Rolando Raffo                        253.85       31.09
+    785189          Sandra Paz                            34.39      250.55
+    983440          Williams Hijar                       234.76       50.18
+    684369          Angel Shirakawa                      112.32      172.62
+    825652          Beatriz Patino                       284.94        0.00
+    675277          Annie Asmad                           85.40      199.54
+    956086          Gonzalo Henriquez                    284.94        0.00
+------------------------------------------------------------------------------------------
+Monto total recibido por pacientes:          2428.94
+Monto a solicitar al seguro:                 1845.16
+Total de citas atendidas:                    15

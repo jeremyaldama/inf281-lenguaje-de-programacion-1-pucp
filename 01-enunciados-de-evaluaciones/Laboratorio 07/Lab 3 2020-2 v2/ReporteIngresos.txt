@@ -1,0 +1,17 @@
+    NOMBRE                                                              Ingresos
+====================================================================================================
+Calixto/Torres/Miguel                                         10464.81            10406.64
+Zimic/Salas/Francisco                                         20152.45            19441.15
+Landeo/Estrada/Miguel-Alex-Antonio-Pedro                      12872.19            11084.29
+Ayala/Zevallos/Johan-Enrique                                  13698.79            17288.73
+Del-Castillo/Mejia/Gustavo-Alonso                              8749.31             8007.81
+Florencio/Polo/Fiorella-Erika                                 11090.40            11684.91
+Mercado/Caro/Ofelia-Carmen                                     6197.51             4348.38
+Calixto/Torres/Miguel                                          9937.27             9542.75
+Zimic/Salas/Francisco                                         20152.45            19441.15
+Landeo/Estrada/Miguel-Alex-Antonio-Pedro                      12486.12            10721.72
+Ayala/Zevallos/Johan-Enrique                                  13698.79            17288.73
+Del-Castillo/Mejia/Gustavo-Alonso                              8749.31             8007.81
+Florencio/Polo/Fiorella-Erika                                 11090.40            11684.91
+Mercado/Caro/Ofelia-Carmen                                     6197.51             4348.38
+Del-Castillo/Mejia/Gustavo-Alonso                              8749.31             8007.81

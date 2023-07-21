@@ -1,0 +1,95 @@
+                                         REPORTE DE ATENCION
+Cliente: Tienda Pepito
+====================================================================================================
+  Cod. Producto            Producto                                       Cant. Solicitada
+====================================================================================================
+        1233          Gaseosa Koka Kola                                              50
+        2244          Galletas de Soda Sayon                                         30
+         250          Huevos Pardos                                                  20
+        2233          Cafe Tostado                                                   10
+
+Cliente: San Jose
+====================================================================================================
+  Cod. Producto            Producto                                       Cant. Solicitada
+====================================================================================================
+        1233          Gaseosa Koka Kola                                              40
+        2526          Papel Higienico Suave Sense                                    30
+        2525          Aceite Vegetal                                                 20
+         250          Huevos Pardos                                                  20
+        2233          Cafe Tostado                                                   20
+        1150          Pollo Entero                                                    5
+
+Cliente: Cosas y Cosas
+====================================================================================================
+  Cod. Producto            Producto                                       Cant. Solicitada
+====================================================================================================
+        1002          Secador                                                       100
+          22          Platos Plasticos                                              100
+        6955          Jarras de Ceramica China                                      100
+        2244          Galletas de Soda Sayon                                         40
+        8585          Harina preparada de trigo Blanca Nieve Especial                25
+        2233          Cafe Tostado                                                   10
+
+Cliente: La Bodeguita
+====================================================================================================
+  Cod. Producto            Producto                                       Cant. Solicitada
+====================================================================================================
+        1233          Gaseosa Koka Kola                                             100
+         250          Huevos Pardos                                                  75
+        2244          Galletas de Soda Sayon                                         70
+        2233          Cafe Tostado                                                   40
+        2344          Gaseosa Koka Kola Zero                                         30
+        4545          Pan Integral 20 piezas                                         20
+
+Cliente: Para tu sed
+====================================================================================================
+  Cod. Producto            Producto                                       Cant. Solicitada
+====================================================================================================
+        2344          Gaseosa Koka Kola Zero                                        100
+        1233          Gaseosa Koka Kola                                              20
+
+Cliente: Santa Maria
+====================================================================================================
+  Cod. Producto            Producto                                       Cant. Solicitada
+====================================================================================================
+          22          Platos Plasticos                                              100
+        6955          Jarras de Ceramica China                                       50
+        2526          Papel Higienico Suave Sense                                    40
+        2233          Cafe Tostado                                                   30
+        2525          Aceite Vegetal                                                 20
+        1233          Gaseosa Koka Kola                                              20
+        1150          Pollo Entero                                                   10
+
+Cliente: Articulos Mary
+====================================================================================================
+  Cod. Producto            Producto                                       Cant. Solicitada
+====================================================================================================
+          22          Platos Plasticos                                              100
+        1002          Secador                                                        50
+        2233          Cafe Tostado                                                   50
+        8585          Harina preparada de trigo Blanca Nieve Especial                25
+        1150          Pollo Entero                                                   10
+
+Cliente: El Chimbotano
+====================================================================================================
+  Cod. Producto            Producto                                       Cant. Solicitada
+====================================================================================================
+        2244          Galletas de Soda Sayon                                         50
+        2233          Cafe Tostado                                                   30
+        8585          Harina preparada de trigo Blanca Nieve Especial                25
+        1233          Gaseosa Koka Kola                                              20
+        2525          Aceite Vegetal                                                 20
+
+Cliente: La Esquinita
+====================================================================================================
+  Cod. Producto            Producto                                       Cant. Solicitada
+====================================================================================================
+         250          Huevos Pardos                                                  60
+        6955          Jarras de Ceramica China                                       50
+        1002          Secador                                                        50
+        2525          Aceite Vegetal                                                 40
+        2233          Cafe Tostado                                                   40
+        1233          Gaseosa Koka Kola                                              30
+        2526          Papel Higienico Suave Sense                                    20
+        1150          Pollo Entero                                                    5
+

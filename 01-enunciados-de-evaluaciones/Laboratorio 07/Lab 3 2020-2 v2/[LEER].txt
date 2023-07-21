@@ -1,0 +1,19 @@
+
+===================================================================
+		FIJA DE CAVE edited by ODD
+===================================================================
+Realizar las sobrecargas de operadores correspondientes
+a las clases Medico y Paciente.
+Manejar los arreglos como parte de la clase Medico
+como un arreglo de clase Paciente.
+Implementar constructores defecto y copia asi como destructores.
+Manejar las cadenas de caracteres de forma dinamica.
+Implementar funciones auxiliares de ser necesario, tanto como 
+una sobrecarga, como algun metodo auxiliar.
+Esta prohibido acceder a los atributos de clase ni retornar un 
+atributo que sea una clase (Grave error de concepto).
+Verificar el correcto llenado imprimiendo reportes para cada 
+accion hecha (lectura de archivos).
+Manejar arreglos estaticos para las clases.
+Hacer uso de encapsulamiento para los atributos que sean necesarios.
+Suerte :D ...

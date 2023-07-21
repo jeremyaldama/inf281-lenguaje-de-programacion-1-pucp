@@ -1,0 +1,593 @@
+                                 SESIONES DE CLASE
+ 1)  CODIGO: MIN269      HORARIO: H0990       No. Alumnos: 16     PROFESOR: 20065927
+     SESIONES:
+     DIA: JUEVES                INICIO: 19:44          FIN: 22:39
+     DIA: MARTES                INICIO: 16:04          FIN: 19:00
+
+ 2)  CODIGO: CIV307      HORARIO: H0181       No. Alumnos: 17     PROFESOR: 20043619
+     SESIONES:
+     DIA: VIERNES               INICIO: 10:34          FIN: 12:13
+     DIA: MARTES                INICIO: 19:32          FIN: 20:42
+     DIA: JUEVES                INICIO: 12:59          FIN: 13:46
+
+ 3)  CODIGO: INF248      HORARIO: H0965       No. Alumnos: 25     PROFESOR: 20043619
+     SESIONES:
+     DIA: MARTES                INICIO: 13:01          FIN: 15:12
+     DIA: SABADO                INICIO: 11:06          FIN: 12:04
+     DIA: MIERCOLES             INICIO: 10:58          FIN: 12:43
+
+ 4)  CODIGO: QUI204      HORARIO: H0783       No. Alumnos: 41     PROFESOR: 20043496
+     SESIONES:
+     DIA: VIERNES               INICIO: 13:42          FIN: 16:36
+     DIA: DOMINGO               INICIO: 08:37          FIN: 10:51
+
+ 5)  CODIGO: MAT218      HORARIO: H0803       No. Alumnos: 15     PROFESOR: 20079075
+     SESIONES:
+     DIA: MARTES                INICIO: 17:04          FIN: 19:20
+     DIA: VIERNES               INICIO: 10:39          FIN: 11:21
+     DIA: DOMINGO               INICIO: 12:19          FIN: 12:53
+
+ 6)  CODIGO: MEC346      HORARIO: H0582       No. Alumnos: 40     PROFESOR: 20069086
+     SESIONES:
+     DIA: MARTES                INICIO: 08:04          FIN: 09:02
+     DIA: JUEVES                INICIO: 09:02          FIN: 09:41
+
+ 7)  CODIGO: INF239      HORARIO: H0964       No. Alumnos: 34     PROFESOR: 20079075
+     SESIONES:
+     DIA: DOMINGO               INICIO: 18:18          FIN: 20:59
+     DIA: MARTES                INICIO: 15:57          FIN: 18:48
+     DIA: JUEVES                INICIO: 14:12          FIN: 15:24
+     DIA: VIERNES               INICIO: 14:58          FIN: 15:55
+
+ 8)  CODIGO: MEC299      HORARIO: H0810       No. Alumnos: 27     PROFESOR: 20046083
+     SESIONES:
+     DIA: DOMINGO               INICIO: 15:39          FIN: 18:08
+     DIA: MIERCOLES             INICIO: 14:48          FIN: 16:54
+
+ 9)  CODIGO: INF239      HORARIO: H0426       No. Alumnos: 40     PROFESOR: 20107278
+     SESIONES:
+     DIA: VIERNES               INICIO: 08:14          FIN: 10:34
+     DIA: MIERCOLES             INICIO: 09:51          FIN: 10:53
+
+10)  CODIGO: CIV224      HORARIO: H0559       No. Alumnos: 47     PROFESOR: 20142807
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 12:26          FIN: 15:03
+     DIA: JUEVES                INICIO: 11:19          FIN: 13:41
+
+11)  CODIGO: INF265      HORARIO: H0296       No. Alumnos: 21     PROFESOR: 20079075
+     SESIONES:
+     DIA: MARTES                INICIO: 15:51          FIN: 16:49
+     DIA: VIERNES               INICIO: 09:18          FIN: 10:47
+
+12)  CODIGO: MIN266      HORARIO: H0591       No. Alumnos: 21     PROFESOR: 20158245
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 12:13          FIN: 14:03
+     DIA: MIERCOLES             INICIO: 09:10          FIN: 11:15
+     DIA: VIERNES               INICIO: 16:55          FIN: 18:42
+
+13)  CODIGO: IND221      HORARIO: H0737       No. Alumnos: 15     PROFESOR: 20155258
+     SESIONES:
+     DIA: DOMINGO               INICIO: 08:44          FIN: 09:37
+     DIA: JUEVES                INICIO: 09:34          FIN: 11:16
+     DIA: MIERCOLES             INICIO: 10:12          FIN: 11:04
+     DIA: MARTES                INICIO: 13:24          FIN: 14:20
+
+14)  CODIGO: INF639      HORARIO: H0665       No. Alumnos: 44     PROFESOR: 20143595
+     SESIONES:
+     DIA: DOMINGO               INICIO: 19:11          FIN: 20:21
+     DIA: MIERCOLES             INICIO: 11:46          FIN: 12:22
+
+15)  CODIGO: MAT253      HORARIO: H0148       No. Alumnos: 29     PROFESOR: 20072765
+     SESIONES:
+     DIA: SABADO                INICIO: 09:26          FIN: 12:01
+     DIA: DOMINGO               INICIO: 11:25          FIN: 13:41
+     DIA: SABADO                INICIO: 11:22          FIN: 12:55
+     DIA: DOMINGO               INICIO: 13:36          FIN: 15:12
+
+16)  CODIGO: IEE212      HORARIO: H0143       No. Alumnos: 16     PROFESOR: 20075260
+     SESIONES:
+     DIA: VIERNES               INICIO: 15:43          FIN: 16:41
+
+17)  CODIGO: MAT253      HORARIO: H0278       No. Alumnos: 51     PROFESOR: 20155258
+     SESIONES:
+     DIA: MARTES                INICIO: 11:52          FIN: 14:17
+     DIA: DOMINGO               INICIO: 09:06          FIN: 12:03
+     DIA: JUEVES                INICIO: 19:27          FIN: 20:59
+     DIA: JUEVES                INICIO: 11:39          FIN: 13:51
+
+18)  CODIGO: CIV224      HORARIO: H0539       No. Alumnos: 58     PROFESOR: 20127835
+     SESIONES:
+     DIA: VIERNES               INICIO: 10:27          FIN: 11:49
+
+19)  CODIGO: CIV308      HORARIO: H0660       No. Alumnos: 58     PROFESOR: 20054935
+     SESIONES:
+     DIA: VIERNES               INICIO: 13:13          FIN: 15:35
+
+20)  CODIGO: IND221      HORARIO: H0116       No. Alumnos: 21     PROFESOR: 20079075
+     SESIONES:
+     DIA: SABADO                INICIO: 12:28          FIN: 13:49
+     DIA: MARTES                INICIO: 14:50          FIN: 16:13
+
+21)  CODIGO: MEC299      HORARIO: H0188       No. Alumnos: 40     PROFESOR: 20065927
+     SESIONES:
+     DIA: SABADO                INICIO: 18:41          FIN: 20:05
+
+22)  CODIGO: CIV283      HORARIO: H0636       No. Alumnos: 36     PROFESOR: 20085379
+     SESIONES:
+     DIA: MARTES                INICIO: 10:17          FIN: 11:47
+     DIA: DOMINGO               INICIO: 11:05          FIN: 11:58
+     DIA: MARTES                INICIO: 10:45          FIN: 13:42
+
+23)  CODIGO: CIV313      HORARIO: H0612       No. Alumnos: 35     PROFESOR: 20054935
+     SESIONES:
+     DIA: DOMINGO               INICIO: 19:19          FIN: 21:13
+     DIA: MARTES                INICIO: 09:52          FIN: 11:30
+     DIA: MARTES                INICIO: 13:12          FIN: 15:35
+
+24)  CODIGO: IEE213      HORARIO: H0367       No. Alumnos: 53     PROFESOR: 20142807
+     SESIONES:
+     DIA: DOMINGO               INICIO: 15:25          FIN: 17:33
+     DIA: SABADO                INICIO: 09:54          FIN: 11:18
+     DIA: MARTES                INICIO: 11:23          FIN: 12:55
+
+25)  CODIGO: CIV283      HORARIO: H0405       No. Alumnos: 43     PROFESOR: 20043496
+     SESIONES:
+     DIA: JUEVES                INICIO: 12:14          FIN: 13:49
+     DIA: JUEVES                INICIO: 09:14          FIN: 11:57
+     DIA: SABADO                INICIO: 11:00          FIN: 12:23
+
+26)  CODIGO: MIN266      HORARIO: H0691       No. Alumnos: 15     PROFESOR: 20155258
+     SESIONES:
+     DIA: MARTES                INICIO: 18:02          FIN: 20:07
+     DIA: MARTES                INICIO: 15:31          FIN: 18:29
+     DIA: MIERCOLES             INICIO: 12:57          FIN: 15:38
+     DIA: MARTES                INICIO: 13:53          FIN: 14:49
+
+27)  CODIGO: INF248      HORARIO: H0982       No. Alumnos: 45     PROFESOR: 20127835
+     SESIONES:
+     DIA: JUEVES                INICIO: 14:07          FIN: 15:42
+     DIA: SABADO                INICIO: 12:43          FIN: 14:07
+     DIA: MARTES                INICIO: 18:33          FIN: 19:09
+
+28)  CODIGO: INF248      HORARIO: H0228       No. Alumnos: 37     PROFESOR: 20120085
+     SESIONES:
+     DIA: MARTES                INICIO: 15:16          FIN: 17:35
+     DIA: MARTES                INICIO: 18:44          FIN: 20:19
+     DIA: MIERCOLES             INICIO: 09:47          FIN: 10:33
+
+29)  CODIGO: CIV308      HORARIO: H0753       No. Alumnos: 53     PROFESOR: 20143595
+     SESIONES:
+     DIA: JUEVES                INICIO: 08:19          FIN: 10:54
+     DIA: SABADO                INICIO: 15:14          FIN: 16:50
+     DIA: MARTES                INICIO: 18:54          FIN: 19:41
+
+30)  CODIGO: FIS335      HORARIO: H0469       No. Alumnos: 19     PROFESOR: 20043496
+     SESIONES:
+     DIA: SABADO                INICIO: 12:04          FIN: 13:45
+     DIA: MARTES                INICIO: 19:58          FIN: 22:42
+
+31)  CODIGO: FIS366      HORARIO: H0267       No. Alumnos: 19     PROFESOR: 20085379
+     SESIONES:
+     DIA: JUEVES                INICIO: 18:19          FIN: 21:16
+     DIA: DOMINGO               INICIO: 12:00          FIN: 12:58
+     DIA: DOMINGO               INICIO: 10:48          FIN: 13:29
+     DIA: MARTES                INICIO: 15:16          FIN: 17:21
+
+32)  CODIGO: INF639      HORARIO: H0332       No. Alumnos: 20     PROFESOR: 20156713
+     SESIONES:
+     DIA: JUEVES                INICIO: 16:22          FIN: 17:38
+     DIA: SABADO                INICIO: 09:44          FIN: 12:10
+     DIA: SABADO                INICIO: 15:09          FIN: 15:48
+
+33)  CODIGO: IND221      HORARIO: H0327       No. Alumnos: 20     PROFESOR: 20127835
+     SESIONES:
+     DIA: MARTES                INICIO: 19:33          FIN: 20:56
+
+34)  CODIGO: IEE313      HORARIO: H0987       No. Alumnos: 38     PROFESOR: 20065927
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 17:28          FIN: 19:36
+     DIA: DOMINGO               INICIO: 19:32          FIN: 21:02
+
+35)  CODIGO: CIV313      HORARIO: H0315       No. Alumnos: 32     PROFESOR: 20043496
+     SESIONES:
+     DIA: SABADO                INICIO: 16:37          FIN: 17:56
+     DIA: MARTES                INICIO: 10:02          FIN: 12:44
+     DIA: MIERCOLES             INICIO: 15:52          FIN: 17:53
+
+36)  CODIGO: MAT218      HORARIO: H0908       No. Alumnos: 21     PROFESOR: 20155258
+     SESIONES:
+     DIA: VIERNES               INICIO: 14:14          FIN: 15:53
+
+37)  CODIGO: MEC206      HORARIO: H0419       No. Alumnos: 40     PROFESOR: 20143595
+     SESIONES:
+     DIA: JUEVES                INICIO: 08:14          FIN: 09:35
+     DIA: DOMINGO               INICIO: 10:44          FIN: 13:14
+     DIA: VIERNES               INICIO: 11:28          FIN: 13:17
+     DIA: VIERNES               INICIO: 14:09          FIN: 15:19
+
+38)  CODIGO: INF281      HORARIO: H0275       No. Alumnos: 56     PROFESOR: 20075062
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 14:28          FIN: 15:07
+     DIA: MARTES                INICIO: 13:53          FIN: 14:42
+     DIA: JUEVES                INICIO: 17:26          FIN: 18:31
+     DIA: JUEVES                INICIO: 13:22          FIN: 15:35
+
+39)  CODIGO: MEC299      HORARIO: H0223       No. Alumnos: 36     PROFESOR: 20120085
+     SESIONES:
+     DIA: DOMINGO               INICIO: 17:52          FIN: 20:24
+     DIA: MARTES                INICIO: 16:53          FIN: 19:41
+     DIA: VIERNES               INICIO: 18:34          FIN: 19:42
+     DIA: MIERCOLES             INICIO: 11:12          FIN: 13:43
+
+40)  CODIGO: MAT251      HORARIO: H0291       No. Alumnos: 42     PROFESOR: 20043496
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 16:34          FIN: 17:45
+     DIA: MIERCOLES             INICIO: 19:45          FIN: 20:29
+     DIA: DOMINGO               INICIO: 18:18          FIN: 19:17
+
+41)  CODIGO: QUI205      HORARIO: H0306       No. Alumnos: 41     PROFESOR: 20085379
+     SESIONES:
+     DIA: DOMINGO               INICIO: 14:13          FIN: 15:47
+     DIA: SABADO                INICIO: 11:40          FIN: 12:39
+     DIA: MARTES                INICIO: 15:57          FIN: 16:41
+
+42)  CODIGO: MIN227      HORARIO: H0543       No. Alumnos: 43     PROFESOR: 20143595
+     SESIONES:
+     DIA: SABADO                INICIO: 16:50          FIN: 18:58
+
+43)  CODIGO: IND362      HORARIO: H0381       No. Alumnos: 52     PROFESOR: 20065382
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 13:43          FIN: 16:04
+
+44)  CODIGO: MEC346      HORARIO: H0728       No. Alumnos: 52     PROFESOR: 20054935
+     SESIONES:
+     DIA: DOMINGO               INICIO: 15:05          FIN: 18:03
+
+45)  CODIGO: MEC348      HORARIO: H0467       No. Alumnos: 17     PROFESOR: 20125340
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 19:28          FIN: 21:05
+     DIA: DOMINGO               INICIO: 10:44          FIN: 12:43
+     DIA: JUEVES                INICIO: 09:15          FIN: 12:06
+
+46)  CODIGO: MIN260      HORARIO: H0320       No. Alumnos: 37     PROFESOR: 20125340
+     SESIONES:
+     DIA: VIERNES               INICIO: 11:56          FIN: 13:36
+     DIA: MARTES                INICIO: 14:38          FIN: 16:25
+     DIA: VIERNES               INICIO: 14:35          FIN: 15:21
+
+47)  CODIGO: INF245      HORARIO: H0494       No. Alumnos: 38     PROFESOR: 20085379
+     SESIONES:
+     DIA: VIERNES               INICIO: 09:28          FIN: 12:12
+
+48)  CODIGO: MEC206      HORARIO: H0492       No. Alumnos: 37     PROFESOR: 20155258
+     SESIONES:
+     DIA: JUEVES                INICIO: 15:50          FIN: 16:42
+     DIA: DOMINGO               INICIO: 16:58          FIN: 19:34
+     DIA: MARTES                INICIO: 08:35          FIN: 11:12
+
+49)  CODIGO: INF239      HORARIO: H0601       No. Alumnos: 30     PROFESOR: 20043496
+     SESIONES:
+     DIA: DOMINGO               INICIO: 13:09          FIN: 16:04
+     DIA: SABADO                INICIO: 08:28          FIN: 10:08
+     DIA: MIERCOLES             INICIO: 15:00          FIN: 15:58
+
+50)  CODIGO: INF630      HORARIO: H0255       No. Alumnos: 15     PROFESOR: 20054935
+     SESIONES:
+     DIA: JUEVES                INICIO: 12:03          FIN: 13:55
+     DIA: MIERCOLES             INICIO: 19:51          FIN: 22:24
+
+51)  CODIGO: MAT218      HORARIO: H0195       No. Alumnos: 51     PROFESOR: 20075062
+     SESIONES:
+     DIA: SABADO                INICIO: 14:37          FIN: 17:02
+     DIA: DOMINGO               INICIO: 13:55          FIN: 15:19
+     DIA: SABADO                INICIO: 13:12          FIN: 14:18
+
+52)  CODIGO: IEE212      HORARIO: H0883       No. Alumnos: 38     PROFESOR: 20065382
+     SESIONES:
+     DIA: DOMINGO               INICIO: 13:37          FIN: 14:25
+
+53)  CODIGO: IND221      HORARIO: H0734       No. Alumnos: 47     PROFESOR: 20072765
+     SESIONES:
+     DIA: JUEVES                INICIO: 16:19          FIN: 19:15
+
+54)  CODIGO: IEE203      HORARIO: H0639       No. Alumnos: 46     PROFESOR: 20054935
+     SESIONES:
+     DIA: MARTES                INICIO: 15:51          FIN: 16:50
+     DIA: VIERNES               INICIO: 12:00          FIN: 14:32
+     DIA: DOMINGO               INICIO: 19:31          FIN: 22:17
+
+55)  CODIGO: IEE313      HORARIO: H0761       No. Alumnos: 43     PROFESOR: 20042194
+     SESIONES:
+     DIA: VIERNES               INICIO: 15:45          FIN: 16:21
+     DIA: MARTES                INICIO: 16:56          FIN: 19:18
+     DIA: DOMINGO               INICIO: 13:04          FIN: 15:05
+
+56)  CODIGO: INF265      HORARIO: H0363       No. Alumnos: 24     PROFESOR: 20065927
+     SESIONES:
+     DIA: MARTES                INICIO: 18:48          FIN: 21:01
+     DIA: SABADO                INICIO: 18:53          FIN: 20:33
+     DIA: MIERCOLES             INICIO: 09:04          FIN: 10:06
+
+57)  CODIGO: MAT253      HORARIO: H0737       No. Alumnos: 27     PROFESOR: 20069086
+     SESIONES:
+     DIA: JUEVES                INICIO: 14:26          FIN: 15:04
+     DIA: DOMINGO               INICIO: 12:10          FIN: 13:42
+     DIA: DOMINGO               INICIO: 17:33          FIN: 19:31
+
+58)  CODIGO: MAT251      HORARIO: H0165       No. Alumnos: 55     PROFESOR: 20043496
+     SESIONES:
+     DIA: DOMINGO               INICIO: 08:01          FIN: 10:27
+     DIA: DOMINGO               INICIO: 12:16          FIN: 13:19
+     DIA: JUEVES                INICIO: 17:50          FIN: 20:29
+     DIA: SABADO                INICIO: 15:49          FIN: 16:35
+
+59)  CODIGO: MIN260      HORARIO: H0865       No. Alumnos: 56     PROFESOR: 20156713
+     SESIONES:
+     DIA: VIERNES               INICIO: 18:22          FIN: 19:30
+     DIA: DOMINGO               INICIO: 08:28          FIN: 10:15
+     DIA: DOMINGO               INICIO: 08:27          FIN: 11:16
+
+60)  CODIGO: MAT251      HORARIO: H0916       No. Alumnos: 15     PROFESOR: 20155258
+     SESIONES:
+     DIA: VIERNES               INICIO: 17:30          FIN: 18:26
+     DIA: MIERCOLES             INICIO: 17:27          FIN: 18:35
+
+61)  CODIGO: CIV308      HORARIO: H0636       No. Alumnos: 51     PROFESOR: 20065927
+     SESIONES:
+     DIA: VIERNES               INICIO: 11:25          FIN: 12:38
+
+62)  CODIGO: QUI204      HORARIO: H0984       No. Alumnos: 35     PROFESOR: 20046083
+     SESIONES:
+     DIA: JUEVES                INICIO: 19:10          FIN: 20:18
+     DIA: MIERCOLES             INICIO: 12:55          FIN: 14:58
+
+63)  CODIGO: FIS308      HORARIO: H0885       No. Alumnos: 60     PROFESOR: 20065382
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 18:05          FIN: 20:38
+     DIA: JUEVES                INICIO: 11:53          FIN: 13:55
+     DIA: MARTES                INICIO: 17:53          FIN: 19:26
+
+64)  CODIGO: MIN227      HORARIO: H0565       No. Alumnos: 52     PROFESOR: 20046083
+     SESIONES:
+     DIA: SABADO                INICIO: 19:11          FIN: 21:30
+
+65)  CODIGO: MAT253      HORARIO: H0476       No. Alumnos: 52     PROFESOR: 20125340
+     SESIONES:
+     DIA: VIERNES               INICIO: 10:11          FIN: 10:50
+     DIA: SABADO                INICIO: 16:11          FIN: 17:09
+
+66)  CODIGO: CIV307      HORARIO: H0692       No. Alumnos: 36     PROFESOR: 20080607
+     SESIONES:
+     DIA: VIERNES               INICIO: 13:42          FIN: 15:29
+     DIA: MARTES                INICIO: 13:22          FIN: 14:27
+     DIA: VIERNES               INICIO: 10:16          FIN: 11:29
+
+67)  CODIGO: IEE203      HORARIO: H0954       No. Alumnos: 60     PROFESOR: 20046083
+     SESIONES:
+     DIA: VIERNES               INICIO: 13:18          FIN: 16:01
+     DIA: VIERNES               INICIO: 19:47          FIN: 22:02
+     DIA: MIERCOLES             INICIO: 10:36          FIN: 12:55
+
+68)  CODIGO: MEC348      HORARIO: H0444       No. Alumnos: 54     PROFESOR: 20069086
+     SESIONES:
+     DIA: MARTES                INICIO: 11:38          FIN: 14:25
+
+69)  CODIGO: IND350      HORARIO: H0982       No. Alumnos: 25     PROFESOR: 20065927
+     SESIONES:
+     DIA: VIERNES               INICIO: 15:58          FIN: 17:30
+     DIA: JUEVES                INICIO: 12:43          FIN: 14:27
+     DIA: MARTES                INICIO: 08:17          FIN: 10:13
+     DIA: MARTES                INICIO: 08:32          FIN: 10:27
+
+70)  CODIGO: FIS366      HORARIO: H0194       No. Alumnos: 40     PROFESOR: 20079075
+     SESIONES:
+     DIA: JUEVES                INICIO: 19:37          FIN: 22:06
+     DIA: JUEVES                INICIO: 18:00          FIN: 19:26
+     DIA: JUEVES                INICIO: 14:01          FIN: 16:09
+     DIA: DOMINGO               INICIO: 18:31          FIN: 21:23
+
+71)  CODIGO: INF265      HORARIO: H0778       No. Alumnos: 16     PROFESOR: 20065927
+     SESIONES:
+     DIA: DOMINGO               INICIO: 15:00          FIN: 17:52
+     DIA: VIERNES               INICIO: 17:53          FIN: 19:39
+
+72)  CODIGO: IEE313      HORARIO: H0499       No. Alumnos: 28     PROFESOR: 20127835
+     SESIONES:
+     DIA: MARTES                INICIO: 09:34          FIN: 10:59
+     DIA: SABADO                INICIO: 16:55          FIN: 18:58
+     DIA: SABADO                INICIO: 18:32          FIN: 20:04
+
+73)  CODIGO: INF265      HORARIO: H0167       No. Alumnos: 31     PROFESOR: 20143595
+     SESIONES:
+     DIA: SABADO                INICIO: 13:51          FIN: 15:45
+     DIA: SABADO                INICIO: 19:57          FIN: 22:27
+     DIA: JUEVES                INICIO: 13:34          FIN: 14:06
+     DIA: SABADO                INICIO: 14:16          FIN: 16:42
+
+74)  CODIGO: FIS366      HORARIO: H0796       No. Alumnos: 25     PROFESOR: 20156713
+     SESIONES:
+     DIA: SABADO                INICIO: 14:56          FIN: 16:23
+
+75)  CODIGO: INF639      HORARIO: H0834       No. Alumnos: 39     PROFESOR: 20125340
+     SESIONES:
+     DIA: DOMINGO               INICIO: 15:47          FIN: 17:25
+
+76)  CODIGO: CIV364      HORARIO: H0453       No. Alumnos: 15     PROFESOR: 20143595
+     SESIONES:
+     DIA: JUEVES                INICIO: 19:13          FIN: 20:45
+     DIA: DOMINGO               INICIO: 16:47          FIN: 19:37
+     DIA: JUEVES                INICIO: 19:42          FIN: 22:20
+     DIA: SABADO                INICIO: 09:42          FIN: 11:41
+
+77)  CODIGO: MEC346      HORARIO: H0145       No. Alumnos: 21     PROFESOR: 20142807
+     SESIONES:
+     DIA: SABADO                INICIO: 12:01          FIN: 13:54
+     DIA: MIERCOLES             INICIO: 14:40          FIN: 16:39
+
+78)  CODIGO: INF630      HORARIO: H0182       No. Alumnos: 57     PROFESOR: 20079075
+     SESIONES:
+     DIA: VIERNES               INICIO: 16:21          FIN: 17:12
+     DIA: MARTES                INICIO: 14:06          FIN: 16:04
+
+79)  CODIGO: IND362      HORARIO: H0409       No. Alumnos: 47     PROFESOR: 20042194
+     SESIONES:
+     DIA: DOMINGO               INICIO: 19:32          FIN: 21:37
+     DIA: MIERCOLES             INICIO: 18:16          FIN: 20:38
+
+80)  CODIGO: IND361      HORARIO: H0561       No. Alumnos: 22     PROFESOR: 20042194
+     SESIONES:
+     DIA: JUEVES                INICIO: 09:54          FIN: 10:41
+
+81)  CODIGO: MEC299      HORARIO: H0568       No. Alumnos: 41     PROFESOR: 20043496
+     SESIONES:
+     DIA: DOMINGO               INICIO: 15:25          FIN: 17:40
+
+82)  CODIGO: INF630      HORARIO: H0818       No. Alumnos: 29     PROFESOR: 20079075
+     SESIONES:
+     DIA: VIERNES               INICIO: 13:56          FIN: 16:18
+     DIA: SABADO                INICIO: 17:45          FIN: 20:07
+
+83)  CODIGO: INF281      HORARIO: H0996       No. Alumnos: 19     PROFESOR: 20054935
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 11:23          FIN: 12:57
+     DIA: MIERCOLES             INICIO: 19:00          FIN: 19:30
+     DIA: VIERNES               INICIO: 10:30          FIN: 12:05
+
+84)  CODIGO: MIN227      HORARIO: H0344       No. Alumnos: 59     PROFESOR: 20127835
+     SESIONES:
+     DIA: MARTES                INICIO: 13:50          FIN: 16:09
+
+85)  CODIGO: QUI207      HORARIO: H0995       No. Alumnos: 29     PROFESOR: 20079075
+     SESIONES:
+     DIA: DOMINGO               INICIO: 19:07          FIN: 21:18
+     DIA: MIERCOLES             INICIO: 09:03          FIN: 09:45
+
+86)  CODIGO: IEE213      HORARIO: H0964       No. Alumnos: 56     PROFESOR: 20143595
+     SESIONES:
+     DIA: MARTES                INICIO: 13:42          FIN: 15:43
+     DIA: MARTES                INICIO: 16:28          FIN: 17:55
+
+87)  CODIGO: MIN269      HORARIO: H0673       No. Alumnos: 51     PROFESOR: 20081057
+     SESIONES:
+     DIA: MARTES                INICIO: 15:28          FIN: 16:42
+     DIA: VIERNES               INICIO: 10:23          FIN: 11:02
+     DIA: JUEVES                INICIO: 13:03          FIN: 15:44
+
+88)  CODIGO: FIS366      HORARIO: H0717       No. Alumnos: 16     PROFESOR: 20143595
+     SESIONES:
+     DIA: MARTES                INICIO: 09:44          FIN: 11:49
+     DIA: JUEVES                INICIO: 11:48          FIN: 12:27
+
+89)  CODIGO: CIV313      HORARIO: H0343       No. Alumnos: 18     PROFESOR: 20043496
+     SESIONES:
+     DIA: JUEVES                INICIO: 10:04          FIN: 11:59
+
+90)  CODIGO: IEE212      HORARIO: H0422       No. Alumnos: 45     PROFESOR: 20042194
+     SESIONES:
+     DIA: DOMINGO               INICIO: 10:48          FIN: 12:41
+     DIA: SABADO                INICIO: 13:52          FIN: 16:38
+
+91)  CODIGO: IND350      HORARIO: H0624       No. Alumnos: 32     PROFESOR: 20120085
+     SESIONES:
+     DIA: JUEVES                INICIO: 19:20          FIN: 20:53
+
+92)  CODIGO: QUI204      HORARIO: H0265       No. Alumnos: 53     PROFESOR: 20125340
+     SESIONES:
+     DIA: VIERNES               INICIO: 10:06          FIN: 10:48
+
+93)  CODIGO: IEE313      HORARIO: H0990       No. Alumnos: 30     PROFESOR: 20043619
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 08:00          FIN: 08:47
+     DIA: DOMINGO               INICIO: 16:13          FIN: 17:10
+
+94)  CODIGO: MEC206      HORARIO: H0527       No. Alumnos: 46     PROFESOR: 20046083
+     SESIONES:
+     DIA: JUEVES                INICIO: 18:42          FIN: 19:36
+
+95)  CODIGO: IND350      HORARIO: H0650       No. Alumnos: 51     PROFESOR: 20125340
+     SESIONES:
+     DIA: SABADO                INICIO: 14:50          FIN: 17:41
+
+96)  CODIGO: INF245      HORARIO: H0523       No. Alumnos: 46     PROFESOR: 20079075
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 10:20          FIN: 12:29
+     DIA: MARTES                INICIO: 19:05          FIN: 20:38
+     DIA: DOMINGO               INICIO: 11:37          FIN: 13:45
+
+97)  CODIGO: IND213      HORARIO: H0243       No. Alumnos: 44     PROFESOR: 20125340
+     SESIONES:
+     DIA: SABADO                INICIO: 09:40          FIN: 11:53
+     DIA: VIERNES               INICIO: 08:32          FIN: 10:13
+
+98)  CODIGO: FIS335      HORARIO: H0951       No. Alumnos: 52     PROFESOR: 20065382
+     SESIONES:
+     DIA: DOMINGO               INICIO: 14:04          FIN: 16:55
+     DIA: MIERCOLES             INICIO: 10:20          FIN: 11:02
+
+99)  CODIGO: IEE203      HORARIO: H0837       No. Alumnos: 41     PROFESOR: 20042194
+     SESIONES:
+     DIA: SABADO                INICIO: 10:39          FIN: 13:30
+     DIA: MIERCOLES             INICIO: 19:16          FIN: 19:49
+
+100)  CODIGO: IND350      HORARIO: H0116       No. Alumnos: 47     PROFESOR: 20125340
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 18:57          FIN: 19:45
+     DIA: VIERNES               INICIO: 16:51          FIN: 18:27
+
+101)  CODIGO: MAT218      HORARIO: H0992       No. Alumnos: 55     PROFESOR: 20080607
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 13:41          FIN: 16:01
+     DIA: JUEVES                INICIO: 18:13          FIN: 19:19
+     DIA: JUEVES                INICIO: 14:05          FIN: 16:29
+     DIA: DOMINGO               INICIO: 10:43          FIN: 13:41
+
+102)  CODIGO: FIS335      HORARIO: H0542       No. Alumnos: 43     PROFESOR: 20142807
+     SESIONES:
+     DIA: DOMINGO               INICIO: 17:46          FIN: 20:15
+     DIA: SABADO                INICIO: 16:07          FIN: 18:46
+
+103)  CODIGO: MIN260      HORARIO: H0479       No. Alumnos: 53     PROFESOR: 20043496
+     SESIONES:
+     DIA: DOMINGO               INICIO: 11:48          FIN: 13:17
+     DIA: MIERCOLES             INICIO: 10:46          FIN: 13:28
+     DIA: MARTES                INICIO: 14:33          FIN: 16:12
+
+104)  CODIGO: QUI204      HORARIO: H0332       No. Alumnos: 41     PROFESOR: 20054935
+     SESIONES:
+     DIA: MARTES                INICIO: 19:45          FIN: 21:31
+     DIA: JUEVES                INICIO: 12:46          FIN: 13:40
+     DIA: SABADO                INICIO: 11:01          FIN: 12:44
+
+105)  CODIGO: MIN266      HORARIO: H0750       No. Alumnos: 41     PROFESOR: 20085379
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 12:14          FIN: 14:49
+     DIA: MARTES                INICIO: 13:31          FIN: 14:50
+     DIA: SABADO                INICIO: 18:54          FIN: 21:48
+
+106)  CODIGO: IEE213      HORARIO: H0567       No. Alumnos: 23     PROFESOR: 20135792
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 16:03          FIN: 16:39
+
+107)  CODIGO: INF639      HORARIO: H0236       No. Alumnos: 49     PROFESOR: 20043496
+     SESIONES:
+     DIA: DOMINGO               INICIO: 17:11          FIN: 17:50
+     DIA: MIERCOLES             INICIO: 16:52          FIN: 18:52
+     DIA: MARTES                INICIO: 10:33          FIN: 11:58
+
+108)  CODIGO: CIV364      HORARIO: H0194       No. Alumnos: 50     PROFESOR: 20135792
+     SESIONES:
+     DIA: SABADO                INICIO: 15:04          FIN: 17:43
+     DIA: VIERNES               INICIO: 18:44          FIN: 20:52
+     DIA: MIERCOLES             INICIO: 17:53          FIN: 19:40
+     DIA: MIERCOLES             INICIO: 11:14          FIN: 11:44
+
+109)  CODIGO: MIN269      HORARIO: H0311       No. Alumnos: 34     PROFESOR: 20043619
+     SESIONES:
+     DIA: SABADO                INICIO: 13:48          FIN: 16:26
+
+110)  CODIGO: MIN227      HORARIO: H0786       No. Alumnos: 24     PROFESOR: 20080607
+     SESIONES:
+     DIA: MIERCOLES             INICIO: 15:23          FIN: 16:40
+     DIA: MARTES                INICIO: 18:23          FIN: 20:02
+     DIA: JUEVES                INICIO: 14:42          FIN: 16:02
+
